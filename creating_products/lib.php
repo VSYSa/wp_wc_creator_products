@@ -354,7 +354,7 @@ function pars_electra(&$url,&$html){
         $category = $html->find('nav.catalog-menu-block li.selected',0)->plaintext;
         $title= $html->find('div.main-inner h1',0)->innertext;
         $image_url= $html->find('div.prw-block img',0)->attr['src'];
-$image_url='localhost/upload/electra/'.(array_pop(preg_split("/\//", $image_url)));
+$image_url='https://mnogosveta.su/upload/electra/'.(array_pop(preg_split("/\//", $image_url)));
         error_check_image_url($image_url,$url);
         $base_color=NULL;
         $plafond_color=NULL;
