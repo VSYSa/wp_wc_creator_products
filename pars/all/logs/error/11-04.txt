@@ -1,0 +1,43 @@
+01:14:54распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:15:00распарсили свою страницу http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1122568/
+01:15:07распарсили свою страницу http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126315/
+01:15:14распарсили свою страницу http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126319/
+01:15:19распарсили свою страницу http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1382057/
+01:15:25распарсили свою страницу http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126322/
+01:15:31распарсили свою страницу http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1376542/
+01:25:20распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:25:27распарсили свою страницу http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1122568/
+01:25:33распарсили свою страницу http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126315/
+01:25:39распарсили свою страницу http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126319/
+01:25:45распарсили свою страницу http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1382057/
+01:25:50распарсили свою страницу http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126322/
+01:25:58распарсили свою страницу http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1376542/
+01:31:29распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:31:38распарсили свою страницу http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1122568/
+01:31:48распарсили свою страницу http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126315/
+01:31:57распарсили свою страницу http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126319/
+01:31:59распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:32:07распарсили свою страницу http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1382057/
+01:32:12распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:32:14распарсили свою страницу http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126322/
+01:32:19распарсили свою страницу http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1376542/
+01:33:03в 1 пачек товаров нет позиций
+01:33:05в 2 пачек товаров нет позиций
+01:33:06в 3 пачек товаров нет позиций
+01:33:09в 4 пачек товаров нет позиций
+01:33:12в 5 пачек товаров нет позиций
+01:33:14в 6 пачек товаров нет позиций
+01:33:16в 7 пачек товаров нет позиций
+01:33:18в 8 пачек товаров нет позиций
+01:33:19в 9 пачек товаров нет позиций
+01:33:21в 10 пачек товаров нет позиций
+01:33:24в 11 пачек товаров нет позиций
+01:33:26в 12 пачек товаров нет позиций
+01:33:28в 13 пачек товаров нет позиций
+01:33:31в 14 пачек товаров нет позиций
+01:33:34в 15 пачек товаров нет позиций
+01:33:37в 16 пачек товаров нет позиций
+01:33:38в 17 пачек товаров нет позиций
+01:33:40в 18 пачек товаров нет позиций
+01:33:42в 19 пачек товаров нет позиций
+02:01:03распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj-2/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/

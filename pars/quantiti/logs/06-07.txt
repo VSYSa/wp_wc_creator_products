@@ -1,0 +1,375 @@
+22:12:10Запуск программы.
+22:12:10Авторизировали API.
+22:12:57Запуск программы.
+22:12:57Авторизировали API.
+22:13:58Запуск программы.
+22:13:58Авторизировали API.
+22:15:24Запуск программы.
+22:15:24Авторизировали API.
+22:15:58Запуск программы.
+22:15:58Авторизировали API.
+22:19:49Запуск программы.
+22:19:49Авторизировали API.
+22:19:49----------парсим 0 пачку товаров.
+22:20:17получили список товаров.
+22:20:17принудительное окончание обновления
+22:20:41Запуск программы.
+22:20:41Авторизировали API.
+22:20:41----------парсим 0 пачку товаров.
+22:21:02получили список товаров.
+22:21:02------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+22:21:02получили товар: http://test.mnogosveta.su/product/719-1-svetilnik-potolochnyj/
+22:21:02начали парсинг
+22:21:02Запуск парсинга своей страницы
+22:21:03парсили http://test.mnogosveta.su/product/719-1-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1088283/
+22:21:03готовимся к авторизации
+22:21:03авторизировались
+22:21:05------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+22:21:05получили товар: http://test.mnogosveta.su/product/6752-6-led-s-dist-vykl-svetilnik-potolochnyj/
+22:21:05начали парсинг
+22:21:05Запуск парсинга своей страницы
+22:21:06парсили http://test.mnogosveta.su/product/6752-6-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1103083/
+22:21:06готовимся к авторизации
+22:21:06авторизировались
+22:21:07------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+22:21:07получили товар: http://test.mnogosveta.su/product/763-6r-svetilnik-potolochnyj/
+22:21:07начали парсинг
+22:21:07Запуск парсинга своей страницы
+22:21:09парсили http://test.mnogosveta.su/product/763-6r-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106913/
+22:21:09готовимся к авторизации
+22:21:09авторизировались
+22:21:10------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+22:21:10получили товар: http://test.mnogosveta.su/product/711-1-svetilnik-potolochnyj/
+22:21:10начали парсинг
+22:21:10Запуск парсинга своей страницы
+22:21:11парсили http://test.mnogosveta.su/product/711-1-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1088284/
+22:21:11готовимся к авторизации
+22:21:11авторизировались
+22:21:12------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+22:21:12получили товар: http://test.mnogosveta.su/product/6738-6-svetilnik-potolochnyj/
+22:21:12начали парсинг
+22:21:12Запуск парсинга своей страницы
+22:21:13парсили http://test.mnogosveta.su/product/6738-6-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1098441/
+22:21:13готовимся к авторизации
+22:21:13авторизировались
+22:21:14------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+22:21:14получили товар: http://test.mnogosveta.su/product/739-9m-led-s-dist-vykl-svetilnik-potolochnyj/
+22:21:14начали парсинг
+22:21:14Запуск парсинга своей страницы
+22:21:15парсили http://test.mnogosveta.su/product/739-9m-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1103071/
+22:21:15готовимся к авторизации
+22:21:15авторизировались
+22:21:17------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+22:21:17получили товар: http://test.mnogosveta.su/product/050-3-led-svetilnik-potolochnyj/
+22:21:17начали парсинг
+22:21:17Запуск парсинга своей страницы
+22:21:18парсили http://test.mnogosveta.su/product/050-3-led-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1105341/
+22:21:18готовимся к авторизации
+22:21:18авторизировались
+22:21:19------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+22:21:19получили товар: http://test.mnogosveta.su/product/3589-12-g4-led-s-dist-vykl-svetilnik-potolochnyj/
+22:21:19начали парсинг
+22:21:19Запуск парсинга своей страницы
+22:21:20парсили http://test.mnogosveta.su/product/3589-12-g4-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1103086/
+22:21:20готовимся к авторизации
+22:21:20авторизировались
+22:21:22------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+22:21:22получили товар: http://test.mnogosveta.su/product/725-12m-led-wt-bl-svetilnik-potolochnyj/
+22:21:22начали парсинг
+22:21:22Запуск парсинга своей страницы
+22:21:23парсили http://test.mnogosveta.su/product/725-12m-led-wt-bl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106930/
+22:21:23готовимся к авторизации
+22:21:23авторизировались
+22:21:24------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+22:21:24получили товар: http://test.mnogosveta.su/product/6761-6-led-wt-bl-svetilnik-potolochnyj/
+22:21:24начали парсинг
+22:21:24Запуск парсинга своей страницы
+22:21:25парсили http://test.mnogosveta.su/product/6761-6-led-wt-bl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106927/
+22:21:25готовимся к авторизации
+22:21:25авторизировались
+22:21:26------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+22:21:26получили товар: http://test.mnogosveta.su/product/0576-8c-cr-led-g4-s-dist-vykl-svetilnik-potolochnyj/
+22:21:26начали парсинг
+22:21:26Запуск парсинга своей страницы
+22:21:27парсили http://test.mnogosveta.su/product/0576-8c-cr-led-g4-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1105068/
+22:21:27готовимся к авторизации
+22:21:27авторизировались
+22:21:29------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+22:21:29получили товар: http://test.mnogosveta.su/product/681-21m-20m-g4-led-s-dist-vykl-svetilnik-potolochnyj/
+22:21:29начали парсинг
+22:21:29Запуск парсинга своей страницы
+22:21:30парсили http://test.mnogosveta.su/product/681-21m-20m-g4-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1103069/
+22:21:30готовимся к авторизации
+22:21:30авторизировались
+22:21:31------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+22:21:31получили товар: http://test.mnogosveta.su/product/91031-16b-top-k9-chinese-crystal-svetilnik-potolochnyj/
+22:21:31начали парсинг
+22:21:31Запуск парсинга своей страницы
+22:21:32парсили http://test.mnogosveta.su/product/91031-16b-top-k9-chinese-crystal-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111513/
+22:21:32готовимся к авторизации
+22:21:32авторизировались
+22:21:33------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+22:21:33получили товар: http://test.mnogosveta.su/product/6681-72-led-svetilnik-potolochnyj/
+22:21:33начали парсинг
+22:21:33Запуск парсинга своей страницы
+22:21:35парсили http://test.mnogosveta.su/product/6681-72-led-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111559/
+22:21:35готовимся к авторизации
+22:21:35авторизировались
+22:21:36------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+22:21:36получили товар: http://test.mnogosveta.su/product/1038-32b-top-k9-chinese-crystal-svetilnik-potolochnyj/
+22:21:36начали парсинг
+22:21:36Запуск парсинга своей страницы
+22:21:37парсили http://test.mnogosveta.su/product/1038-32b-top-k9-chinese-crystal-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111507/
+22:21:37готовимся к авторизации
+22:21:37авторизировались
+22:21:38------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+22:21:38получили товар: http://test.mnogosveta.su/product/7427-54-led-svetilnik-potolochnyj/
+22:21:38начали парсинг
+22:21:38Запуск парсинга своей страницы
+22:21:39парсили http://test.mnogosveta.su/product/7427-54-led-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111561/
+22:21:39готовимся к авторизации
+22:21:39авторизировались
+22:21:41------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+22:21:41получили товар: http://test.mnogosveta.su/product/16551-800ac-g4-29x20w-svetilnik-potolochnyj/
+22:21:41начали парсинг
+22:21:41Запуск парсинга своей страницы
+22:21:42парсили http://test.mnogosveta.su/product/16551-800ac-g4-29x20w-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111498/
+22:21:42готовимся к авторизации
+22:21:42авторизировались
+22:21:43------------------------ Начало парсинга продукта с индексом: 17 ------------------------
+22:21:43получили товар: http://test.mnogosveta.su/product/2002-12b-md-top-k9-chinese-crystal-svetilnik-potolochnyj/
+22:21:43начали парсинг
+22:21:43Запуск парсинга своей страницы
+22:21:44парсили http://test.mnogosveta.su/product/2002-12b-md-top-k9-chinese-crystal-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111590/
+22:21:44готовимся к авторизации
+22:21:44авторизировались
+22:21:46------------------------ Начало парсинга продукта с индексом: 18 ------------------------
+22:21:46получили товар: http://test.mnogosveta.su/product/2002-36b-top-k9-chinese-crystal-svetilnik-potolochnyj/
+22:21:46начали парсинг
+22:21:46Запуск парсинга своей страницы
+22:21:47парсили http://test.mnogosveta.su/product/2002-36b-top-k9-chinese-crystal-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1111520/
+22:21:47готовимся к авторизации
+22:21:47авторизировались
+22:21:48------------------------ Начало парсинга продукта с индексом: 19 ------------------------
+22:21:48получили товар: http://test.mnogosveta.su/product/32057-7c-svetilnik-potolochnyj/
+22:21:48начали парсинг
+22:21:48Запуск парсинга своей страницы
+22:21:49парсили http://test.mnogosveta.su/product/32057-7c-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1105067/
+22:21:49готовимся к авторизации
+22:21:49авторизировались
+22:21:51------------------------ Начало парсинга продукта с индексом: 20 ------------------------
+22:21:51получили товар: http://test.mnogosveta.su/product/31071-5-4c-svetilnik-potolochnyj/
+22:21:51начали парсинг
+22:21:51Запуск парсинга своей страницы
+22:21:52парсили http://test.mnogosveta.su/product/31071-5-4c-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1105055/
+22:21:52готовимся к авторизации
+22:21:52авторизировались
+22:21:53------------------------ Начало парсинга продукта с индексом: 21 ------------------------
+22:21:53получили товар: http://test.mnogosveta.su/product/83202-6-5c-cr-svetilnik-potolochnyj/
+22:21:53начали парсинг
+22:21:53Запуск парсинга своей страницы
+22:21:54парсили http://test.mnogosveta.su/product/83202-6-5c-cr-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1105066/
+22:21:54готовимся к авторизации
+22:21:54авторизировались
+22:21:55------------------------ Начало парсинга продукта с индексом: 22 ------------------------
+22:21:55получили товар: http://test.mnogosveta.su/product/9255-5-svetilnik-potolochnyj/
+22:21:55начали парсинг
+22:21:55Запуск парсинга своей страницы
+22:21:56парсили http://test.mnogosveta.su/product/9255-5-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1108079/
+22:21:56готовимся к авторизации
+22:21:56авторизировались
+22:21:58------------------------ Начало парсинга продукта с индексом: 23 ------------------------
+22:21:58получили товар: http://test.mnogosveta.su/product/7205-4h-led-svetilnik-potolochnyj/
+22:21:58начали парсинг
+22:21:58Запуск парсинга своей страницы
+22:21:59парсили http://test.mnogosveta.su/product/7205-4h-led-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106935/
+22:21:59готовимся к авторизации
+22:21:59авторизировались
+22:22:00------------------------ Начало парсинга продукта с индексом: 24 ------------------------
+22:22:00получили товар: http://test.mnogosveta.su/product/3586-11-g4-led-s-dist-vykl-svetilnik-potolochnyj/
+22:22:00начали парсинг
+22:22:00Запуск парсинга своей страницы
+22:22:01парсили http://test.mnogosveta.su/product/3586-11-g4-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1103088/
+22:22:01готовимся к авторизации
+22:22:01авторизировались
+22:22:03------------------------ Начало парсинга продукта с индексом: 25 ------------------------
+22:22:03получили товар: http://test.mnogosveta.su/product/6799-6-led-wt-pp-svetilnik-potolochnyj/
+22:22:03начали парсинг
+22:22:03Запуск парсинга своей страницы
+22:22:04парсили http://test.mnogosveta.su/product/6799-6-led-wt-pp-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106926/
+22:22:04готовимся к авторизации
+22:22:04авторизировались
+22:22:05------------------------ Начало парсинга продукта с индексом: 26 ------------------------
+22:22:05получили товар: http://test.mnogosveta.su/product/7205-3h-led-svetilnik-potolochnyj/
+22:22:05начали парсинг
+22:22:05Запуск парсинга своей страницы
+22:22:06парсили http://test.mnogosveta.su/product/7205-3h-led-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106934/
+22:22:06готовимся к авторизации
+22:22:06авторизировались
+22:22:08------------------------ Начало парсинга продукта с индексом: 27 ------------------------
+22:22:08получили товар: http://test.mnogosveta.su/product/8023-28-ds-g4-20x20w-svetilnik-potolochnyj/
+22:22:08начали парсинг
+22:22:08Запуск парсинга своей страницы
+22:22:09парсили http://test.mnogosveta.su/product/8023-28-ds-g4-20x20w-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112073/
+22:22:09готовимся к авторизации
+22:22:09авторизировались
+22:22:10------------------------ Начало парсинга продукта с индексом: 28 ------------------------
+22:22:10получили товар: http://test.mnogosveta.su/product/694-15m-svetilnik-potolochnyj/
+22:22:10начали парсинг
+22:22:10Запуск парсинга своей страницы
+22:22:11парсили http://test.mnogosveta.su/product/694-15m-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106958/
+22:22:11готовимся к авторизации
+22:22:11авторизировались
+22:22:13------------------------ Начало парсинга продукта с индексом: 29 ------------------------
+22:22:13получили товар: http://test.mnogosveta.su/product/694-25m-svetilnik-potolochnyj/
+22:22:13начали парсинг
+22:22:13Запуск парсинга своей страницы
+22:22:14парсили http://test.mnogosveta.su/product/694-25m-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106959/
+22:22:14готовимся к авторизации
+22:22:14авторизировались
+22:22:15------------------------ Начало парсинга продукта с индексом: 30 ------------------------
+22:22:15получили товар: http://test.mnogosveta.su/product/2048-3-led12w-svetilnik-potolochnyj/
+22:22:15начали парсинг
+22:22:15Запуск парсинга своей страницы
+22:22:16парсили http://test.mnogosveta.su/product/2048-3-led12w-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112065/
+22:22:16готовимся к авторизации
+22:22:16авторизировались
+22:22:17------------------------ Начало парсинга продукта с индексом: 31 ------------------------
+22:22:17получили товар: http://test.mnogosveta.su/product/8027-42-ds-led-42x1w-svetilnik-potolochnyj/
+22:22:17начали парсинг
+22:22:17Запуск парсинга своей страницы
+22:22:18парсили http://test.mnogosveta.su/product/8027-42-ds-led-42x1w-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112074/
+22:22:18готовимся к авторизации
+22:22:18авторизировались
+22:22:20------------------------ Начало парсинга продукта с индексом: 32 ------------------------
+22:22:20получили товар: http://test.mnogosveta.su/product/8029-42-ds-led-42x1w-svetilnik-potolochnyj/
+22:22:20начали парсинг
+22:22:20Запуск парсинга своей страницы
+22:22:21парсили http://test.mnogosveta.su/product/8029-42-ds-led-42x1w-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112075/
+22:22:21готовимся к авторизации
+22:22:21авторизировались
+22:22:22------------------------ Начало парсинга продукта с индексом: 33 ------------------------
+22:22:22получили товар: http://test.mnogosveta.su/product/56214-5a-g9-pb-svetilnik-potolochnyj/
+22:22:22начали парсинг
+22:22:22Запуск парсинга своей страницы
+22:22:23парсили http://test.mnogosveta.su/product/56214-5a-g9-pb-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1107897/
+22:22:23готовимся к авторизации
+22:22:23авторизировались
+22:22:25------------------------ Начало парсинга продукта с индексом: 34 ------------------------
+22:22:25получили товар: http://test.mnogosveta.su/product/8060-6-led-18x1w-svetilnik-potolochnyj/
+22:22:25начали парсинг
+22:22:25Запуск парсинга своей страницы
+22:22:26парсили http://test.mnogosveta.su/product/8060-6-led-18x1w-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112077/
+22:22:26готовимся к авторизации
+22:22:26авторизировались
+22:22:27------------------------ Начало парсинга продукта с индексом: 35 ------------------------
+22:22:27получили товар: http://test.mnogosveta.su/product/56218-6a-g9-cr-pb-svetilnik-potolochnyj/
+22:22:27начали парсинг
+22:22:27Запуск парсинга своей страницы
+22:22:29парсили http://test.mnogosveta.su/product/56218-6a-g9-cr-pb-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1107902/
+22:22:29готовимся к авторизации
+22:22:29авторизировались
+22:22:30------------------------ Начало парсинга продукта с индексом: 36 ------------------------
+22:22:30получили товар: http://test.mnogosveta.su/product/7520-27-bb-top-k9-chinese-crystal-svetilnik-potolochnyj/
+22:22:30начали парсинг
+22:22:30Запуск парсинга своей страницы
+22:22:31парсили http://test.mnogosveta.su/product/7520-27-bb-top-k9-chinese-crystal-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112182/
+22:22:31готовимся к авторизации
+22:22:31авторизировались
+22:22:33------------------------ Начало парсинга продукта с индексом: 37 ------------------------
+22:22:33получили товар: http://test.mnogosveta.su/product/7501-26-7510-top-k9-chinese-crystal-svetilnik-potolochnyj/
+22:22:33начали парсинг
+22:22:33Запуск парсинга своей страницы
+22:22:34парсили http://test.mnogosveta.su/product/7501-26-7510-top-k9-chinese-crystal-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112181/
+22:22:34готовимся к авторизации
+22:22:34авторизировались
+22:22:35------------------------ Начало парсинга продукта с индексом: 38 ------------------------
+22:22:35получили товар: http://test.mnogosveta.su/product/694-9m-svetilnik-potolochnyj/
+22:22:35начали парсинг
+22:22:35Запуск парсинга своей страницы
+22:22:36парсили http://test.mnogosveta.su/product/694-9m-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1106957/
+22:22:36готовимся к авторизации
+22:22:36авторизировались
+22:22:38------------------------ Начало парсинга продукта с индексом: 39 ------------------------
+22:22:38получили товар: http://test.mnogosveta.su/product/16577-1000ac-svetilnik-potolochnyj/
+22:22:38начали парсинг
+22:22:38Запуск парсинга своей страницы
+22:22:39парсили http://test.mnogosveta.su/product/16577-1000ac-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112551/
+22:22:39готовимся к авторизации
+22:22:39авторизировались
+22:22:40------------------------ Начало парсинга продукта с индексом: 40 ------------------------
+22:22:40получили товар: http://test.mnogosveta.su/product/8840-13-fgd-g4-s-pdu-svetilnik-potolochnyj/
+22:22:40начали парсинг
+22:22:40Запуск парсинга своей страницы
+22:22:42парсили http://test.mnogosveta.su/product/8840-13-fgd-g4-s-pdu-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1113516/
+22:22:42готовимся к авторизации
+22:22:42авторизировались
+22:22:43------------------------ Начало парсинга продукта с индексом: 41 ------------------------
+22:22:43получили товар: http://test.mnogosveta.su/product/8842-19-fgd-g4-s-dist-vykl-svetilnik-potolochnyj/
+22:22:43начали парсинг
+22:22:43Запуск парсинга своей страницы
+22:22:44парсили http://test.mnogosveta.su/product/8842-19-fgd-g4-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1113510/
+22:22:44готовимся к авторизации
+22:22:44авторизировались
+22:22:45------------------------ Начало парсинга продукта с индексом: 42 ------------------------
+22:22:45получили товар: http://test.mnogosveta.su/product/8788-13-cr-svetilnik-potolochnyj/
+22:22:45начали парсинг
+22:22:45Запуск парсинга своей страницы
+22:22:46парсили http://test.mnogosveta.su/product/8788-13-cr-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1096925/
+22:22:46готовимся к авторизации
+22:22:46авторизировались
+22:22:48------------------------ Начало парсинга продукта с индексом: 43 ------------------------
+22:22:48получили товар: http://test.mnogosveta.su/product/55319-19-svetilnik-potolochnyj/
+22:22:48начали парсинг
+22:22:48Запуск парсинга своей страницы
+22:22:49парсили http://test.mnogosveta.su/product/55319-19-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1112514/
+22:22:49готовимся к авторизации
+22:22:49авторизировались
+22:22:51------------------------ Начало парсинга продукта с индексом: 44 ------------------------
+22:22:51получили товар: http://test.mnogosveta.su/product/0024-3-1-wt-e27-mr11-led-rbp-pdu-svetilnik-potolochnyj/
+22:22:51начали парсинг
+22:22:51Запуск парсинга своей страницы
+22:22:52парсили http://test.mnogosveta.su/product/0024-3-1-wt-e27-mr11-led-rbp-pdu-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1120286/
+22:22:52готовимся к авторизации
+22:22:52авторизировались
+22:22:54------------------------ Начало парсинга продукта с индексом: 45 ------------------------
+22:22:54получили товар: http://test.mnogosveta.su/product/002-3-apn-g4-led-wt-pp-pdu-svetilnik-potolochnyj/
+22:22:54начали парсинг
+22:22:54Запуск парсинга своей страницы
+22:22:55парсили http://test.mnogosveta.su/product/002-3-apn-g4-led-wt-pp-pdu-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1120008/
+22:22:55готовимся к авторизации
+22:22:55авторизировались
+22:22:56------------------------ Начало парсинга продукта с индексом: 46 ------------------------
+22:22:56получили товар: http://test.mnogosveta.su/product/9766-10-e14-led-wt-pdu-svetilnik-potolochnyj/
+22:22:56начали парсинг
+22:22:56Запуск парсинга своей страницы
+22:22:57парсили http://test.mnogosveta.su/product/9766-10-e14-led-wt-pdu-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1115822/
+22:22:57готовимся к авторизации
+22:22:57авторизировались
+22:22:59------------------------ Начало парсинга продукта с индексом: 47 ------------------------
+22:22:59получили товар: http://test.mnogosveta.su/product/8804-19-cr-g4-s-dist-vykl-svetilnik-potolochnyj/
+22:22:59начали парсинг
+22:22:59Запуск парсинга своей страницы
+22:23:00парсили http://test.mnogosveta.su/product/8804-19-cr-g4-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1113534/
+22:23:00готовимся к авторизации
+22:23:00авторизировались
+22:23:01------------------------ Начало парсинга продукта с индексом: 48 ------------------------
+22:23:01получили товар: http://test.mnogosveta.su/product/98035-8c-rc-g4-led-s-dist-vykl-svetilnik-potolochnyj/
+22:23:01начали парсинг
+22:23:01Запуск парсинга своей страницы
+22:23:02парсили http://test.mnogosveta.su/product/98035-8c-rc-g4-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/101925/
+22:23:02готовимся к авторизации
+22:23:02авторизировались
+22:23:04------------------------ Начало парсинга продукта с индексом: 49 ------------------------
+22:23:04получили товар: http://test.mnogosveta.su/product/98035-8c-rc-cr-wt-g4-led-s-dist-vykl-svetilnik-potolochnyj/
+22:23:04начали парсинг
+22:23:04Запуск парсинга своей страницы
+22:23:05парсили http://test.mnogosveta.su/product/98035-8c-rc-cr-wt-g4-led-s-dist-vykl-svetilnik-potolochnyj/, получили http://electra.ru/catalog/Lyustry_galogennye_i_svetodiodnye/1096362/
+22:23:05готовимся к авторизации
+22:23:05авторизировались
+22:23:06принудительное окончание обновления
+22:46:32Запуск программы.
+22:46:32Авторизировали API.
+22:46:32----------парсим 0 пачку товаров.
+22:46:56получили список товаров.
+22:46:56принудительное окончание обновления

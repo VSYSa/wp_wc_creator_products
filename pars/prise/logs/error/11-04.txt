@@ -1,0 +1,54 @@
+01:04:42распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:04:46распарсили свою страницу http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1122568/
+01:04:46распарсили свою страницу http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1375554/
+01:04:51распарсили свою страницу http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1122568/
+01:04:51распарсили свою страницу http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126315/
+01:04:56распарсили свою страницу http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126319/
+01:04:56распарсили свою страницу http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126315/
+01:05:02распарсили свою страницу http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1382057/
+01:05:03распарсили свою страницу http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126319/
+01:05:08распарсили свою страницу http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126322/
+01:05:09распарсили свою страницу http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1382057/
+01:05:13распарсили свою страницу http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1376542/
+01:05:14распарсили свою страницу http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1126322/
+01:05:20распарсили свою страницу http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, но не смогли распарсить страницу товара http://electra.ru/catalog/DISKONT/1376542/
+01:20:40в 1 пачек товаров нет позиций
+01:20:42в 2 пачек товаров нет позиций
+01:20:43в 1 пачек товаров нет позиций
+01:20:45в 3 пачек товаров нет позиций
+01:20:47в 2 пачек товаров нет позиций
+01:20:49в 4 пачек товаров нет позиций
+01:20:50в 3 пачек товаров нет позиций
+01:20:51в 5 пачек товаров нет позиций
+01:20:52в 4 пачек товаров нет позиций
+01:20:54в 6 пачек товаров нет позиций
+01:20:55в 5 пачек товаров нет позиций
+01:20:57в 7 пачек товаров нет позиций
+01:20:57в 6 пачек товаров нет позиций
+01:20:58в 8 пачек товаров нет позиций
+01:20:59в 7 пачек товаров нет позиций
+01:21:00в 9 пачек товаров нет позиций
+01:21:02в 8 пачек товаров нет позиций
+01:21:02в 10 пачек товаров нет позиций
+01:21:03в 9 пачек товаров нет позиций
+01:21:05в 11 пачек товаров нет позиций
+01:21:06в 10 пачек товаров нет позиций
+01:21:08в 12 пачек товаров нет позиций
+01:21:09в 11 пачек товаров нет позиций
+01:21:11в 13 пачек товаров нет позиций
+01:21:13в 12 пачек товаров нет позиций
+01:21:13в 14 пачек товаров нет позиций
+01:21:15в 13 пачек товаров нет позиций
+01:21:16в 15 пачек товаров нет позиций
+01:21:17в 14 пачек товаров нет позиций
+01:21:18в 16 пачек товаров нет позиций
+01:21:19в 15 пачек товаров нет позиций
+01:21:21в 17 пачек товаров нет позиций
+01:21:22в 16 пачек товаров нет позиций
+01:21:23в 18 пачек товаров нет позиций
+01:21:25в 17 пачек товаров нет позиций
+01:21:25в 19 пачек товаров нет позиций
+01:21:27в 18 пачек товаров нет позиций
+01:21:28в 19 пачек товаров нет позиций
+02:32:33не смогли распарсить свою страницу http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-eurosvet-90020-8-hrom/
+02:32:38не смогли распарсить свою страницу http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-ideal-lux-smarties-bianco-pl1-d33/

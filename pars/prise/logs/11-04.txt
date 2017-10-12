@@ -1,0 +1,3013 @@
+01:03:59Запуск программы.
+01:03:59Авторизировали API.
+01:03:59----------парсим 0 пачку товаров.
+01:04:01Запуск программы.
+01:04:01Авторизировали API.
+01:04:01----------парсим 0 пачку товаров.
+01:04:06получили список товаров.
+01:04:06------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+01:04:06получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3170-11/
+01:04:06начали парсинг
+01:04:06Запуск парсинга своей страницы
+01:04:08получили список товаров.
+01:04:08------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+01:04:08получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3170-11/
+01:04:08начали парсинг
+01:04:08Запуск парсинга своей страницы
+01:04:09парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3170-11/, получили http://magia-sveta.ru/product/3170-11
+01:04:09сайт магия света
+01:04:09цена товара = < руб.>
+01:04:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3170-11/, получили http://magia-sveta.ru/product/3170-11
+01:04:11сайт магия света
+01:04:11------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+01:04:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-95287-11/
+01:04:11начали парсинг
+01:04:11Запуск парсинга своей страницы
+01:04:11цена товара = < руб.>
+01:04:13------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+01:04:13получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-95287-11/
+01:04:13начали парсинг
+01:04:13Запуск парсинга своей страницы
+01:04:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-95287-11/, получили http://magia-sveta.ru/product/95287-11
+01:04:13сайт магия света
+01:04:13цена товара = < руб.>
+01:04:15парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-95287-11/, получили http://magia-sveta.ru/product/95287-11
+01:04:15сайт магия света
+01:04:16цена товара = < руб.>
+01:04:16------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+01:04:16получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3859-11/
+01:04:16начали парсинг
+01:04:16Запуск парсинга своей страницы
+01:04:19------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+01:04:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3859-11/
+01:04:19начали парсинг
+01:04:19Запуск парсинга своей страницы
+01:04:20парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3859-11/, получили http://magia-sveta.ru/product/3859-11
+01:04:20сайт магия света
+01:04:20цена товара = < руб.>
+01:04:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-3859-11/, получили http://magia-sveta.ru/product/3859-11
+01:04:21сайт магия света
+01:04:22цена товара = < руб.>
+01:04:22------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+01:04:22получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l11722-88/
+01:04:22начали парсинг
+01:04:22Запуск парсинга своей страницы
+01:04:24------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+01:04:24получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l11722-88/
+01:04:24начали парсинг
+01:04:24Запуск парсинга своей страницы
+01:04:25парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l11722-88/, получили http://magia-sveta.ru/product/L1172288
+01:04:25сайт магия света
+01:04:26цена товара = < руб.>
+01:04:27парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l11722-88/, получили http://magia-sveta.ru/product/L1172288
+01:04:27сайт магия света
+01:04:27цена товара = < руб.>
+01:04:28------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+01:04:28получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l51422-38/
+01:04:28начали парсинг
+01:04:28Запуск парсинга своей страницы
+01:04:29------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+01:04:29получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l51422-38/
+01:04:29начали парсинг
+01:04:29Запуск парсинга своей страницы
+01:04:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l51422-38/, получили http://magia-sveta.ru/product/L5142238
+01:04:29сайт магия света
+01:04:30цена товара = < руб.>
+01:04:31------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+01:04:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-83109-12/
+01:04:31начали парсинг
+01:04:31Запуск парсинга своей страницы
+01:04:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-83109-12/, получили http://magia-sveta.ru/product/83109-12
+01:04:33сайт магия света
+01:04:33цена товара = < руб.>
+01:04:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-l-arte-luce-l51422-38/, получили http://magia-sveta.ru/product/L5142238
+01:04:33сайт магия света
+01:04:34цена товара = < руб.>
+01:04:36------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+01:04:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-5116-11/
+01:04:36начали парсинг
+01:04:36Запуск парсинга своей страницы
+01:04:36------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+01:04:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-83109-12/
+01:04:36начали парсинг
+01:04:36Запуск парсинга своей страницы
+01:04:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-83109-12/, получили http://magia-sveta.ru/product/83109-12
+01:04:38сайт магия света
+01:04:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-5116-11/, получили http://magia-sveta.ru/product/5116-11
+01:04:38сайт магия света
+01:04:38цена товара = < руб.>
+01:04:38цена товара = < руб.>
+01:04:40------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+01:04:40получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-5116-11/
+01:04:40начали парсинг
+01:04:40Запуск парсинга своей страницы
+01:04:40------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+01:04:40получили товар: http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/
+01:04:40начали парсинг
+01:04:40Запуск парсинга своей страницы
+01:04:42парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-blitz-5116-11/, получили http://magia-sveta.ru/product/5116-11
+01:04:42сайт магия света
+01:04:42парсили http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1375554/
+01:04:42готовимся к авторизации
+01:04:42авторизировались
+01:04:42цена товара = < руб.>
+01:04:43------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+01:04:43получили товар: http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/
+01:04:43начали парсинг
+01:04:43Запуск парсинга своей страницы
+01:04:44------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+01:04:44получили товар: http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/
+01:04:44начали парсинг
+01:04:44Запуск парсинга своей страницы
+01:04:45парсили http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1122568/
+01:04:45готовимся к авторизации
+01:04:45авторизировались
+01:04:46парсили http://mnogosveta.su/product/60927-2-quot-l-quot-4034-glass-e14-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1375554/
+01:04:46готовимся к авторизации
+01:04:46авторизировались
+01:04:48------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+01:04:48получили товар: http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/
+01:04:48начали парсинг
+01:04:48Запуск парсинга своей страницы
+01:04:49------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+01:04:49получили товар: http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/
+01:04:49начали парсинг
+01:04:49Запуск парсинга своей страницы
+01:04:51парсили http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1126315/
+01:04:51готовимся к авторизации
+01:04:51авторизировались
+01:04:51парсили http://mnogosveta.su/product/10638-4-quot-l-quot-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1122568/
+01:04:51готовимся к авторизации
+01:04:51авторизировались
+01:04:53------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+01:04:53получили товар: http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/
+01:04:53начали парсинг
+01:04:53Запуск парсинга своей страницы
+01:04:54------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+01:04:54получили товар: http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/
+01:04:54начали парсинг
+01:04:54Запуск парсинга своей страницы
+01:04:56парсили http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1126319/
+01:04:56готовимся к авторизации
+01:04:56авторизировались
+01:04:56парсили http://mnogosveta.su/product/36059-4-3-03k-quot-l-quot-65180-glass-e27-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1126315/
+01:04:56готовимся к авторизации
+01:04:56авторизировались
+01:04:59------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+01:04:59получили товар: http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/
+01:04:59начали парсинг
+01:04:59Запуск парсинга своей страницы
+01:04:59------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+01:04:59получили товар: http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/
+01:04:59начали парсинг
+01:04:59Запуск парсинга своей страницы
+01:05:01парсили http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1382057/
+01:05:01готовимся к авторизации
+01:05:01авторизировались
+01:05:03парсили http://mnogosveta.su/product/4830-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1126319/
+01:05:03готовимся к авторизации
+01:05:03авторизировались
+01:05:05------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+01:05:05получили товар: http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/
+01:05:05начали парсинг
+01:05:05Запуск парсинга своей страницы
+01:05:07------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+01:05:07получили товар: http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/
+01:05:07начали парсинг
+01:05:07Запуск парсинга своей страницы
+01:05:07парсили http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1126322/
+01:05:07готовимся к авторизации
+01:05:07авторизировались
+01:05:09парсили http://mnogosveta.su/product/90203-1b-quot-l-quot-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1382057/
+01:05:09готовимся к авторизации
+01:05:09авторизировались
+01:05:10------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+01:05:10получили товар: http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/
+01:05:10начали парсинг
+01:05:10Запуск парсинга своей страницы
+01:05:12------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+01:05:12получили товар: http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/
+01:05:12начали парсинг
+01:05:12Запуск парсинга своей страницы
+01:05:12парсили http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, получили http://electra.ru/catalog/DISKONT/1376542/
+01:05:12готовимся к авторизации
+01:05:12авторизировались
+01:05:13парсили http://mnogosveta.su/product/5178-5-quot-l-quot-4025-xy-glass-e27-svetilnik-potolochnyj/, получили http://electra.ru/catalog/DISKONT/1126322/
+01:05:13готовимся к авторизации
+01:05:13авторизировались
+01:05:15------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+01:05:15получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-dbq12m-ac-36m-ip44-kletka/
+01:05:15начали парсинг
+01:05:15Запуск парсинга своей страницы
+01:05:16------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+01:05:16получили товар: http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/
+01:05:16начали парсинг
+01:05:16Запуск парсинга своей страницы
+01:05:17парсили http://mnogosveta.su/product/zvonok-besprovodnoj-dbq12m-ac-36m-ip44-kletka/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ12M-AC-36M-IP44-kletka
+01:05:17сайт магия света
+01:05:18цена товара = < руб.>
+01:05:19парсили http://mnogosveta.su/product/61184-1-quot-l-quot-svetilnik-nastennyj/, получили http://electra.ru/catalog/DISKONT/1376542/
+01:05:19готовимся к авторизации
+01:05:19авторизировались
+01:05:21------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+01:05:21получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-dbq11m-ac-36m-ip44-belyj/
+01:05:21начали парсинг
+01:05:21Запуск парсинга своей страницы
+01:05:22------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+01:05:22получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-dbq12m-ac-36m-ip44-kletka/
+01:05:22начали парсинг
+01:05:22Запуск парсинга своей страницы
+01:05:23парсили http://mnogosveta.su/product/zvonok-besprovodnoj-dbq11m-ac-36m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ11M-AC-36M-IP44-belyij
+01:05:23сайт магия света
+01:05:24цена товара = < руб.>
+01:05:24парсили http://mnogosveta.su/product/zvonok-besprovodnoj-dbq12m-ac-36m-ip44-kletka/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ12M-AC-36M-IP44-kletka
+01:05:24сайт магия света
+01:05:25цена товара = < руб.>
+01:05:26------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+01:05:26получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq18m-wm-1m-ip20-belyj/
+01:05:26начали парсинг
+01:05:26Запуск парсинга своей страницы
+01:05:26------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+01:05:26получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-dbq11m-ac-36m-ip44-belyj/
+01:05:26начали парсинг
+01:05:26Запуск парсинга своей страницы
+01:05:28парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq18m-wm-1m-ip20-belyj/, получили http://magia-sveta.ru/product/vonok-elektromexanicheskij-DBQ18M-WM-1M-IP20-belyij
+01:05:28сайт магия света
+01:05:29парсили http://mnogosveta.su/product/zvonok-besprovodnoj-dbq11m-ac-36m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ11M-AC-36M-IP44-belyij
+01:05:29сайт магия света
+01:05:29цена товара = < руб.>
+01:05:29цена товара = < руб.>
+01:05:32------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+01:05:32получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq18m-wm-1m-ip20-belyj/
+01:05:32начали парсинг
+01:05:32Запуск парсинга своей страницы
+01:05:32------------------------ Начало парсинга продукта с индексом: 17 ------------------------
+01:05:32получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq17-wm-1m-ip44-seryj/
+01:05:32начали парсинг
+01:05:32Запуск парсинга своей страницы
+01:05:34парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq17-wm-1m-ip44-seryj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ17-WM-1M-IP44-seryij
+01:05:34сайт магия света
+01:05:34парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq18m-wm-1m-ip20-belyj/, получили http://magia-sveta.ru/product/vonok-elektromexanicheskij-DBQ18M-WM-1M-IP20-belyij
+01:05:34сайт магия света
+01:05:34цена товара = < руб.>
+01:05:34цена товара = < руб.>
+01:05:37------------------------ Начало парсинга продукта с индексом: 18 ------------------------
+01:05:37получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq15-wm-1m-ip44-belyj/
+01:05:37начали парсинг
+01:05:37Запуск парсинга своей страницы
+01:05:37------------------------ Начало парсинга продукта с индексом: 17 ------------------------
+01:05:37получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq17-wm-1m-ip44-seryj/
+01:05:37начали парсинг
+01:05:37Запуск парсинга своей страницы
+01:05:39парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq17-wm-1m-ip44-seryj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ17-WM-1M-IP44-seryij
+01:05:39сайт магия света
+01:05:39парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq15-wm-1m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ15-WM-1M-IP44-belyij
+01:05:39сайт магия света
+01:05:39цена товара = < руб.>
+01:05:40цена товара = < руб.>
+01:05:42------------------------ Начало парсинга продукта с индексом: 18 ------------------------
+01:05:42получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq15-wm-1m-ip44-belyj/
+01:05:42начали парсинг
+01:05:42Запуск парсинга своей страницы
+01:05:43------------------------ Начало парсинга продукта с индексом: 19 ------------------------
+01:05:43получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq16-wm-1m-ip44-chernyj/
+01:05:43начали парсинг
+01:05:43Запуск парсинга своей страницы
+01:05:44парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq15-wm-1m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ15-WM-1M-IP44-belyij
+01:05:44сайт магия света
+01:05:44цена товара = < руб.>
+01:05:44парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq16-wm-1m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ16-WM-1M-IP44-chernyij
+01:05:44сайт магия света
+01:05:45цена товара = < руб.>
+01:05:46------------------------ Начало парсинга продукта с индексом: 19 ------------------------
+01:05:46получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq16-wm-1m-ip44-chernyj/
+01:05:46начали парсинг
+01:05:46Запуск парсинга своей страницы
+01:05:46------------------------ Начало парсинга продукта с индексом: 20 ------------------------
+01:05:46получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq14-wl-32m-ip44-chernyj/
+01:05:46начали парсинг
+01:05:46Запуск парсинга своей страницы
+01:05:48парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq16-wm-1m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ16-WM-1M-IP44-chernyij
+01:05:48сайт магия света
+01:05:49цена товара = < руб.>
+01:05:49парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq14-wl-32m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ14-WL-32M-IP44-chernyij
+01:05:49сайт магия света
+01:05:50цена товара = < руб.>
+01:05:51------------------------ Начало парсинга продукта с индексом: 20 ------------------------
+01:05:51получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq14-wl-32m-ip44-chernyj/
+01:05:51начали парсинг
+01:05:51Запуск парсинга своей страницы
+01:05:51------------------------ Начало парсинга продукта с индексом: 21 ------------------------
+01:05:51получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq13-wl-32m-ip44-belyj/
+01:05:51начали парсинг
+01:05:51Запуск парсинга своей страницы
+01:05:53парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq14-wl-32m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ14-WL-32M-IP44-chernyij
+01:05:53сайт магия света
+01:05:53цена товара = < руб.>
+01:05:54парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq13-wl-32m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ13-WL-32M-IP44-belyij
+01:05:54сайт магия света
+01:05:54цена товара = < руб.>
+01:05:55------------------------ Начало парсинга продукта с индексом: 21 ------------------------
+01:05:55получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq13-wl-32m-ip44-belyj/
+01:05:55начали парсинг
+01:05:55Запуск парсинга своей страницы
+01:05:57------------------------ Начало парсинга продукта с индексом: 22 ------------------------
+01:05:57получили товар: http://mnogosveta.su/product/knopka-dlya-provodnogo-zvonka-elektrostandard-dbb03wm-belyj/
+01:05:57начали парсинг
+01:05:57Запуск парсинга своей страницы
+01:05:58парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq13-wl-32m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ13-WL-32M-IP44-belyij
+01:05:58сайт магия света
+01:05:58цена товара = < руб.>
+01:05:59парсили http://mnogosveta.su/product/knopka-dlya-provodnogo-zvonka-elektrostandard-dbb03wm-belyj/, получили http://magia-sveta.ru/product/knopka-dlya-provodnogo-zvonka-DBB03WM-belyij
+01:05:59сайт магия света
+01:05:59цена товара = < руб.>
+01:06:00------------------------ Начало парсинга продукта с индексом: 22 ------------------------
+01:06:00получили товар: http://mnogosveta.su/product/knopka-dlya-provodnogo-zvonka-elektrostandard-dbb03wm-belyj/
+01:06:00начали парсинг
+01:06:00Запуск парсинга своей страницы
+01:06:01------------------------ Начало парсинга продукта с индексом: 23 ------------------------
+01:06:01получили товар: http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb02wl-chernyj/
+01:06:01начали парсинг
+01:06:01Запуск парсинга своей страницы
+01:06:01парсили http://mnogosveta.su/product/knopka-dlya-provodnogo-zvonka-elektrostandard-dbb03wm-belyj/, получили http://magia-sveta.ru/product/knopka-dlya-provodnogo-zvonka-DBB03WM-belyij
+01:06:01сайт магия света
+01:06:02цена товара = < руб.>
+01:06:02парсили http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb02wl-chernyj/, получили http://magia-sveta.ru/product/knopka-dlya-besprovodnogo-zonka-DBB02WL-chernyij
+01:06:02сайт магия света
+01:06:03цена товара = < руб.>
+01:06:04------------------------ Начало парсинга продукта с индексом: 23 ------------------------
+01:06:04получили товар: http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb02wl-chernyj/
+01:06:04начали парсинг
+01:06:04Запуск парсинга своей страницы
+01:06:06------------------------ Начало парсинга продукта с индексом: 24 ------------------------
+01:06:06получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq10m-wl-mp3-16m-ip44-belyj/
+01:06:06начали парсинг
+01:06:06Запуск парсинга своей страницы
+01:06:07парсили http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb02wl-chernyj/, получили http://magia-sveta.ru/product/knopka-dlya-besprovodnogo-zonka-DBB02WL-chernyij
+01:06:07сайт магия света
+01:06:07цена товара = < руб.>
+01:06:08парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq10m-wl-mp3-16m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ10M-WL-MP3-16M-IP44-belyij
+01:06:08сайт магия света
+01:06:09цена товара = <3500 руб.>
+01:06:10------------------------ Начало парсинга продукта с индексом: 24 ------------------------
+01:06:10получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq10m-wl-mp3-16m-ip44-belyj/
+01:06:10начали парсинг
+01:06:10Запуск парсинга своей страницы
+01:06:11------------------------ Начало парсинга продукта с индексом: 25 ------------------------
+01:06:11получили товар: http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb01wl-belyj/
+01:06:11начали парсинг
+01:06:11Запуск парсинга своей страницы
+01:06:11парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq10m-wl-mp3-16m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ10M-WL-MP3-16M-IP44-belyij
+01:06:11сайт магия света
+01:06:12цена товара = <3500 руб.>
+01:06:13парсили http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb01wl-belyj/, получили http://magia-sveta.ru/product/knopka-dlya-besprovodnogo-zvonka-DBB01WL-belyij
+01:06:13сайт магия света
+01:06:13цена товара = < руб.>
+01:06:14------------------------ Начало парсинга продукта с индексом: 25 ------------------------
+01:06:14получили товар: http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb01wl-belyj/
+01:06:14начали парсинг
+01:06:14Запуск парсинга своей страницы
+01:06:15------------------------ Начало парсинга продукта с индексом: 26 ------------------------
+01:06:15получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq08m-wm-1m-ip44-belyj/
+01:06:15начали парсинг
+01:06:15Запуск парсинга своей страницы
+01:06:15парсили http://mnogosveta.su/product/knopka-dlya-besprovodnogo-zvonka-elektrostandard-dbb01wl-belyj/, получили http://magia-sveta.ru/product/knopka-dlya-besprovodnogo-zvonka-DBB01WL-belyij
+01:06:15сайт магия света
+01:06:16цена товара = < руб.>
+01:06:17парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq08m-wm-1m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ08M-WM-1M-IP44-belyij
+01:06:17сайт магия света
+01:06:17цена товара = <830 руб.>
+01:06:18------------------------ Начало парсинга продукта с индексом: 26 ------------------------
+01:06:18получили товар: http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq08m-wm-1m-ip44-belyj/
+01:06:18начали парсинг
+01:06:18Запуск парсинга своей страницы
+01:06:19------------------------ Начало парсинга продукта с индексом: 27 ------------------------
+01:06:19получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq07m-wl-36m-ip44-serebryanyj/
+01:06:19начали парсинг
+01:06:19Запуск парсинга своей страницы
+01:06:20парсили http://mnogosveta.su/product/zvonok-elektromehanicheskij-elektrostandard-dbq08m-wm-1m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-elektromexanicheskij-DBQ08M-WM-1M-IP44-belyij
+01:06:20сайт магия света
+01:06:20цена товара = <830 руб.>
+01:06:22парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq07m-wl-36m-ip44-serebryanyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ07M-WL-36M-IP44-serebryanyij
+01:06:22сайт магия света
+01:06:22цена товара = <1160 руб.>
+01:06:23------------------------ Начало парсинга продукта с индексом: 27 ------------------------
+01:06:23получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq07m-wl-36m-ip44-serebryanyj/
+01:06:23начали парсинг
+01:06:23Запуск парсинга своей страницы
+01:06:24------------------------ Начало парсинга продукта с индексом: 28 ------------------------
+01:06:24получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq06m-wl-36m-ip44-chernyj/
+01:06:24начали парсинг
+01:06:24Запуск парсинга своей страницы
+01:06:25парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq07m-wl-36m-ip44-serebryanyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ07M-WL-36M-IP44-serebryanyij
+01:06:25сайт магия света
+01:06:25цена товара = <1160 руб.>
+01:06:26парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq06m-wl-36m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ06M-WL-36M-IP44-chernyij
+01:06:26сайт магия света
+01:06:26цена товара = <1160 руб.>
+01:06:27------------------------ Начало парсинга продукта с индексом: 28 ------------------------
+01:06:27получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq06m-wl-36m-ip44-chernyj/
+01:06:27начали парсинг
+01:06:27Запуск парсинга своей страницы
+01:06:28------------------------ Начало парсинга продукта с индексом: 29 ------------------------
+01:06:28получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq05m-wl-16m-ip44-belyj/
+01:06:28начали парсинг
+01:06:28Запуск парсинга своей страницы
+01:06:29парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq06m-wl-36m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ06M-WL-36M-IP44-chernyij
+01:06:29сайт магия света
+01:06:29цена товара = <1160 руб.>
+01:06:30парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq05m-wl-16m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ05M-WL-16M-IP44-belyij
+01:06:30сайт магия света
+01:06:30цена товара = <2120 руб.>
+01:06:31------------------------ Начало парсинга продукта с индексом: 29 ------------------------
+01:06:31получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq05m-wl-16m-ip44-belyj/
+01:06:31начали парсинг
+01:06:31Запуск парсинга своей страницы
+01:06:32------------------------ Начало парсинга продукта с индексом: 30 ------------------------
+01:06:32получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq04m-wl-16m-ip44-chernyj/
+01:06:32начали парсинг
+01:06:32Запуск парсинга своей страницы
+01:06:33парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq05m-wl-16m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ05M-WL-16M-IP44-belyij
+01:06:33сайт магия света
+01:06:34цена товара = <2120 руб.>
+01:06:34парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq04m-wl-16m-ip44-chernyj/, получили http://magia-sveta.ru/product/Zvonok-besprovodnoj-DBQ04M-WL-16M-IP44-chernyij
+01:06:34сайт магия света
+01:06:34цена товара = <2120 руб.>
+01:06:35------------------------ Начало парсинга продукта с индексом: 30 ------------------------
+01:06:35получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq04m-wl-16m-ip44-chernyj/
+01:06:35начали парсинг
+01:06:35Запуск парсинга своей страницы
+01:06:37------------------------ Начало парсинга продукта с индексом: 31 ------------------------
+01:06:37получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq03m-wl-16m-ip44-serebryanyj/
+01:06:37начали парсинг
+01:06:37Запуск парсинга своей страницы
+01:06:37парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq04m-wl-16m-ip44-chernyj/, получили http://magia-sveta.ru/product/Zvonok-besprovodnoj-DBQ04M-WL-16M-IP44-chernyij
+01:06:37сайт магия света
+01:06:38цена товара = <2120 руб.>
+01:06:40парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq03m-wl-16m-ip44-serebryanyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ03M-WL-16M-IP44-serebryanyij
+01:06:40сайт магия света
+01:06:40------------------------ Начало парсинга продукта с индексом: 31 ------------------------
+01:06:40получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq03m-wl-16m-ip44-serebryanyj/
+01:06:40начали парсинг
+01:06:40Запуск парсинга своей страницы
+01:06:41цена товара = <2390 руб.>
+01:06:42парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq03m-wl-16m-ip44-serebryanyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ03M-WL-16M-IP44-serebryanyij
+01:06:42сайт магия света
+01:06:42------------------------ Начало парсинга продукта с индексом: 32 ------------------------
+01:06:42получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq02m-wl-36m-ip44-kletka/
+01:06:42начали парсинг
+01:06:42Запуск парсинга своей страницы
+01:06:43цена товара = <2390 руб.>
+01:06:44парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq02m-wl-36m-ip44-kletka/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ02M-WL-36M-IP44-kletka
+01:06:44сайт магия света
+01:06:45цена товара = <1150 руб.>
+01:06:45------------------------ Начало парсинга продукта с индексом: 32 ------------------------
+01:06:45получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq02m-wl-36m-ip44-kletka/
+01:06:45начали парсинг
+01:06:45Запуск парсинга своей страницы
+01:06:47парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq02m-wl-36m-ip44-kletka/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ02M-WL-36M-IP44-kletka
+01:06:47сайт магия света
+01:06:47------------------------ Начало парсинга продукта с индексом: 33 ------------------------
+01:06:47получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq01m-wl-36m-ip44-belyj/
+01:06:47начали парсинг
+01:06:47Запуск парсинга своей страницы
+01:06:47цена товара = <1150 руб.>
+01:06:49парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq01m-wl-36m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ01M-WL-36M-IP44-belyij
+01:06:49сайт магия света
+01:06:49------------------------ Начало парсинга продукта с индексом: 33 ------------------------
+01:06:49получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq01m-wl-36m-ip44-belyj/
+01:06:49начали парсинг
+01:06:49Запуск парсинга своей страницы
+01:06:50цена товара = <1140 руб.>
+01:06:52парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq01m-wl-36m-ip44-belyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ01M-WL-36M-IP44-belyij
+01:06:52сайт магия света
+01:06:52------------------------ Начало парсинга продукта с индексом: 34 ------------------------
+01:06:52получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq09m-wl-mp3-16m-ip44-chernyj/
+01:06:52начали парсинг
+01:06:52Запуск парсинга своей страницы
+01:06:53цена товара = <1140 руб.>
+01:06:55парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq09m-wl-mp3-16m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ09M-WL-MP3-16M-IP44-chernyij
+01:06:55сайт магия света
+01:06:55------------------------ Начало парсинга продукта с индексом: 34 ------------------------
+01:06:55получили товар: http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq09m-wl-mp3-16m-ip44-chernyj/
+01:06:55начали парсинг
+01:06:55Запуск парсинга своей страницы
+01:06:56цена товара = <3500 руб.>
+01:06:58------------------------ Начало парсинга продукта с индексом: 35 ------------------------
+01:06:58получили товар: http://mnogosveta.su/product/elektrostandard-dbq18m-wm-1m-ip20-belyj-dvernoj-zvonok/
+01:06:58начали парсинг
+01:06:58Запуск парсинга своей страницы
+01:06:58парсили http://mnogosveta.su/product/zvonok-besprovodnoj-elektrostandard-dbq09m-wl-mp3-16m-ip44-chernyj/, получили http://magia-sveta.ru/product/zvonok-besprovodnoj-DBQ09M-WL-MP3-16M-IP44-chernyij
+01:06:58сайт магия света
+01:06:58цена товара = <3500 руб.>
+01:06:59парсили http://mnogosveta.su/product/elektrostandard-dbq18m-wm-1m-ip20-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/9894/
+01:06:59сайт антарес свет
+01:07:00скачали страницу товара антареса
+01:07:00распарсили и получили 697
+01:07:00цена товара = <697 руб.>
+01:07:00------------------------ Начало парсинга продукта с индексом: 35 ------------------------
+01:07:00получили товар: http://mnogosveta.su/product/elektrostandard-dbq18m-wm-1m-ip20-belyj-dvernoj-zvonok/
+01:07:00начали парсинг
+01:07:00Запуск парсинга своей страницы
+01:07:02------------------------ Начало парсинга продукта с индексом: 36 ------------------------
+01:07:02получили товар: http://mnogosveta.su/product/elektrostandard-dbq07m-wl-36m-serebryanyj-dvernoj-zvonok/
+01:07:02начали парсинг
+01:07:02Запуск парсинга своей страницы
+01:07:02парсили http://mnogosveta.su/product/elektrostandard-dbq18m-wm-1m-ip20-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/9894/
+01:07:02сайт антарес свет
+01:07:03скачали страницу товара антареса
+01:07:03распарсили и получили 697
+01:07:03цена товара = <697 руб.>
+01:07:04парсили http://mnogosveta.su/product/elektrostandard-dbq07m-wl-36m-serebryanyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/9850/
+01:07:04сайт антарес свет
+01:07:05------------------------ Начало парсинга продукта с индексом: 36 ------------------------
+01:07:05получили товар: http://mnogosveta.su/product/elektrostandard-dbq07m-wl-36m-serebryanyj-dvernoj-zvonok/
+01:07:05начали парсинг
+01:07:05Запуск парсинга своей страницы
+01:07:05скачали страницу товара антареса
+01:07:05распарсили и получили 1099
+01:07:05цена товара = <1099 руб.>
+01:07:06парсили http://mnogosveta.su/product/elektrostandard-dbq07m-wl-36m-serebryanyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/9850/
+01:07:06сайт антарес свет
+01:07:06------------------------ Начало парсинга продукта с индексом: 37 ------------------------
+01:07:06получили товар: http://mnogosveta.su/product/elektrostandard-dbq17-wm-1m-seryj-dvernoj-zvonok/
+01:07:06начали парсинг
+01:07:06Запуск парсинга своей страницы
+01:07:07скачали страницу товара антареса
+01:07:07распарсили и получили 1099
+01:07:07цена товара = <1099 руб.>
+01:07:08парсили http://mnogosveta.su/product/elektrostandard-dbq17-wm-1m-seryj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8192/
+01:07:08сайт антарес свет
+01:07:09скачали страницу товара антареса
+01:07:09распарсили и получили 697
+01:07:09цена товара = <697 руб.>
+01:07:09------------------------ Начало парсинга продукта с индексом: 37 ------------------------
+01:07:09получили товар: http://mnogosveta.su/product/elektrostandard-dbq17-wm-1m-seryj-dvernoj-zvonok/
+01:07:09начали парсинг
+01:07:09Запуск парсинга своей страницы
+01:07:11парсили http://mnogosveta.su/product/elektrostandard-dbq17-wm-1m-seryj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8192/
+01:07:11сайт антарес свет
+01:07:11------------------------ Начало парсинга продукта с индексом: 38 ------------------------
+01:07:11получили товар: http://mnogosveta.su/product/elektrostandard-dbq15-wm-1m-belyj-dvernoj-zvonok/
+01:07:11начали парсинг
+01:07:11Запуск парсинга своей страницы
+01:07:11скачали страницу товара антареса
+01:07:11распарсили и получили 697
+01:07:11цена товара = <697 руб.>
+01:07:13------------------------ Начало парсинга продукта с индексом: 38 ------------------------
+01:07:13получили товар: http://mnogosveta.su/product/elektrostandard-dbq15-wm-1m-belyj-dvernoj-zvonok/
+01:07:13начали парсинг
+01:07:13Запуск парсинга своей страницы
+01:07:14парсили http://mnogosveta.su/product/elektrostandard-dbq15-wm-1m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8190/
+01:07:14сайт антарес свет
+01:07:14скачали страницу товара антареса
+01:07:14распарсили и получили 697
+01:07:14цена товара = <697 руб.>
+01:07:15парсили http://mnogosveta.su/product/elektrostandard-dbq15-wm-1m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8190/
+01:07:15сайт антарес свет
+01:07:16скачали страницу товара антареса
+01:07:16распарсили и получили 697
+01:07:16цена товара = <697 руб.>
+01:07:16------------------------ Начало парсинга продукта с индексом: 39 ------------------------
+01:07:16получили товар: http://mnogosveta.su/product/elektrostandard-dbq16-wm-1m-chernyj-dvernoj-zvonok/
+01:07:16начали парсинг
+01:07:16Запуск парсинга своей страницы
+01:07:18------------------------ Начало парсинга продукта с индексом: 39 ------------------------
+01:07:18получили товар: http://mnogosveta.su/product/elektrostandard-dbq16-wm-1m-chernyj-dvernoj-zvonok/
+01:07:18начали парсинг
+01:07:18Запуск парсинга своей страницы
+01:07:18парсили http://mnogosveta.su/product/elektrostandard-dbq16-wm-1m-chernyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8191/
+01:07:18сайт антарес свет
+01:07:19скачали страницу товара антареса
+01:07:19распарсили и получили 697
+01:07:19цена товара = <697 руб.>
+01:07:20парсили http://mnogosveta.su/product/elektrostandard-dbq16-wm-1m-chernyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8191/
+01:07:20сайт антарес свет
+01:07:20скачали страницу товара антареса
+01:07:20распарсили и получили 697
+01:07:20цена товара = <697 руб.>
+01:07:21------------------------ Начало парсинга продукта с индексом: 40 ------------------------
+01:07:21получили товар: http://mnogosveta.su/product/elektrostandard-dbq13-wl-32m-belyj-dvernoj-zvonok/
+01:07:21начали парсинг
+01:07:21Запуск парсинга своей страницы
+01:07:22------------------------ Начало парсинга продукта с индексом: 40 ------------------------
+01:07:22получили товар: http://mnogosveta.su/product/elektrostandard-dbq13-wl-32m-belyj-dvernoj-zvonok/
+01:07:22начали парсинг
+01:07:22Запуск парсинга своей страницы
+01:07:23парсили http://mnogosveta.su/product/elektrostandard-dbq13-wl-32m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8189/
+01:07:23сайт антарес свет
+01:07:24скачали страницу товара антареса
+01:07:24распарсили и получили 1804
+01:07:24цена товара = <1804 руб.>
+01:07:24парсили http://mnogosveta.su/product/elektrostandard-dbq13-wl-32m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8189/
+01:07:24сайт антарес свет
+01:07:25скачали страницу товара антареса
+01:07:25распарсили и получили 1804
+01:07:25цена товара = <1804 руб.>
+01:07:26------------------------ Начало парсинга продукта с индексом: 41 ------------------------
+01:07:26получили товар: http://mnogosveta.su/product/elektrostandard-dbq11m-ac-36m-belyj-dvernoj-zvonok/
+01:07:26начали парсинг
+01:07:26Запуск парсинга своей страницы
+01:07:26------------------------ Начало парсинга продукта с индексом: 41 ------------------------
+01:07:26получили товар: http://mnogosveta.su/product/elektrostandard-dbq11m-ac-36m-belyj-dvernoj-zvonok/
+01:07:26начали парсинг
+01:07:26Запуск парсинга своей страницы
+01:07:27парсили http://mnogosveta.su/product/elektrostandard-dbq11m-ac-36m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8188/
+01:07:27сайт антарес свет
+01:07:28парсили http://mnogosveta.su/product/elektrostandard-dbq11m-ac-36m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8188/
+01:07:28сайт антарес свет
+01:07:28скачали страницу товара антареса
+01:07:28распарсили и получили 1081
+01:07:28цена товара = <1081 руб.>
+01:07:29скачали страницу товара антареса
+01:07:29распарсили и получили 1081
+01:07:29цена товара = <1081 руб.>
+01:07:29------------------------ Начало парсинга продукта с индексом: 42 ------------------------
+01:07:29получили товар: http://mnogosveta.su/product/elektrostandard-dbq09m-wl-mp3-16m-chernyj-dvernoj-zvonok/
+01:07:29начали парсинг
+01:07:29Запуск парсинга своей страницы
+01:07:30------------------------ Начало парсинга продукта с индексом: 42 ------------------------
+01:07:30получили товар: http://mnogosveta.su/product/elektrostandard-dbq09m-wl-mp3-16m-chernyj-dvernoj-zvonok/
+01:07:30начали парсинг
+01:07:30Запуск парсинга своей страницы
+01:07:32парсили http://mnogosveta.su/product/elektrostandard-dbq09m-wl-mp3-16m-chernyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8187/
+01:07:32сайт антарес свет
+01:07:32парсили http://mnogosveta.su/product/elektrostandard-dbq09m-wl-mp3-16m-chernyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8187/
+01:07:32сайт антарес свет
+01:07:32скачали страницу товара антареса
+01:07:32распарсили и получили 3310
+01:07:32цена товара = <3310 руб.>
+01:07:33скачали страницу товара антареса
+01:07:33распарсили и получили 3310
+01:07:33цена товара = <3310 руб.>
+01:07:35------------------------ Начало парсинга продукта с индексом: 43 ------------------------
+01:07:35получили товар: http://mnogosveta.su/product/elektrostandard-dbq08m-wm-1m-belyj-dvernoj-zvonok/
+01:07:35начали парсинг
+01:07:35Запуск парсинга своей страницы
+01:07:36------------------------ Начало парсинга продукта с индексом: 43 ------------------------
+01:07:36получили товар: http://mnogosveta.su/product/elektrostandard-dbq08m-wm-1m-belyj-dvernoj-zvonok/
+01:07:36начали парсинг
+01:07:36Запуск парсинга своей страницы
+01:07:38парсили http://mnogosveta.su/product/elektrostandard-dbq08m-wm-1m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8186/
+01:07:38сайт антарес свет
+01:07:38парсили http://mnogosveta.su/product/elektrostandard-dbq08m-wm-1m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8186/
+01:07:38сайт антарес свет
+01:07:39скачали страницу товара антареса
+01:07:39распарсили и получили 785
+01:07:39цена товара = <785 руб.>
+01:07:39скачали страницу товара антареса
+01:07:39распарсили и получили 785
+01:07:39цена товара = <785 руб.>
+01:07:41------------------------ Начало парсинга продукта с индексом: 44 ------------------------
+01:07:41получили товар: http://mnogosveta.su/product/elektrostandard-dbq05m-wl-16m-belyj-dvernoj-zvonok/
+01:07:41начали парсинг
+01:07:41Запуск парсинга своей страницы
+01:07:41------------------------ Начало парсинга продукта с индексом: 44 ------------------------
+01:07:41получили товар: http://mnogosveta.su/product/elektrostandard-dbq05m-wl-16m-belyj-dvernoj-zvonok/
+01:07:41начали парсинг
+01:07:41Запуск парсинга своей страницы
+01:07:45парсили http://mnogosveta.su/product/elektrostandard-dbq05m-wl-16m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8185/
+01:07:45сайт антарес свет
+01:07:45парсили http://mnogosveta.su/product/elektrostandard-dbq05m-wl-16m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8185/
+01:07:45сайт антарес свет
+01:07:46скачали страницу товара антареса
+01:07:46распарсили и получили 2004
+01:07:46цена товара = <2004 руб.>
+01:07:46скачали страницу товара антареса
+01:07:46распарсили и получили 2004
+01:07:46цена товара = <2004 руб.>
+01:07:48------------------------ Начало парсинга продукта с индексом: 45 ------------------------
+01:07:48получили товар: http://mnogosveta.su/product/elektrostandard-dbq02m-wl-36m-kletka-dvernoj-zvonok/
+01:07:48начали парсинг
+01:07:48Запуск парсинга своей страницы
+01:07:48------------------------ Начало парсинга продукта с индексом: 45 ------------------------
+01:07:48получили товар: http://mnogosveta.su/product/elektrostandard-dbq02m-wl-36m-kletka-dvernoj-zvonok/
+01:07:48начали парсинг
+01:07:48Запуск парсинга своей страницы
+01:07:50парсили http://mnogosveta.su/product/elektrostandard-dbq02m-wl-36m-kletka-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8184/
+01:07:50сайт антарес свет
+01:07:51скачали страницу товара антареса
+01:07:51распарсили и получили 1089
+01:07:51цена товара = <1089 руб.>
+01:07:51парсили http://mnogosveta.su/product/elektrostandard-dbq02m-wl-36m-kletka-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8184/
+01:07:51сайт антарес свет
+01:07:52скачали страницу товара антареса
+01:07:52распарсили и получили 1089
+01:07:52цена товара = <1089 руб.>
+01:07:53------------------------ Начало парсинга продукта с индексом: 46 ------------------------
+01:07:53получили товар: http://mnogosveta.su/product/elektrostandard-dbq01m-wl-36m-belyj-dvernoj-zvonok/
+01:07:53начали парсинг
+01:07:53Запуск парсинга своей страницы
+01:07:53------------------------ Начало парсинга продукта с индексом: 46 ------------------------
+01:07:53получили товар: http://mnogosveta.su/product/elektrostandard-dbq01m-wl-36m-belyj-dvernoj-zvonok/
+01:07:53начали парсинг
+01:07:53Запуск парсинга своей страницы
+01:07:54парсили http://mnogosveta.su/product/elektrostandard-dbq01m-wl-36m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8183/
+01:07:54сайт антарес свет
+01:07:55скачали страницу товара антареса
+01:07:55парсили http://mnogosveta.su/product/elektrostandard-dbq01m-wl-36m-belyj-dvernoj-zvonok/, получили http://antares-svet.ru/svet/247/8183/
+01:07:55сайт антарес свет
+01:07:55распарсили и получили 1081
+01:07:55цена товара = <1081 руб.>
+01:07:56скачали страницу товара антареса
+01:07:56распарсили и получили 1081
+01:07:56цена товара = <1081 руб.>
+01:07:57------------------------ Начало парсинга продукта с индексом: 47 ------------------------
+01:07:57получили товар: http://mnogosveta.su/product/elektrostandard-dbb02wl-chernyj-knopka/
+01:07:57начали парсинг
+01:07:57Запуск парсинга своей страницы
+01:07:58------------------------ Начало парсинга продукта с индексом: 47 ------------------------
+01:07:58получили товар: http://mnogosveta.su/product/elektrostandard-dbb02wl-chernyj-knopka/
+01:07:58начали парсинг
+01:07:58Запуск парсинга своей страницы
+01:07:59парсили http://mnogosveta.su/product/elektrostandard-dbb02wl-chernyj-knopka/, получили http://antares-svet.ru/svet/247/8182/
+01:07:59сайт антарес свет
+01:08:00парсили http://mnogosveta.su/product/elektrostandard-dbb02wl-chernyj-knopka/, получили http://antares-svet.ru/svet/247/8182/
+01:08:00сайт антарес свет
+01:08:00скачали страницу товара антареса
+01:08:00распарсили и получили 370
+01:08:00цена товара = <370 руб.>
+01:08:00скачали страницу товара антареса
+01:08:00распарсили и получили 370
+01:08:00цена товара = <370 руб.>
+01:08:02------------------------ Начало парсинга продукта с индексом: 48 ------------------------
+01:08:02получили товар: http://mnogosveta.su/product/elektrostandard-dbb01wl-belyj-knopka/
+01:08:02начали парсинг
+01:08:02Запуск парсинга своей страницы
+01:08:03------------------------ Начало парсинга продукта с индексом: 48 ------------------------
+01:08:03получили товар: http://mnogosveta.su/product/elektrostandard-dbb01wl-belyj-knopka/
+01:08:03начали парсинг
+01:08:03Запуск парсинга своей страницы
+01:08:05парсили http://mnogosveta.su/product/elektrostandard-dbb01wl-belyj-knopka/, получили http://antares-svet.ru/svet/247/8181/
+01:08:05сайт антарес свет
+01:08:05парсили http://mnogosveta.su/product/elektrostandard-dbb01wl-belyj-knopka/, получили http://antares-svet.ru/svet/247/8181/
+01:08:05сайт антарес свет
+01:08:06скачали страницу товара антареса
+01:08:06распарсили и получили 315
+01:08:06цена товара = <315 руб.>
+01:08:06скачали страницу товара антареса
+01:08:06распарсили и получили 315
+01:08:06цена товара = <315 руб.>
+01:08:08------------------------ Начало парсинга продукта с индексом: 49 ------------------------
+01:08:08получили товар: http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-09/
+01:08:08начали парсинг
+01:08:08Запуск парсинга своей страницы
+01:08:09------------------------ Начало парсинга продукта с индексом: 49 ------------------------
+01:08:09получили товар: http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-09/
+01:08:09начали парсинг
+01:08:09Запуск парсинга своей страницы
+01:08:10парсили http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-09/, получили http://magia-sveta.ru/product/SNS-M-09
+01:08:10сайт магия света
+01:08:10парсили http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-09/, получили http://magia-sveta.ru/product/SNS-M-09
+01:08:10сайт магия света
+01:08:10цена товара = < руб.>
+01:08:11цена товара = < руб.>
+01:08:12------------------------ Начало парсинга продукта с индексом: 50 ------------------------
+01:08:12получили товар: http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-08/
+01:08:12начали парсинг
+01:08:12Запуск парсинга своей страницы
+01:08:13------------------------ Начало парсинга продукта с индексом: 50 ------------------------
+01:08:13получили товар: http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-08/
+01:08:13начали парсинг
+01:08:13Запуск парсинга своей страницы
+01:08:14парсили http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-08/, получили http://magia-sveta.ru/product/SNS-M-08
+01:08:14сайт магия света
+01:08:15парсили http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-08/, получили http://magia-sveta.ru/product/SNS-M-08
+01:08:15сайт магия света
+01:08:15цена товара = < руб.>
+01:08:15цена товара = < руб.>
+01:08:17------------------------ Начало парсинга продукта с индексом: 51 ------------------------
+01:08:17получили товар: http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-07/
+01:08:17начали парсинг
+01:08:17Запуск парсинга своей страницы
+01:08:18------------------------ Начало парсинга продукта с индексом: 51 ------------------------
+01:08:18получили товар: http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-07/
+01:08:18начали парсинг
+01:08:18Запуск парсинга своей страницы
+01:08:19парсили http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-07/, получили http://magia-sveta.ru/product/SNS-M-07
+01:08:19сайт магия света
+01:08:19цена товара = < руб.>
+01:08:20парсили http://mnogosveta.su/product/infrakrasnyj-datchik-dvizheniya-elektrostandard-sns-m-07/, получили http://magia-sveta.ru/product/SNS-M-07
+01:08:20сайт магия света
+01:08:20цена товара = < руб.>
+01:08:22------------------------ Начало парсинга продукта с индексом: 52 ------------------------
+01:08:22получили товар: http://mnogosveta.su/product/mikrovolnovyj-datchik-dvizheniya-elektrostandard-sns-m-06/
+01:08:22начали парсинг
+01:08:22Запуск парсинга своей страницы
+01:08:22------------------------ Начало парсинга продукта с индексом: 52 ------------------------
+01:08:22получили товар: http://mnogosveta.su/product/mikrovolnovyj-datchik-dvizheniya-elektrostandard-sns-m-06/
+01:08:22начали парсинг
+01:08:22Запуск парсинга своей страницы
+01:08:24парсили http://mnogosveta.su/product/mikrovolnovyj-datchik-dvizheniya-elektrostandard-sns-m-06/, получили http://magia-sveta.ru/product/SNS-M-06
+01:08:24сайт магия света
+01:08:24парсили http://mnogosveta.su/product/mikrovolnovyj-datchik-dvizheniya-elektrostandard-sns-m-06/, получили http://magia-sveta.ru/product/SNS-M-06
+01:08:24сайт магия света
+01:08:24цена товара = < руб.>
+01:08:24цена товара = < руб.>
+01:08:26------------------------ Начало парсинга продукта с индексом: 53 ------------------------
+01:08:26получили товар: http://mnogosveta.su/product/datchik-dvizheniya-eglo-30199/
+01:08:26начали парсинг
+01:08:26Запуск парсинга своей страницы
+01:08:27------------------------ Начало парсинга продукта с индексом: 53 ------------------------
+01:08:27получили товар: http://mnogosveta.su/product/datchik-dvizheniya-eglo-30199/
+01:08:27начали парсинг
+01:08:27Запуск парсинга своей страницы
+01:08:29парсили http://mnogosveta.su/product/datchik-dvizheniya-eglo-30199/, получили http://magia-sveta.ru/product/30199
+01:08:29сайт магия света
+01:08:29цена товара = < руб.>
+01:08:30парсили http://mnogosveta.su/product/datchik-dvizheniya-eglo-30199/, получили http://magia-sveta.ru/product/30199
+01:08:30сайт магия света
+01:08:30цена товара = < руб.>
+01:08:31------------------------ Начало парсинга продукта с индексом: 54 ------------------------
+01:08:31получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05-black/
+01:08:31начали парсинг
+01:08:31Запуск парсинга своей страницы
+01:08:33------------------------ Начало парсинга продукта с индексом: 54 ------------------------
+01:08:33получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05-black/
+01:08:33начали парсинг
+01:08:33Запуск парсинга своей страницы
+01:08:34парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05-black/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-05-black
+01:08:34сайт магия света
+01:08:34цена товара = <740 руб.>
+01:08:35парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05-black/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-05-black
+01:08:35сайт магия света
+01:08:36цена товара = <740 руб.>
+01:08:38------------------------ Начало парсинга продукта с индексом: 55 ------------------------
+01:08:38получили товар: http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-08/
+01:08:38начали парсинг
+01:08:38Запуск парсинга своей страницы
+01:08:39------------------------ Начало парсинга продукта с индексом: 55 ------------------------
+01:08:39получили товар: http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-08/
+01:08:39начали парсинг
+01:08:39Запуск парсинга своей страницы
+01:08:40парсили http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-08/, получили http://magia-sveta.ru/product/datchik-osveshhennosti-SNS-L-08
+01:08:40сайт магия света
+01:08:41парсили http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-08/, получили http://magia-sveta.ru/product/datchik-osveshhennosti-SNS-L-08
+01:08:41сайт магия света
+01:08:41цена товара = <320 руб.>
+01:08:42цена товара = <320 руб.>
+01:08:45------------------------ Начало парсинга продукта с индексом: 56 ------------------------
+01:08:45получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05/
+01:08:45начали парсинг
+01:08:45Запуск парсинга своей страницы
+01:08:45------------------------ Начало парсинга продукта с индексом: 56 ------------------------
+01:08:45получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05/
+01:08:45начали парсинг
+01:08:45Запуск парсинга своей страницы
+01:08:49парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-05
+01:08:49сайт магия света
+01:08:49парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-05/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-05
+01:08:49сайт магия света
+01:08:50цена товара = <740 руб.>
+01:08:50цена товара = <740 руб.>
+01:08:53------------------------ Начало парсинга продукта с индексом: 57 ------------------------
+01:08:53получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04-black/
+01:08:53начали парсинг
+01:08:53Запуск парсинга своей страницы
+01:08:54------------------------ Начало парсинга продукта с индексом: 57 ------------------------
+01:08:54получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04-black/
+01:08:54начали парсинг
+01:08:54Запуск парсинга своей страницы
+01:08:56парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04-black/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-04-black
+01:08:56сайт магия света
+01:08:56цена товара = <650 руб.>
+01:08:57парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04-black/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-04-black
+01:08:57сайт магия света
+01:08:57цена товара = <650 руб.>
+01:08:59------------------------ Начало парсинга продукта с индексом: 58 ------------------------
+01:08:59получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04/
+01:08:59начали парсинг
+01:08:59Запуск парсинга своей страницы
+01:09:00------------------------ Начало парсинга продукта с индексом: 58 ------------------------
+01:09:00получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04/
+01:09:00начали парсинг
+01:09:00Запуск парсинга своей страницы
+01:09:01парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-04
+01:09:01сайт магия света
+01:09:02цена товара = <650 руб.>
+01:09:02парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-04/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-04
+01:09:02сайт магия света
+01:09:03цена товара = <650 руб.>
+01:09:04------------------------ Начало парсинга продукта с индексом: 59 ------------------------
+01:09:04получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-03/
+01:09:04начали парсинг
+01:09:04Запуск парсинга своей страницы
+01:09:05------------------------ Начало парсинга продукта с индексом: 59 ------------------------
+01:09:05получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-03/
+01:09:05начали парсинг
+01:09:05Запуск парсинга своей страницы
+01:09:06парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-03/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-03
+01:09:06сайт магия света
+01:09:07цена товара = <760 руб.>
+01:09:08парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-03/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-03
+01:09:08сайт магия света
+01:09:08цена товара = <760 руб.>
+01:09:09------------------------ Начало парсинга продукта с индексом: 60 ------------------------
+01:09:09получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-02/
+01:09:09начали парсинг
+01:09:09Запуск парсинга своей страницы
+01:09:10------------------------ Начало парсинга продукта с индексом: 60 ------------------------
+01:09:10получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-02/
+01:09:10начали парсинг
+01:09:10Запуск парсинга своей страницы
+01:09:11парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-02/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-02
+01:09:11сайт магия света
+01:09:12цена товара = <550 руб.>
+01:09:12парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-02/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-02
+01:09:12сайт магия света
+01:09:13цена товара = <550 руб.>
+01:09:15------------------------ Начало парсинга продукта с индексом: 61 ------------------------
+01:09:15получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-01/
+01:09:15начали парсинг
+01:09:15Запуск парсинга своей страницы
+01:09:16------------------------ Начало парсинга продукта с индексом: 61 ------------------------
+01:09:16получили товар: http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-01/
+01:09:16начали парсинг
+01:09:16Запуск парсинга своей страницы
+01:09:17парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-01/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-01
+01:09:17сайт магия света
+01:09:18цена товара = <700 руб.>
+01:09:19парсили http://mnogosveta.su/product/datchik-dvizheniya-elektrostandard-sns-m-01/, получили http://magia-sveta.ru/product/datchik-dvizheniya-SNS-M-01
+01:09:19сайт магия света
+01:09:20цена товара = <700 руб.>
+01:09:21------------------------ Начало парсинга продукта с индексом: 62 ------------------------
+01:09:21получили товар: http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-07/
+01:09:21начали парсинг
+01:09:21Запуск парсинга своей страницы
+01:09:23------------------------ Начало парсинга продукта с индексом: 62 ------------------------
+01:09:23получили товар: http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-07/
+01:09:23начали парсинг
+01:09:23Запуск парсинга своей страницы
+01:09:24парсили http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-07/, получили http://magia-sveta.ru/product/datchik-osveshhennosti-SNS-L-07
+01:09:24сайт магия света
+01:09:24цена товара = <440 руб.>
+01:09:25парсили http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-07/, получили http://magia-sveta.ru/product/datchik-osveshhennosti-SNS-L-07
+01:09:25сайт магия света
+01:09:26цена товара = <440 руб.>
+01:09:27------------------------ Начало парсинга продукта с индексом: 63 ------------------------
+01:09:27получили товар: http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-06/
+01:09:27начали парсинг
+01:09:27Запуск парсинга своей страницы
+01:09:28------------------------ Начало парсинга продукта с индексом: 63 ------------------------
+01:09:28получили товар: http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-06/
+01:09:28начали парсинг
+01:09:28Запуск парсинга своей страницы
+01:09:28парсили http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-06/, получили http://magia-sveta.ru/product/datchik-osveshhennosti-SNS-L-06
+01:09:28сайт магия света
+01:09:29цена товара = <230 руб.>
+01:09:30парсили http://mnogosveta.su/product/datchik-osveshhennosti-elektrostandard-sns-l-06/, получили http://magia-sveta.ru/product/datchik-osveshhennosti-SNS-L-06
+01:09:30сайт магия света
+01:09:31цена товара = <230 руб.>
+01:09:33------------------------ Начало парсинга продукта с индексом: 64 ------------------------
+01:09:33получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-07-datchik-dvizheniya/
+01:09:33начали парсинг
+01:09:33Запуск парсинга своей страницы
+01:09:34------------------------ Начало парсинга продукта с индексом: 64 ------------------------
+01:09:34получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-07-datchik-dvizheniya/
+01:09:34начали парсинг
+01:09:34Запуск парсинга своей страницы
+01:09:35парсили http://mnogosveta.su/product/elektrostandard-sns-m-07-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/9912/
+01:09:35сайт антарес свет
+01:09:35скачали страницу товара антареса
+01:09:35распарсили и получили 908
+01:09:35цена товара = <908 руб.>
+01:09:35парсили http://mnogosveta.su/product/elektrostandard-sns-m-07-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/9912/
+01:09:35сайт антарес свет
+01:09:36скачали страницу товара антареса
+01:09:36распарсили и получили 908
+01:09:36цена товара = <908 руб.>
+01:09:38------------------------ Начало парсинга продукта с индексом: 65 ------------------------
+01:09:38получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-06-mcw-datchik-dvizheniya/
+01:09:38начали парсинг
+01:09:38Запуск парсинга своей страницы
+01:09:39------------------------ Начало парсинга продукта с индексом: 65 ------------------------
+01:09:39получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-06-mcw-datchik-dvizheniya/
+01:09:39начали парсинг
+01:09:39Запуск парсинга своей страницы
+01:09:40парсили http://mnogosveta.su/product/elektrostandard-sns-m-06-mcw-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/9911/
+01:09:40сайт антарес свет
+01:09:41парсили http://mnogosveta.su/product/elektrostandard-sns-m-06-mcw-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/9911/
+01:09:41сайт антарес свет
+01:09:41скачали страницу товара антареса
+01:09:41распарсили и получили 741
+01:09:41цена товара = <741 руб.>
+01:09:42скачали страницу товара антареса
+01:09:42распарсили и получили 741
+01:09:42цена товара = <741 руб.>
+01:09:44------------------------ Начало парсинга продукта с индексом: 66 ------------------------
+01:09:44получили товар: http://mnogosveta.su/product/elektrostandard-sns-l-07-belyj-datchik-osveshhennosti/
+01:09:44начали парсинг
+01:09:44Запуск парсинга своей страницы
+01:09:45------------------------ Начало парсинга продукта с индексом: 66 ------------------------
+01:09:45получили товар: http://mnogosveta.su/product/elektrostandard-sns-l-07-belyj-datchik-osveshhennosti/
+01:09:45начали парсинг
+01:09:45Запуск парсинга своей страницы
+01:09:47парсили http://mnogosveta.su/product/elektrostandard-sns-l-07-belyj-datchik-osveshhennosti/, получили http://antares-svet.ru/svet/231/9910/
+01:09:47сайт антарес свет
+01:09:47парсили http://mnogosveta.su/product/elektrostandard-sns-l-07-belyj-datchik-osveshhennosti/, получили http://antares-svet.ru/svet/231/9910/
+01:09:47сайт антарес свет
+01:09:47скачали страницу товара антареса
+01:09:47распарсили и получили 281
+01:09:47цена товара = <281 руб.>
+01:09:48скачали страницу товара антареса
+01:09:48распарсили и получили 281
+01:09:48цена товара = <281 руб.>
+01:09:49------------------------ Начало парсинга продукта с индексом: 67 ------------------------
+01:09:49получили товар: http://mnogosveta.su/product/elektrostandard-sns-l-06-belyj-datchik-osveshhennosti/
+01:09:49начали парсинг
+01:09:49Запуск парсинга своей страницы
+01:09:50------------------------ Начало парсинга продукта с индексом: 67 ------------------------
+01:09:50получили товар: http://mnogosveta.su/product/elektrostandard-sns-l-06-belyj-datchik-osveshhennosti/
+01:09:50начали парсинг
+01:09:50Запуск парсинга своей страницы
+01:09:52парсили http://mnogosveta.su/product/elektrostandard-sns-l-06-belyj-datchik-osveshhennosti/, получили http://antares-svet.ru/svet/231/9909/
+01:09:52сайт антарес свет
+01:09:52скачали страницу товара антареса
+01:09:52распарсили и получили 197
+01:09:52цена товара = <197 руб.>
+01:09:53парсили http://mnogosveta.su/product/elektrostandard-sns-l-06-belyj-datchik-osveshhennosti/, получили http://antares-svet.ru/svet/231/9909/
+01:09:53сайт антарес свет
+01:09:53скачали страницу товара антареса
+01:09:53распарсили и получили 197
+01:09:53цена товара = <197 руб.>
+01:09:55------------------------ Начало парсинга продукта с индексом: 68 ------------------------
+01:09:55получили товар: http://mnogosveta.su/product/elektrostandard-sns-l-08-belyj-datchik-osveshhennosti/
+01:09:55начали парсинг
+01:09:55Запуск парсинга своей страницы
+01:09:57------------------------ Начало парсинга продукта с индексом: 68 ------------------------
+01:09:57получили товар: http://mnogosveta.su/product/elektrostandard-sns-l-08-belyj-datchik-osveshhennosti/
+01:09:57начали парсинг
+01:09:57Запуск парсинга своей страницы
+01:09:58парсили http://mnogosveta.su/product/elektrostandard-sns-l-08-belyj-datchik-osveshhennosti/, получили http://antares-svet.ru/svet/231/9075/
+01:09:58сайт антарес свет
+01:09:58скачали страницу товара антареса
+01:09:58распарсили и получили 242
+01:09:58цена товара = <242 руб.>
+01:09:58парсили http://mnogosveta.su/product/elektrostandard-sns-l-08-belyj-datchik-osveshhennosti/, получили http://antares-svet.ru/svet/231/9075/
+01:09:58сайт антарес свет
+01:09:59скачали страницу товара антареса
+01:09:59распарсили и получили 242
+01:09:59цена товара = <242 руб.>
+01:10:01------------------------ Начало парсинга продукта с индексом: 69 ------------------------
+01:10:01получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-09-belyj-datchik-dvizheniya/
+01:10:01начали парсинг
+01:10:01Запуск парсинга своей страницы
+01:10:03------------------------ Начало парсинга продукта с индексом: 69 ------------------------
+01:10:03получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-09-belyj-datchik-dvizheniya/
+01:10:03начали парсинг
+01:10:03Запуск парсинга своей страницы
+01:10:04парсили http://mnogosveta.su/product/elektrostandard-sns-m-09-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8180/
+01:10:04сайт антарес свет
+01:10:05скачали страницу товара антареса
+01:10:05распарсили и получили 636
+01:10:05цена товара = <636 руб.>
+01:10:06парсили http://mnogosveta.su/product/elektrostandard-sns-m-09-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8180/
+01:10:06сайт антарес свет
+01:10:06скачали страницу товара антареса
+01:10:06распарсили и получили 636
+01:10:06цена товара = <636 руб.>
+01:10:07------------------------ Начало парсинга продукта с индексом: 70 ------------------------
+01:10:07получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-08-belyj-datchik-dvizheniya/
+01:10:07начали парсинг
+01:10:07Запуск парсинга своей страницы
+01:10:08------------------------ Начало парсинга продукта с индексом: 70 ------------------------
+01:10:08получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-08-belyj-datchik-dvizheniya/
+01:10:08начали парсинг
+01:10:08Запуск парсинга своей страницы
+01:10:10парсили http://mnogosveta.su/product/elektrostandard-sns-m-08-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8179/
+01:10:10сайт антарес свет
+01:10:10скачали страницу товара антареса
+01:10:10распарсили и получили 423
+01:10:10цена товара = <423 руб.>
+01:10:11парсили http://mnogosveta.su/product/elektrostandard-sns-m-08-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8179/
+01:10:11сайт антарес свет
+01:10:12скачали страницу товара антареса
+01:10:12распарсили и получили 423
+01:10:12цена товара = <423 руб.>
+01:10:13------------------------ Начало парсинга продукта с индексом: 71 ------------------------
+01:10:13получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-04-chernyj-datchik-dvizheniya/
+01:10:13начали парсинг
+01:10:13Запуск парсинга своей страницы
+01:10:15------------------------ Начало парсинга продукта с индексом: 71 ------------------------
+01:10:15получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-04-chernyj-datchik-dvizheniya/
+01:10:15начали парсинг
+01:10:15Запуск парсинга своей страницы
+01:10:16парсили http://mnogosveta.su/product/elektrostandard-sns-m-04-chernyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8176/
+01:10:16сайт антарес свет
+01:10:17скачали страницу товара антареса
+01:10:17распарсили и получили 431
+01:10:17цена товара = <431 руб.>
+01:10:18парсили http://mnogosveta.su/product/elektrostandard-sns-m-04-chernyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8176/
+01:10:18сайт антарес свет
+01:10:19скачали страницу товара антареса
+01:10:19распарсили и получили 431
+01:10:19цена товара = <431 руб.>
+01:10:20------------------------ Начало парсинга продукта с индексом: 72 ------------------------
+01:10:20получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-05-chernyj-datchik/
+01:10:20начали парсинг
+01:10:20Запуск парсинга своей страницы
+01:10:22------------------------ Начало парсинга продукта с индексом: 72 ------------------------
+01:10:22получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-05-chernyj-datchik/
+01:10:22начали парсинг
+01:10:22Запуск парсинга своей страницы
+01:10:23парсили http://mnogosveta.su/product/elektrostandard-sns-m-05-chernyj-datchik/, получили http://antares-svet.ru/svet/231/8178/
+01:10:23сайт антарес свет
+01:10:23скачали страницу товара антареса
+01:10:23распарсили и получили 823
+01:10:23цена товара = <823 руб.>
+01:10:24парсили http://mnogosveta.su/product/elektrostandard-sns-m-05-chernyj-datchik/, получили http://antares-svet.ru/svet/231/8178/
+01:10:24сайт антарес свет
+01:10:25скачали страницу товара антареса
+01:10:25распарсили и получили 823
+01:10:25цена товара = <823 руб.>
+01:10:25------------------------ Начало парсинга продукта с индексом: 73 ------------------------
+01:10:25получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-04-belyj-datchik-dvizheniya/
+01:10:25начали парсинг
+01:10:25Запуск парсинга своей страницы
+01:10:27------------------------ Начало парсинга продукта с индексом: 73 ------------------------
+01:10:27получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-04-belyj-datchik-dvizheniya/
+01:10:27начали парсинг
+01:10:27Запуск парсинга своей страницы
+01:10:28парсили http://mnogosveta.su/product/elektrostandard-sns-m-04-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8175/
+01:10:28сайт антарес свет
+01:10:28скачали страницу товара антареса
+01:10:28распарсили и получили 431
+01:10:28цена товара = <431 руб.>
+01:10:29парсили http://mnogosveta.su/product/elektrostandard-sns-m-04-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8175/
+01:10:29сайт антарес свет
+01:10:30скачали страницу товара антареса
+01:10:30распарсили и получили 431
+01:10:30цена товара = <431 руб.>
+01:10:31------------------------ Начало парсинга продукта с индексом: 74 ------------------------
+01:10:31получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-05-belyj-datchik-dvizheniya/
+01:10:31начали парсинг
+01:10:31Запуск парсинга своей страницы
+01:10:33------------------------ Начало парсинга продукта с индексом: 74 ------------------------
+01:10:33получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-05-belyj-datchik-dvizheniya/
+01:10:33начали парсинг
+01:10:33Запуск парсинга своей страницы
+01:10:34парсили http://mnogosveta.su/product/elektrostandard-sns-m-05-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8177/
+01:10:34сайт антарес свет
+01:10:34скачали страницу товара антареса
+01:10:34распарсили и получили 561
+01:10:34цена товара = <561 руб.>
+01:10:35парсили http://mnogosveta.su/product/elektrostandard-sns-m-05-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8177/
+01:10:35сайт антарес свет
+01:10:36скачали страницу товара антареса
+01:10:36распарсили и получили 561
+01:10:36цена товара = <561 руб.>
+01:10:36------------------------ Начало парсинга продукта с индексом: 75 ------------------------
+01:10:36получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-03-belyj-datchik-dvizheniya/
+01:10:36начали парсинг
+01:10:36Запуск парсинга своей страницы
+01:10:38------------------------ Начало парсинга продукта с индексом: 75 ------------------------
+01:10:38получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-03-belyj-datchik-dvizheniya/
+01:10:38начали парсинг
+01:10:38Запуск парсинга своей страницы
+01:10:39парсили http://mnogosveta.su/product/elektrostandard-sns-m-03-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8174/
+01:10:39сайт антарес свет
+01:10:39скачали страницу товара антареса
+01:10:39распарсили и получили 619
+01:10:39цена товара = <619 руб.>
+01:10:40парсили http://mnogosveta.su/product/elektrostandard-sns-m-03-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8174/
+01:10:40сайт антарес свет
+01:10:41скачали страницу товара антареса
+01:10:41распарсили и получили 619
+01:10:41цена товара = <619 руб.>
+01:10:41------------------------ Начало парсинга продукта с индексом: 76 ------------------------
+01:10:41получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-02-belyj-datchik-dvizheniya/
+01:10:41начали парсинг
+01:10:41Запуск парсинга своей страницы
+01:10:43------------------------ Начало парсинга продукта с индексом: 76 ------------------------
+01:10:43получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-02-belyj-datchik-dvizheniya/
+01:10:43начали парсинг
+01:10:43Запуск парсинга своей страницы
+01:10:43парсили http://mnogosveta.su/product/elektrostandard-sns-m-02-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8173/
+01:10:43сайт антарес свет
+01:10:44скачали страницу товара антареса
+01:10:44распарсили и получили 483
+01:10:44цена товара = <483 руб.>
+01:10:45парсили http://mnogosveta.su/product/elektrostandard-sns-m-02-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8173/
+01:10:45сайт антарес свет
+01:10:46скачали страницу товара антареса
+01:10:46распарсили и получили 483
+01:10:46цена товара = <483 руб.>
+01:10:46------------------------ Начало парсинга продукта с индексом: 77 ------------------------
+01:10:46получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-01-belyj-datchik-dvizheniya/
+01:10:46начали парсинг
+01:10:46Запуск парсинга своей страницы
+01:10:47------------------------ Начало парсинга продукта с индексом: 77 ------------------------
+01:10:47получили товар: http://mnogosveta.su/product/elektrostandard-sns-m-01-belyj-datchik-dvizheniya/
+01:10:47начали парсинг
+01:10:47Запуск парсинга своей страницы
+01:10:48парсили http://mnogosveta.su/product/elektrostandard-sns-m-01-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8172/
+01:10:48сайт антарес свет
+01:10:49скачали страницу товара антареса
+01:10:49распарсили и получили 529
+01:10:49цена товара = <529 руб.>
+01:10:50парсили http://mnogosveta.su/product/elektrostandard-sns-m-01-belyj-datchik-dvizheniya/, получили http://antares-svet.ru/svet/231/8172/
+01:10:50сайт антарес свет
+01:10:50скачали страницу товара антареса
+01:10:50распарсили и получили 529
+01:10:50цена товара = <529 руб.>
+01:10:51------------------------ Начало парсинга продукта с индексом: 78 ------------------------
+01:10:51получили товар: http://mnogosveta.su/product/komteh-dd-ik-601-220v-belyj-datchik-dvizheniya-vstraivaemyj-nastennyj/
+01:10:51начали парсинг
+01:10:51Запуск парсинга своей страницы
+01:10:53------------------------ Начало парсинга продукта с индексом: 78 ------------------------
+01:10:53получили товар: http://mnogosveta.su/product/komteh-dd-ik-601-220v-belyj-datchik-dvizheniya-vstraivaemyj-nastennyj/
+01:10:53начали парсинг
+01:10:53Запуск парсинга своей страницы
+01:10:55парсили http://mnogosveta.su/product/komteh-dd-ik-601-220v-belyj-datchik-dvizheniya-vstraivaemyj-nastennyj/, получили http://antares-svet.ru/svet/231/5831/
+01:10:55сайт антарес свет
+01:10:55парсили http://mnogosveta.su/product/komteh-dd-ik-601-220v-belyj-datchik-dvizheniya-vstraivaemyj-nastennyj/, получили http://antares-svet.ru/svet/231/5831/
+01:10:55сайт антарес свет
+01:10:55скачали страницу товара антареса
+01:10:55распарсили и получили 203
+01:10:55цена товара = <203 руб.>
+01:10:56скачали страницу товара антареса
+01:10:56распарсили и получили 203
+01:10:56цена товара = <203 руб.>
+01:10:58------------------------ Начало парсинга продукта с индексом: 79 ------------------------
+01:10:58получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-shampan-riflenyj/
+01:10:58начали парсинг
+01:10:58Запуск парсинга своей страницы
+01:10:58------------------------ Начало парсинга продукта с индексом: 79 ------------------------
+01:10:58получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-shampan-riflenyj/
+01:10:58начали парсинг
+01:10:58Запуск парсинга своей страницы
+01:11:02парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9990/
+01:11:02сайт антарес свет
+01:11:02парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9990/
+01:11:02сайт антарес свет
+01:11:02скачали страницу товара антареса
+01:11:02распарсили и получили 276
+01:11:02цена товара = <276 руб.>
+01:11:02скачали страницу товара антареса
+01:11:02распарсили и получили 276
+01:11:02цена товара = <276 руб.>
+01:11:05------------------------ Начало парсинга продукта с индексом: 80 ------------------------
+01:11:05получили товар: http://mnogosveta.su/product/werkel-wl10-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-shampan-riflenyj/
+01:11:05начали парсинг
+01:11:05Запуск парсинга своей страницы
+01:11:05------------------------ Начало парсинга продукта с индексом: 80 ------------------------
+01:11:05получили товар: http://mnogosveta.su/product/werkel-wl10-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-shampan-riflenyj/
+01:11:05начали парсинг
+01:11:05Запуск парсинга своей страницы
+01:11:07парсили http://mnogosveta.su/product/werkel-wl10-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9989/
+01:11:07сайт антарес свет
+01:11:07парсили http://mnogosveta.su/product/werkel-wl10-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9989/
+01:11:07сайт антарес свет
+01:11:08скачали страницу товара антареса
+01:11:08распарсили и получили 384
+01:11:08цена товара = <384 руб.>
+01:11:08скачали страницу товара антареса
+01:11:08распарсили и получили 384
+01:11:08цена товара = <384 руб.>
+01:11:10------------------------ Начало парсинга продукта с индексом: 81 ------------------------
+01:11:10получили товар: http://mnogosveta.su/product/werkel-wl10-dm600-dimmer-shampan-riflenyj/
+01:11:10начали парсинг
+01:11:10Запуск парсинга своей страницы
+01:11:10------------------------ Начало парсинга продукта с индексом: 81 ------------------------
+01:11:10получили товар: http://mnogosveta.su/product/werkel-wl10-dm600-dimmer-shampan-riflenyj/
+01:11:10начали парсинг
+01:11:10Запуск парсинга своей страницы
+01:11:13парсили http://mnogosveta.su/product/werkel-wl10-dm600-dimmer-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9895/
+01:11:13сайт антарес свет
+01:11:13парсили http://mnogosveta.su/product/werkel-wl10-dm600-dimmer-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9895/
+01:11:13сайт антарес свет
+01:11:13скачали страницу товара антареса
+01:11:13распарсили и получили 1125
+01:11:13цена товара = <1125 руб.>
+01:11:14скачали страницу товара антареса
+01:11:14распарсили и получили 1125
+01:11:14цена товара = <1125 руб.>
+01:11:17------------------------ Начало парсинга продукта с индексом: 82 ------------------------
+01:11:17получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj-riflenyj/
+01:11:17начали парсинг
+01:11:17Запуск парсинга своей страницы
+01:11:18------------------------ Начало парсинга продукта с индексом: 82 ------------------------
+01:11:18получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj-riflenyj/
+01:11:18начали парсинг
+01:11:18Запуск парсинга своей страницы
+01:11:20парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9892/
+01:11:20сайт антарес свет
+01:11:21скачали страницу товара антареса
+01:11:21распарсили и получили 175
+01:11:21цена товара = <175 руб.>
+01:11:22парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9892/
+01:11:22сайт антарес свет
+01:11:22скачали страницу товара антареса
+01:11:22распарсили и получили 175
+01:11:22цена товара = <175 руб.>
+01:11:23------------------------ Начало парсинга продукта с индексом: 83 ------------------------
+01:11:23получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj-riflenyj/
+01:11:23начали парсинг
+01:11:23Запуск парсинга своей страницы
+01:11:25------------------------ Начало парсинга продукта с индексом: 83 ------------------------
+01:11:25получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj-riflenyj/
+01:11:25начали парсинг
+01:11:25Запуск парсинга своей страницы
+01:11:26парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9891/
+01:11:26сайт антарес свет
+01:11:27скачали страницу товара антареса
+01:11:27распарсили и получили 224
+01:11:27цена товара = <224 руб.>
+01:11:28парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9891/
+01:11:28сайт антарес свет
+01:11:28скачали страницу товара антареса
+01:11:28распарсили и получили 224
+01:11:28цена товара = <224 руб.>
+01:11:30------------------------ Начало парсинга продукта с индексом: 84 ------------------------
+01:11:30получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj-riflenyj/
+01:11:30начали парсинг
+01:11:30Запуск парсинга своей страницы
+01:11:31------------------------ Начало парсинга продукта с индексом: 84 ------------------------
+01:11:31получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj-riflenyj/
+01:11:31начали парсинг
+01:11:31Запуск парсинга своей страницы
+01:11:33парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9890/
+01:11:33сайт антарес свет
+01:11:33скачали страницу товара антареса
+01:11:34распарсили и получили 203
+01:11:34цена товара = <203 руб.>
+01:11:34парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9890/
+01:11:34сайт антарес свет
+01:11:35скачали страницу товара антареса
+01:11:35распарсили и получили 203
+01:11:35цена товара = <203 руб.>
+01:11:36------------------------ Начало парсинга продукта с индексом: 85 ------------------------
+01:11:36получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-glyantsevyj-nikel/
+01:11:36начали парсинг
+01:11:36Запуск парсинга своей страницы
+01:11:37------------------------ Начало парсинга продукта с индексом: 85 ------------------------
+01:11:37получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-glyantsevyj-nikel/
+01:11:37начали парсинг
+01:11:37Запуск парсинга своей страницы
+01:11:39парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/9574/
+01:11:39сайт антарес свет
+01:11:39скачали страницу товара антареса
+01:11:39распарсили и получили 313
+01:11:39цена товара = <313 руб.>
+01:11:39парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/9574/
+01:11:39сайт антарес свет
+01:11:40скачали страницу товара антареса
+01:11:40распарсили и получили 313
+01:11:40цена товара = <313 руб.>
+01:11:42------------------------ Начало парсинга продукта с индексом: 86 ------------------------
+01:11:42получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/
+01:11:42начали парсинг
+01:11:42Запуск парсинга своей страницы
+01:11:43------------------------ Начало парсинга продукта с индексом: 86 ------------------------
+01:11:43получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/
+01:11:43начали парсинг
+01:11:43Запуск парсинга своей страницы
+01:11:44парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9572/
+01:11:44сайт антарес свет
+01:11:45парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9572/
+01:11:45сайт антарес свет
+01:11:45скачали страницу товара антареса
+01:11:45распарсили и получили 276
+01:11:45цена товара = <276 руб.>
+01:11:46скачали страницу товара антареса
+01:11:46распарсили и получили 276
+01:11:46цена товара = <276 руб.>
+01:11:47------------------------ Начало парсинга продукта с индексом: 87 ------------------------
+01:11:47получили товар: http://mnogosveta.su/product/werkel-wl09-dm600-dimmer-cerebryanyj-riflenyj/
+01:11:47начали парсинг
+01:11:47Запуск парсинга своей страницы
+01:11:48------------------------ Начало парсинга продукта с индексом: 87 ------------------------
+01:11:48получили товар: http://mnogosveta.su/product/werkel-wl09-dm600-dimmer-cerebryanyj-riflenyj/
+01:11:48начали парсинг
+01:11:48Запуск парсинга своей страницы
+01:11:49парсили http://mnogosveta.su/product/werkel-wl09-dm600-dimmer-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9573/
+01:11:49сайт антарес свет
+01:11:50скачали страницу товара антареса
+01:11:50распарсили и получили 1125
+01:11:50цена товара = <1125 руб.>
+01:11:50парсили http://mnogosveta.su/product/werkel-wl09-dm600-dimmer-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9573/
+01:11:50сайт антарес свет
+01:11:51скачали страницу товара антареса
+01:11:51распарсили и получили 1125
+01:11:51цена товара = <1125 руб.>
+01:11:52------------------------ Начало парсинга продукта с индексом: 88 ------------------------
+01:11:52получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/
+01:11:52начали парсинг
+01:11:52Запуск парсинга своей страницы
+01:11:52------------------------ Начало парсинга продукта с индексом: 88 ------------------------
+01:11:52получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/
+01:11:52начали парсинг
+01:11:52Запуск парсинга своей страницы
+01:11:54парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9571/
+01:11:54сайт антарес свет
+01:11:54скачали страницу товара антареса
+01:11:54распарсили и получили 303
+01:11:54цена товара = <303 руб.>
+01:11:54парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9571/
+01:11:54сайт антарес свет
+01:11:55скачали страницу товара антареса
+01:11:55распарсили и получили 303
+01:11:55цена товара = <303 руб.>
+01:11:56------------------------ Начало парсинга продукта с индексом: 89 ------------------------
+01:11:56получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/
+01:11:56начали парсинг
+01:11:56Запуск парсинга своей страницы
+01:11:57------------------------ Начало парсинга продукта с индексом: 89 ------------------------
+01:11:57получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/
+01:11:57начали парсинг
+01:11:57Запуск парсинга своей страницы
+01:11:58парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9570/
+01:11:58сайт антарес свет
+01:11:59скачали страницу товара антареса
+01:11:59распарсили и получили 303
+01:11:59цена товара = <303 руб.>
+01:11:59парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9570/
+01:11:59сайт антарес свет
+01:12:00скачали страницу товара антареса
+01:12:00распарсили и получили 303
+01:12:00цена товара = <303 руб.>
+01:12:01------------------------ Начало парсинга продукта с индексом: 90 ------------------------
+01:12:01получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-shampan-riflenyj/
+01:12:01начали парсинг
+01:12:01Запуск парсинга своей страницы
+01:12:02------------------------ Начало парсинга продукта с индексом: 90 ------------------------
+01:12:02получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-shampan-riflenyj/
+01:12:02начали парсинг
+01:12:02Запуск парсинга своей страницы
+01:12:03парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9569/
+01:12:03сайт антарес свет
+01:12:04парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9569/
+01:12:04сайт антарес свет
+01:12:04скачали страницу товара антареса
+01:12:04распарсили и получили 194
+01:12:04цена товара = <194 руб.>
+01:12:04скачали страницу товара антареса
+01:12:04распарсили и получили 194
+01:12:04цена товара = <194 руб.>
+01:12:07------------------------ Начало парсинга продукта с индексом: 91 ------------------------
+01:12:07получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-cerebryanyj-riflenyj/
+01:12:07начали парсинг
+01:12:07Запуск парсинга своей страницы
+01:12:07------------------------ Начало парсинга продукта с индексом: 91 ------------------------
+01:12:07получили товар: http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-cerebryanyj-riflenyj/
+01:12:07начали парсинг
+01:12:07Запуск парсинга своей страницы
+01:12:09парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9568/
+01:12:09сайт антарес свет
+01:12:10парсили http://mnogosveta.su/product/werkel-wl09-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9568/
+01:12:10сайт антарес свет
+01:12:10скачали страницу товара антареса
+01:12:10распарсили и получили 194
+01:12:10цена товара = <194 руб.>
+01:12:10скачали страницу товара антареса
+01:12:10распарсили и получили 194
+01:12:10цена товара = <194 руб.>
+01:12:13------------------------ Начало парсинга продукта с индексом: 92 ------------------------
+01:12:13получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/
+01:12:13начали парсинг
+01:12:13Запуск парсинга своей страницы
+01:12:13------------------------ Начало парсинга продукта с индексом: 92 ------------------------
+01:12:13получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/
+01:12:13начали парсинг
+01:12:13Запуск парсинга своей страницы
+01:12:15парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9567/
+01:12:15сайт антарес свет
+01:12:15скачали страницу товара антареса
+01:12:15распарсили и получили 384
+01:12:15цена товара = <384 руб.>
+01:12:16парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9567/
+01:12:16сайт антарес свет
+01:12:16скачали страницу товара антареса
+01:12:16распарсили и получили 384
+01:12:16цена товара = <384 руб.>
+01:12:18------------------------ Начало парсинга продукта с индексом: 93 ------------------------
+01:12:18получили товар: http://mnogosveta.su/product/werkel-wl10-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/
+01:12:18начали парсинг
+01:12:18Запуск парсинга своей страницы
+01:12:19------------------------ Начало парсинга продукта с индексом: 93 ------------------------
+01:12:19получили товар: http://mnogosveta.su/product/werkel-wl10-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/
+01:12:19начали парсинг
+01:12:19Запуск парсинга своей страницы
+01:12:20парсили http://mnogosveta.su/product/werkel-wl10-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9566/
+01:12:20сайт антарес свет
+01:12:21скачали страницу товара антареса
+01:12:21распарсили и получили 420
+01:12:21цена товара = <420 руб.>
+01:12:21парсили http://mnogosveta.su/product/werkel-wl10-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/9566/
+01:12:21сайт антарес свет
+01:12:22скачали страницу товара антареса
+01:12:22распарсили и получили 420
+01:12:22цена товара = <420 руб.>
+01:12:23------------------------ Начало парсинга продукта с индексом: 94 ------------------------
+01:12:23получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/
+01:12:23начали парсинг
+01:12:23Запуск парсинга своей страницы
+01:12:24------------------------ Начало парсинга продукта с индексом: 94 ------------------------
+01:12:24получили товар: http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/
+01:12:24начали парсинг
+01:12:24Запуск парсинга своей страницы
+01:12:26парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9565/
+01:12:26сайт антарес свет
+01:12:26парсили http://mnogosveta.su/product/werkel-wl09-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-cerebryanyj-riflenyj/, получили http://antares-svet.ru/svet/245/9565/
+01:12:26сайт антарес свет
+01:12:26скачали страницу товара антареса
+01:12:26распарсили и получили 420
+01:12:26цена товара = <420 руб.>
+01:12:27скачали страницу товара антареса
+01:12:27распарсили и получили 420
+01:12:27цена товара = <420 руб.>
+01:12:29------------------------ Начало парсинга продукта с индексом: 95 ------------------------
+01:12:29получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-led-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/
+01:12:29начали парсинг
+01:12:29Запуск парсинга своей страницы
+01:12:29------------------------ Начало парсинга продукта с индексом: 95 ------------------------
+01:12:29получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-led-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/
+01:12:29начали парсинг
+01:12:29Запуск парсинга своей страницы
+01:12:30парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-led-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/9010/
+01:12:30сайт антарес свет
+01:12:31парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-led-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/9010/
+01:12:31сайт антарес свет
+01:12:31скачали страницу товара антареса
+01:12:31распарсили и получили 287
+01:12:31цена товара = <287 руб.>
+01:12:32скачали страницу товара антареса
+01:12:32распарсили и получили 287
+01:12:32цена товара = <287 руб.>
+01:12:34------------------------ Начало парсинга продукта с индексом: 96 ------------------------
+01:12:34получили товар: http://mnogosveta.su/product/werkel-wl08-sw-3g-vyklyuchatel-trehklavishnyj-chernyj-matovyj/
+01:12:34начали парсинг
+01:12:34Запуск парсинга своей страницы
+01:12:36------------------------ Начало парсинга продукта с индексом: 96 ------------------------
+01:12:36получили товар: http://mnogosveta.su/product/werkel-wl08-sw-3g-vyklyuchatel-trehklavishnyj-chernyj-matovyj/
+01:12:36начали парсинг
+01:12:36Запуск парсинга своей страницы
+01:12:38парсили http://mnogosveta.su/product/werkel-wl08-sw-3g-vyklyuchatel-trehklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/9001/
+01:12:38сайт антарес свет
+01:12:39скачали страницу товара антареса
+01:12:39распарсили и получили 286
+01:12:39цена товара = <286 руб.>
+01:12:39парсили http://mnogosveta.su/product/werkel-wl08-sw-3g-vyklyuchatel-trehklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/9001/
+01:12:39сайт антарес свет
+01:12:40скачали страницу товара антареса
+01:12:40распарсили и получили 286
+01:12:40цена товара = <286 руб.>
+01:12:41------------------------ Начало парсинга продукта с индексом: 97 ------------------------
+01:12:41получили товар: http://mnogosveta.su/product/werkel-wl03-sw-3g-ivory-vyklyuchatel-trehklavishnyj-slonovaya-kost/
+01:12:41начали парсинг
+01:12:41Запуск парсинга своей страницы
+01:12:42------------------------ Начало парсинга продукта с индексом: 97 ------------------------
+01:12:42получили товар: http://mnogosveta.su/product/werkel-wl03-sw-3g-ivory-vyklyuchatel-trehklavishnyj-slonovaya-kost/
+01:12:42начали парсинг
+01:12:42Запуск парсинга своей страницы
+01:12:43парсили http://mnogosveta.su/product/werkel-wl03-sw-3g-ivory-vyklyuchatel-trehklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/9000/
+01:12:43сайт антарес свет
+01:12:44скачали страницу товара антареса
+01:12:44распарсили и получили 231
+01:12:44цена товара = <231 руб.>
+01:12:45парсили http://mnogosveta.su/product/werkel-wl03-sw-3g-ivory-vyklyuchatel-trehklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/9000/
+01:12:45сайт антарес свет
+01:12:45скачали страницу товара антареса
+01:12:45распарсили и получили 231
+01:12:45цена товара = <231 руб.>
+01:12:49------------------------ Начало парсинга продукта с индексом: 98 ------------------------
+01:12:49получили товар: http://mnogosveta.su/product/werkel-wl07-sw-3g-vyklyuchatel-trehklavishnyj-sero-korichnevyj/
+01:12:49начали парсинг
+01:12:49Запуск парсинга своей страницы
+01:12:49------------------------ Начало парсинга продукта с индексом: 98 ------------------------
+01:12:49получили товар: http://mnogosveta.su/product/werkel-wl07-sw-3g-vyklyuchatel-trehklavishnyj-sero-korichnevyj/
+01:12:49начали парсинг
+01:12:49Запуск парсинга своей страницы
+01:12:52парсили http://mnogosveta.su/product/werkel-wl07-sw-3g-vyklyuchatel-trehklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/8999/
+01:12:52сайт антарес свет
+01:12:52парсили http://mnogosveta.su/product/werkel-wl07-sw-3g-vyklyuchatel-trehklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/8999/
+01:12:52сайт антарес свет
+01:12:52скачали страницу товара антареса
+01:12:52распарсили и получили 262
+01:12:52цена товара = <262 руб.>
+01:12:52скачали страницу товара антареса
+01:12:52распарсили и получили 262
+01:12:52цена товара = <262 руб.>
+01:12:55------------------------ Начало парсинга продукта с индексом: 99 ------------------------
+01:12:55получили товар: http://mnogosveta.su/product/werkel-wl06-sw-3g-vyklyuchatel-trehklavishnyj-serebryanyj/
+01:12:55начали парсинг
+01:12:55Запуск парсинга своей страницы
+01:12:56------------------------ Начало парсинга продукта с индексом: 99 ------------------------
+01:12:56получили товар: http://mnogosveta.su/product/werkel-wl06-sw-3g-vyklyuchatel-trehklavishnyj-serebryanyj/
+01:12:56начали парсинг
+01:12:56Запуск парсинга своей страницы
+01:12:59парсили http://mnogosveta.su/product/werkel-wl06-sw-3g-vyklyuchatel-trehklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/8998/
+01:12:59сайт антарес свет
+01:12:59парсили http://mnogosveta.su/product/werkel-wl06-sw-3g-vyklyuchatel-trehklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/8998/
+01:12:59сайт антарес свет
+01:13:00скачали страницу товара антареса
+01:13:00распарсили и получили 286
+01:13:00цена товара = <286 руб.>
+01:13:00скачали страницу товара антареса
+01:13:00распарсили и получили 286
+01:13:00цена товара = <286 руб.>
+01:13:03------------------------ Начало парсинга продукта с индексом: 100 ------------------------
+01:13:03получили товар: http://mnogosveta.su/product/werkel-wl01-sw-3g-vyklyuchatel-trehklavishnyj-belyj/
+01:13:03начали парсинг
+01:13:03Запуск парсинга своей страницы
+01:13:04------------------------ Начало парсинга продукта с индексом: 100 ------------------------
+01:13:04получили товар: http://mnogosveta.su/product/werkel-wl01-sw-3g-vyklyuchatel-trehklavishnyj-belyj/
+01:13:04начали парсинг
+01:13:04Запуск парсинга своей страницы
+01:13:05парсили http://mnogosveta.su/product/werkel-wl01-sw-3g-vyklyuchatel-trehklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/8997/
+01:13:05сайт антарес свет
+01:13:06скачали страницу товара антареса
+01:13:06распарсили и получили 231
+01:13:06цена товара = <231 руб.>
+01:13:06парсили http://mnogosveta.su/product/werkel-wl01-sw-3g-vyklyuchatel-trehklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/8997/
+01:13:06сайт антарес свет
+01:13:07скачали страницу товара антареса
+01:13:07распарсили и получили 231
+01:13:07цена товара = <231 руб.>
+01:13:09------------------------ Начало парсинга продукта с индексом: 101 ------------------------
+01:13:09получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-vyklyuchatel-odnoklavishnyj-shampan-riflenyj/
+01:13:09начали парсинг
+01:13:09Запуск парсинга своей страницы
+01:13:10------------------------ Начало парсинга продукта с индексом: 101 ------------------------
+01:13:10получили товар: http://mnogosveta.su/product/werkel-wl10-sw-1g-vyklyuchatel-odnoklavishnyj-shampan-riflenyj/
+01:13:10начали парсинг
+01:13:10Запуск парсинга своей страницы
+01:13:12парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-vyklyuchatel-odnoklavishnyj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/8996/
+01:13:12сайт антарес свет
+01:13:13скачали страницу товара антареса
+01:13:13распарсили и получили 175
+01:13:13цена товара = <175 руб.>
+01:13:14парсили http://mnogosveta.su/product/werkel-wl10-sw-1g-vyklyuchatel-odnoklavishnyj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/8996/
+01:13:14сайт антарес свет
+01:13:15скачали страницу товара антареса
+01:13:15распарсили и получили 175
+01:13:15цена товара = <175 руб.>
+01:13:17------------------------ Начало парсинга продукта с индексом: 102 ------------------------
+01:13:17получили товар: http://mnogosveta.su/product/werkel-wl10-sw-2g-vyklyuchatel-dvuhklavishnyj-shampan-riflenyj/
+01:13:17начали парсинг
+01:13:17Запуск парсинга своей страницы
+01:13:18------------------------ Начало парсинга продукта с индексом: 102 ------------------------
+01:13:18получили товар: http://mnogosveta.su/product/werkel-wl10-sw-2g-vyklyuchatel-dvuhklavishnyj-shampan-riflenyj/
+01:13:18начали парсинг
+01:13:18Запуск парсинга своей страницы
+01:13:20парсили http://mnogosveta.su/product/werkel-wl10-sw-2g-vyklyuchatel-dvuhklavishnyj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/8995/
+01:13:20сайт антарес свет
+01:13:21скачали страницу товара антареса
+01:13:21распарсили и получили 203
+01:13:21цена товара = <203 руб.>
+01:13:21парсили http://mnogosveta.su/product/werkel-wl10-sw-2g-vyklyuchatel-dvuhklavishnyj-shampan-riflenyj/, получили http://antares-svet.ru/svet/245/8995/
+01:13:21сайт антарес свет
+01:13:21скачали страницу товара антареса
+01:13:21распарсили и получили 203
+01:13:21цена товара = <203 руб.>
+01:13:24------------------------ Начало парсинга продукта с индексом: 103 ------------------------
+01:13:24получили товар: http://mnogosveta.su/product/werkel-wl08-dm600-dimmer-chernyj-matovyj/
+01:13:24начали парсинг
+01:13:24Запуск парсинга своей страницы
+01:13:25------------------------ Начало парсинга продукта с индексом: 103 ------------------------
+01:13:25получили товар: http://mnogosveta.su/product/werkel-wl08-dm600-dimmer-chernyj-matovyj/
+01:13:25начали парсинг
+01:13:25Запуск парсинга своей страницы
+01:13:27парсили http://mnogosveta.su/product/werkel-wl08-dm600-dimmer-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7985/
+01:13:27сайт антарес свет
+01:13:27скачали страницу товара антареса
+01:13:27распарсили и получили 1125
+01:13:27цена товара = <1125 руб.>
+01:13:28парсили http://mnogosveta.su/product/werkel-wl08-dm600-dimmer-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7985/
+01:13:28сайт антарес свет
+01:13:28скачали страницу товара антареса
+01:13:28распарсили и получили 1125
+01:13:28цена товара = <1125 руб.>
+01:13:30------------------------ Начало парсинга продукта с индексом: 104 ------------------------
+01:13:30получили товар: http://mnogosveta.su/product/werkel-wl03-dm600-dimmer-slonovaya-kost/
+01:13:30начали парсинг
+01:13:30Запуск парсинга своей страницы
+01:13:31------------------------ Начало парсинга продукта с индексом: 104 ------------------------
+01:13:31получили товар: http://mnogosveta.su/product/werkel-wl03-dm600-dimmer-slonovaya-kost/
+01:13:31начали парсинг
+01:13:31Запуск парсинга своей страницы
+01:13:32парсили http://mnogosveta.su/product/werkel-wl03-dm600-dimmer-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7984/
+01:13:32сайт антарес свет
+01:13:33скачали страницу товара антареса
+01:13:33распарсили и получили 1111
+01:13:33цена товара = <1111 руб.>
+01:13:33парсили http://mnogosveta.su/product/werkel-wl03-dm600-dimmer-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7984/
+01:13:33сайт антарес свет
+01:13:33скачали страницу товара антареса
+01:13:33распарсили и получили 1111
+01:13:33цена товара = <1111 руб.>
+01:13:35------------------------ Начало парсинга продукта с индексом: 105 ------------------------
+01:13:35получили товар: http://mnogosveta.su/product/werkel-wl06-dm600-dimmer-serebryanyj/
+01:13:35начали парсинг
+01:13:35Запуск парсинга своей страницы
+01:13:37------------------------ Начало парсинга продукта с индексом: 105 ------------------------
+01:13:37получили товар: http://mnogosveta.su/product/werkel-wl06-dm600-dimmer-serebryanyj/
+01:13:37начали парсинг
+01:13:37Запуск парсинга своей страницы
+01:13:39парсили http://mnogosveta.su/product/werkel-wl06-dm600-dimmer-serebryanyj/, получили http://antares-svet.ru/svet/245/7983/
+01:13:39сайт антарес свет
+01:13:40скачали страницу товара антареса
+01:13:40распарсили и получили 1125
+01:13:40цена товара = <1125 руб.>
+01:13:42парсили http://mnogosveta.su/product/werkel-wl06-dm600-dimmer-serebryanyj/, получили http://antares-svet.ru/svet/245/7983/
+01:13:42сайт антарес свет
+01:13:43скачали страницу товара антареса
+01:13:43распарсили и получили 1125
+01:13:43цена товара = <1125 руб.>
+01:13:45------------------------ Начало парсинга продукта с индексом: 106 ------------------------
+01:13:45получили товар: http://mnogosveta.su/product/werkel-wl01-dm600-dimmer-belyj/
+01:13:45начали парсинг
+01:13:45Запуск парсинга своей страницы
+01:13:47------------------------ Начало парсинга продукта с индексом: 106 ------------------------
+01:13:47получили товар: http://mnogosveta.su/product/werkel-wl01-dm600-dimmer-belyj/
+01:13:47начали парсинг
+01:13:47Запуск парсинга своей страницы
+01:13:49парсили http://mnogosveta.su/product/werkel-wl01-dm600-dimmer-belyj/, получили http://antares-svet.ru/svet/245/7977/
+01:13:49сайт антарес свет
+01:13:50скачали страницу товара антареса
+01:13:50распарсили и получили 1111
+01:13:50цена товара = <1111 руб.>
+01:13:50парсили http://mnogosveta.su/product/werkel-wl01-dm600-dimmer-belyj/, получили http://antares-svet.ru/svet/245/7977/
+01:13:50сайт антарес свет
+01:13:51скачали страницу товара антареса
+01:13:51распарсили и получили 1111
+01:13:51цена товара = <1111 руб.>
+01:13:53------------------------ Начало парсинга продукта с индексом: 107 ------------------------
+01:13:53получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-chernyj-matovyj/
+01:13:53начали парсинг
+01:13:53Запуск парсинга своей страницы
+01:13:55------------------------ Начало парсинга продукта с индексом: 107 ------------------------
+01:13:55получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-chernyj-matovyj/
+01:13:55начали парсинг
+01:13:55Запуск парсинга своей страницы
+01:13:56парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7976/
+01:13:56сайт антарес свет
+01:13:57скачали страницу товара антареса
+01:13:57распарсили и получили 301
+01:13:57цена товара = <301 руб.>
+01:13:58парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7976/
+01:13:58сайт антарес свет
+01:13:58скачали страницу товара антареса
+01:13:58распарсили и получили 301
+01:13:58цена товара = <301 руб.>
+01:14:00------------------------ Начало парсинга продукта с индексом: 108 ------------------------
+01:14:00получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-s-perekrestnyj-pereklyuchatel-odnoklavishnyj-slonovaya-kost/
+01:14:00начали парсинг
+01:14:00Запуск парсинга своей страницы
+01:14:02------------------------ Начало парсинга продукта с индексом: 108 ------------------------
+01:14:02получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-s-perekrestnyj-pereklyuchatel-odnoklavishnyj-slonovaya-kost/
+01:14:02начали парсинг
+01:14:02Запуск парсинга своей страницы
+01:14:04парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-s-perekrestnyj-pereklyuchatel-odnoklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7975/
+01:14:04сайт антарес свет
+01:14:05скачали страницу товара антареса
+01:14:05распарсили и получили 276
+01:14:05цена товара = <276 руб.>
+01:14:06парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-s-perekrestnyj-pereklyuchatel-odnoklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7975/
+01:14:06сайт антарес свет
+01:14:07скачали страницу товара антареса
+01:14:07распарсили и получили 276
+01:14:07цена товара = <276 руб.>
+01:14:08------------------------ Начало парсинга продукта с индексом: 109 ------------------------
+01:14:08получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-sero-korichnevyj/
+01:14:08начали парсинг
+01:14:08Запуск парсинга своей страницы
+01:14:10------------------------ Начало парсинга продукта с индексом: 109 ------------------------
+01:14:10получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-sero-korichnevyj/
+01:14:10начали парсинг
+01:14:10Запуск парсинга своей страницы
+01:14:11парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7974/
+01:14:11сайт антарес свет
+01:14:12скачали страницу товара антареса
+01:14:12распарсили и получили 279
+01:14:12цена товара = <279 руб.>
+01:14:13парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7974/
+01:14:13сайт антарес свет
+01:14:14скачали страницу товара антареса
+01:14:14распарсили и получили 279
+01:14:14цена товара = <279 руб.>
+01:14:15------------------------ Начало парсинга продукта с индексом: 110 ------------------------
+01:14:15получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-belyj/
+01:14:15начали парсинг
+01:14:15Запуск парсинга своей страницы
+01:14:18------------------------ Начало парсинга продукта с индексом: 110 ------------------------
+01:14:18получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-belyj/
+01:14:18начали парсинг
+01:14:18Запуск парсинга своей страницы
+01:14:18парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/7972/
+01:14:18сайт антарес свет
+01:14:18скачали страницу товара антареса
+01:14:18распарсили и получили 276
+01:14:18цена товара = <276 руб.>
+01:14:21парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/7972/
+01:14:21сайт антарес свет
+01:14:22скачали страницу товара антареса
+01:14:22------------------------ Начало парсинга продукта с индексом: 111 ------------------------
+01:14:22получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-serebryanyj/
+01:14:22начали парсинг
+01:14:22Запуск парсинга своей страницы
+01:14:22распарсили и получили 276
+01:14:22цена товара = <276 руб.>
+01:14:26парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/7973/
+01:14:26сайт антарес свет
+01:14:26------------------------ Начало парсинга продукта с индексом: 111 ------------------------
+01:14:26получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-serebryanyj/
+01:14:26начали парсинг
+01:14:26Запуск парсинга своей страницы
+01:14:27скачали страницу товара антареса
+01:14:27распарсили и получили 301
+01:14:27цена товара = <301 руб.>
+01:14:28парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-c-perekrestnyj-pereklyuchatel-odnoklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/7973/
+01:14:28сайт антарес свет
+01:14:29скачали страницу товара антареса
+01:14:29распарсили и получили 301
+01:14:29цена товара = <301 руб.>
+01:14:30------------------------ Начало парсинга продукта с индексом: 112 ------------------------
+01:14:30получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-chernyj-matovyj/
+01:14:30начали парсинг
+01:14:30Запуск парсинга своей страницы
+01:14:31------------------------ Начало парсинга продукта с индексом: 112 ------------------------
+01:14:31получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-chernyj-matovyj/
+01:14:31начали парсинг
+01:14:31Запуск парсинга своей страницы
+01:14:34парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7971/
+01:14:34сайт антарес свет
+01:14:35скачали страницу товара антареса
+01:14:35распарсили и получили 276
+01:14:35цена товара = <276 руб.>
+01:14:35парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7971/
+01:14:35сайт антарес свет
+01:14:36скачали страницу товара антареса
+01:14:36распарсили и получили 276
+01:14:36цена товара = <276 руб.>
+01:14:38------------------------ Начало парсинга продукта с индексом: 113 ------------------------
+01:14:38получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-slonovaya-kost/
+01:14:38начали парсинг
+01:14:38Запуск парсинга своей страницы
+01:14:40------------------------ Начало парсинга продукта с индексом: 113 ------------------------
+01:14:40получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-slonovaya-kost/
+01:14:40начали парсинг
+01:14:40Запуск парсинга своей страницы
+01:14:43парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7970/
+01:14:43сайт антарес свет
+01:14:44парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7970/
+01:14:44сайт антарес свет
+01:14:44скачали страницу товара антареса
+01:14:44распарсили и получили 264
+01:14:44цена товара = <264 руб.>
+01:14:44скачали страницу товара антареса
+01:14:45распарсили и получили 264
+01:14:45цена товара = <264 руб.>
+01:14:48------------------------ Начало парсинга продукта с индексом: 114 ------------------------
+01:14:48получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-sero-korichnevyj/
+01:14:48начали парсинг
+01:14:48Запуск парсинга своей страницы
+01:14:48------------------------ Начало парсинга продукта с индексом: 114 ------------------------
+01:14:48получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-sero-korichnevyj/
+01:14:48начали парсинг
+01:14:48Запуск парсинга своей страницы
+01:14:50парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7969/
+01:14:50сайт антарес свет
+01:14:51парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7969/
+01:14:51сайт антарес свет
+01:14:51скачали страницу товара антареса
+01:14:51распарсили и получили 272
+01:14:51цена товара = <272 руб.>
+01:14:52скачали страницу товара антареса
+01:14:52распарсили и получили 272
+01:14:52цена товара = <272 руб.>
+01:14:54------------------------ Начало парсинга продукта с индексом: 115 ------------------------
+01:14:54получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj/
+01:14:54начали парсинг
+01:14:54Запуск парсинга своей страницы
+01:14:55------------------------ Начало парсинга продукта с индексом: 115 ------------------------
+01:14:55получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj/
+01:14:55начали парсинг
+01:14:55Запуск парсинга своей страницы
+01:14:57парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7968/
+01:14:57сайт антарес свет
+01:14:58скачали страницу товара антареса
+01:14:58парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7968/
+01:14:58сайт антарес свет
+01:14:58распарсили и получили 276
+01:14:58цена товара = <276 руб.>
+01:14:58скачали страницу товара антареса
+01:14:58распарсили и получили 276
+01:14:58цена товара = <276 руб.>
+01:15:01------------------------ Начало парсинга продукта с индексом: 116 ------------------------
+01:15:01получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-belyj/
+01:15:01начали парсинг
+01:15:01Запуск парсинга своей страницы
+01:15:03------------------------ Начало парсинга продукта с индексом: 116 ------------------------
+01:15:03получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-belyj/
+01:15:03начали парсинг
+01:15:03Запуск парсинга своей страницы
+01:15:04парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7966/
+01:15:04сайт антарес свет
+01:15:05скачали страницу товара антареса
+01:15:05распарсили и получили 264
+01:15:05цена товара = <264 руб.>
+01:15:06парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7966/
+01:15:06сайт антарес свет
+01:15:07скачали страницу товара антареса
+01:15:07распарсили и получили 264
+01:15:07цена товара = <264 руб.>
+01:15:09------------------------ Начало парсинга продукта с индексом: 117 ------------------------
+01:15:09получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-glyantsevyj-nikel/
+01:15:09начали парсинг
+01:15:09Запуск парсинга своей страницы
+01:15:11------------------------ Начало парсинга продукта с индексом: 117 ------------------------
+01:15:11получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-glyantsevyj-nikel/
+01:15:11начали парсинг
+01:15:11Запуск парсинга своей страницы
+01:15:12парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7967/
+01:15:12сайт антарес свет
+01:15:12скачали страницу товара антареса
+01:15:13распарсили и получили 296
+01:15:13цена товара = <296 руб.>
+01:15:13парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-led-vyklyuchatel-odnoklavishnyj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7967/
+01:15:13сайт антарес свет
+01:15:14скачали страницу товара антареса
+01:15:14распарсили и получили 296
+01:15:14цена товара = <296 руб.>
+01:15:15------------------------ Начало парсинга продукта с индексом: 118 ------------------------
+01:15:15получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/
+01:15:15начали парсинг
+01:15:15Запуск парсинга своей страницы
+01:15:16------------------------ Начало парсинга продукта с индексом: 118 ------------------------
+01:15:16получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/
+01:15:16начали парсинг
+01:15:16Запуск парсинга своей страницы
+01:15:18парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7965/
+01:15:18сайт антарес свет
+01:15:18скачали страницу товара антареса
+01:15:18распарсили и получили 303
+01:15:18цена товара = <303 руб.>
+01:15:19парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7965/
+01:15:19сайт антарес свет
+01:15:19скачали страницу товара антареса
+01:15:19распарсили и получили 303
+01:15:19цена товара = <303 руб.>
+01:15:20------------------------ Начало парсинга продукта с индексом: 119 ------------------------
+01:15:20получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-slonovaya-kost/
+01:15:20начали парсинг
+01:15:20Запуск парсинга своей страницы
+01:15:22------------------------ Начало парсинга продукта с индексом: 119 ------------------------
+01:15:22получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-slonovaya-kost/
+01:15:22начали парсинг
+01:15:22Запуск парсинга своей страницы
+01:15:24парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7964/
+01:15:24сайт антарес свет
+01:15:25скачали страницу товара антареса
+01:15:25распарсили и получили 175
+01:15:25цена товара = <175 руб.>
+01:15:25парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-2w-ivory-vyklyuchatel-odnoklavishnyj-prohodnoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7964/
+01:15:25сайт антарес свет
+01:15:26скачали страницу товара антареса
+01:15:26распарсили и получили 175
+01:15:26цена товара = <175 руб.>
+01:15:27------------------------ Начало парсинга продукта с индексом: 120 ------------------------
+01:15:27получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-lel-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/
+01:15:27начали парсинг
+01:15:27Запуск парсинга своей страницы
+01:15:28------------------------ Начало парсинга продукта с индексом: 120 ------------------------
+01:15:28получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-lel-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/
+01:15:28начали парсинг
+01:15:28Запуск парсинга своей страницы
+01:15:29парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-lel-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7963/
+01:15:29сайт антарес свет
+01:15:30скачали страницу товара антареса
+01:15:30распарсили и получили 296
+01:15:30цена товара = <296 руб.>
+01:15:31парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-lel-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7963/
+01:15:31сайт антарес свет
+01:15:32скачали страницу товара антареса
+01:15:32распарсили и получили 296
+01:15:32цена товара = <296 руб.>
+01:15:33------------------------ Начало парсинга продукта с индексом: 121 ------------------------
+01:15:33получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/
+01:15:33начали парсинг
+01:15:33Запуск парсинга своей страницы
+01:15:36------------------------ Начало парсинга продукта с индексом: 121 ------------------------
+01:15:36получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/
+01:15:36начали парсинг
+01:15:36Запуск парсинга своей страницы
+01:15:37парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7962/
+01:15:37сайт антарес свет
+01:15:37скачали страницу товара антареса
+01:15:37распарсили и получили 303
+01:15:37цена товара = <303 руб.>
+01:15:40парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7962/
+01:15:40сайт антарес свет
+01:15:40скачали страницу товара антареса
+01:15:40распарсили и получили 303
+01:15:40цена товара = <303 руб.>
+01:15:41------------------------ Начало парсинга продукта с индексом: 122 ------------------------
+01:15:41получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/
+01:15:41начали парсинг
+01:15:41Запуск парсинга своей страницы
+01:15:44------------------------ Начало парсинга продукта с индексом: 122 ------------------------
+01:15:44получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/
+01:15:44начали парсинг
+01:15:44Запуск парсинга своей страницы
+01:15:45парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7961/
+01:15:45сайт антарес свет
+01:15:45скачали страницу товара антареса
+01:15:46распарсили и получили 318
+01:15:46цена товара = <318 руб.>
+01:15:48парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7961/
+01:15:48сайт антарес свет
+01:15:48скачали страницу товара антареса
+01:15:48распарсили и получили 318
+01:15:48цена товара = <318 руб.>
+01:15:50------------------------ Начало парсинга продукта с индексом: 123 ------------------------
+01:15:50получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-belyj/
+01:15:50начали парсинг
+01:15:50Запуск парсинга своей страницы
+01:15:52------------------------ Начало парсинга продукта с индексом: 123 ------------------------
+01:15:52получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-belyj/
+01:15:52начали парсинг
+01:15:52Запуск парсинга своей страницы
+01:15:52парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7960/
+01:15:52сайт антарес свет
+01:15:53скачали страницу товара антареса
+01:15:53распарсили и получили 287
+01:15:53цена товара = <287 руб.>
+01:15:54парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-led-vyklyuchatel-odnoklavishnyj-prohodnoj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7960/
+01:15:54сайт антарес свет
+01:15:55скачали страницу товара антареса
+01:15:55распарсили и получили 287
+01:15:55цена товара = <287 руб.>
+01:15:56------------------------ Начало парсинга продукта с индексом: 124 ------------------------
+01:15:56получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-chernyj-matovyj/
+01:15:56начали парсинг
+01:15:56Запуск парсинга своей страницы
+01:15:57------------------------ Начало парсинга продукта с индексом: 124 ------------------------
+01:15:57получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-chernyj-matovyj/
+01:15:57начали парсинг
+01:15:57Запуск парсинга своей страницы
+01:15:59парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7959/
+01:15:59сайт антарес свет
+01:16:00парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7959/
+01:16:00сайт антарес свет
+01:16:00скачали страницу товара антареса
+01:16:00распарсили и получили 194
+01:16:00цена товара = <194 руб.>
+01:16:00скачали страницу товара антареса
+01:16:01распарсили и получили 194
+01:16:01цена товара = <194 руб.>
+01:16:02------------------------ Начало парсинга продукта с индексом: 125 ------------------------
+01:16:02получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-sero-korichnevyj/
+01:16:02начали парсинг
+01:16:02Запуск парсинга своей страницы
+01:16:03------------------------ Начало парсинга продукта с индексом: 125 ------------------------
+01:16:03получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-sero-korichnevyj/
+01:16:03начали парсинг
+01:16:03Запуск парсинга своей страницы
+01:16:05парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7958/
+01:16:05сайт антарес свет
+01:16:05парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7958/
+01:16:05сайт антарес свет
+01:16:06скачали страницу товара антареса
+01:16:06распарсили и получили 185
+01:16:06цена товара = <185 руб.>
+01:16:06скачали страницу товара антареса
+01:16:06распарсили и получили 185
+01:16:06цена товара = <185 руб.>
+01:16:09------------------------ Начало парсинга продукта с индексом: 126 ------------------------
+01:16:09получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-glyantsevyj-nikel/
+01:16:09начали парсинг
+01:16:09Запуск парсинга своей страницы
+01:16:09------------------------ Начало парсинга продукта с индексом: 126 ------------------------
+01:16:09получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-glyantsevyj-nikel/
+01:16:09начали парсинг
+01:16:09Запуск парсинга своей страницы
+01:16:12парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7956/
+01:16:12сайт антарес свет
+01:16:12парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7956/
+01:16:12сайт антарес свет
+01:16:13скачали страницу товара антареса
+01:16:13распарсили и получили 205
+01:16:13цена товара = <205 руб.>
+01:16:13скачали страницу товара антареса
+01:16:13распарсили и получили 205
+01:16:13цена товара = <205 руб.>
+01:16:16------------------------ Начало парсинга продукта с индексом: 127 ------------------------
+01:16:16получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-serebryanyj/
+01:16:16начали парсинг
+01:16:16Запуск парсинга своей страницы
+01:16:18------------------------ Начало парсинга продукта с индексом: 127 ------------------------
+01:16:18получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-serebryanyj/
+01:16:18начали парсинг
+01:16:18Запуск парсинга своей страницы
+01:16:19парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7957/
+01:16:19сайт антарес свет
+01:16:19скачали страницу товара антареса
+01:16:20распарсили и получили 194
+01:16:20цена товара = <194 руб.>
+01:16:23парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7957/
+01:16:23сайт антарес свет
+01:16:23------------------------ Начало парсинга продукта с индексом: 128 ------------------------
+01:16:23получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-belyj/
+01:16:23начали парсинг
+01:16:23Запуск парсинга своей страницы
+01:16:24скачали страницу товара антареса
+01:16:24распарсили и получили 194
+01:16:24цена товара = <194 руб.>
+01:16:26------------------------ Начало парсинга продукта с индексом: 128 ------------------------
+01:16:26получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-belyj/
+01:16:26начали парсинг
+01:16:26Запуск парсинга своей страницы
+01:16:26парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-belyj/, получили http://antares-svet.ru/svet/245/7955/
+01:16:26сайт антарес свет
+01:16:27скачали страницу товара антареса
+01:16:27распарсили и получили 175
+01:16:27цена товара = <175 руб.>
+01:16:28парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-2w-vyklyuchatel-odnoklavishnyj-prohodnoj-belyj/, получили http://antares-svet.ru/svet/245/7955/
+01:16:28сайт антарес свет
+01:16:29скачали страницу товара антареса
+01:16:29распарсили и получили 175
+01:16:29цена товара = <175 руб.>
+01:16:30------------------------ Начало парсинга продукта с индексом: 129 ------------------------
+01:16:30получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-chernyj-matovyj/
+01:16:30начали парсинг
+01:16:30Запуск парсинга своей страницы
+01:16:31------------------------ Начало парсинга продукта с индексом: 129 ------------------------
+01:16:31получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-chernyj-matovyj/
+01:16:31начали парсинг
+01:16:31Запуск парсинга своей страницы
+01:16:33парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7954/
+01:16:33сайт антарес свет
+01:16:33скачали страницу товара антареса
+01:16:33распарсили и получили 384
+01:16:33цена товара = <384 руб.>
+01:16:34парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7954/
+01:16:34сайт антарес свет
+01:16:34скачали страницу товара антареса
+01:16:34распарсили и получили 384
+01:16:34цена товара = <384 руб.>
+01:16:36------------------------ Начало парсинга продукта с индексом: 130 ------------------------
+01:16:36получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj/
+01:16:36начали парсинг
+01:16:36Запуск парсинга своей страницы
+01:16:38------------------------ Начало парсинга продукта с индексом: 130 ------------------------
+01:16:38получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj/
+01:16:38начали парсинг
+01:16:38Запуск парсинга своей страницы
+01:16:41парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7951/
+01:16:41сайт антарес свет
+01:16:42скачали страницу товара антареса
+01:16:42распарсили и получили 384
+01:16:42цена товара = <384 руб.>
+01:16:43парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7951/
+01:16:43сайт антарес свет
+01:16:44скачали страницу товара антареса
+01:16:44распарсили и получили 384
+01:16:44цена товара = <384 руб.>
+01:16:46------------------------ Начало парсинга продукта с индексом: 131 ------------------------
+01:16:46получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-slonovaya-kost/
+01:16:46начали парсинг
+01:16:46Запуск парсинга своей страницы
+01:16:47------------------------ Начало парсинга продукта с индексом: 131 ------------------------
+01:16:47получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-slonovaya-kost/
+01:16:47начали парсинг
+01:16:47Запуск парсинга своей страницы
+01:16:49парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7953/
+01:16:49сайт антарес свет
+01:16:49скачали страницу товара антареса
+01:16:49распарсили и получили 370
+01:16:49цена товара = <370 руб.>
+01:16:50парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7953/
+01:16:50сайт антарес свет
+01:16:51скачали страницу товара антареса
+01:16:51распарсили и получили 370
+01:16:51цена товара = <370 руб.>
+01:16:53------------------------ Начало парсинга продукта с индексом: 132 ------------------------
+01:16:53получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-sero-korichnevyj/
+01:16:53начали парсинг
+01:16:53Запуск парсинга своей страницы
+01:16:54------------------------ Начало парсинга продукта с индексом: 132 ------------------------
+01:16:54получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-sero-korichnevyj/
+01:16:54начали парсинг
+01:16:54Запуск парсинга своей страницы
+01:16:56парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7952/
+01:16:56сайт антарес свет
+01:16:56парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7952/
+01:16:56сайт антарес свет
+01:16:57скачали страницу товара антареса
+01:16:57распарсили и получили 383
+01:16:57цена товара = <383 руб.>
+01:16:57скачали страницу товара антареса
+01:16:57распарсили и получили 383
+01:16:57цена товара = <383 руб.>
+01:17:01------------------------ Начало парсинга продукта с индексом: 133 ------------------------
+01:17:01получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-glyantsevyj-nikel/
+01:17:01начали парсинг
+01:17:01Запуск парсинга своей страницы
+01:17:01------------------------ Начало парсинга продукта с индексом: 133 ------------------------
+01:17:01получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-glyantsevyj-nikel/
+01:17:01начали парсинг
+01:17:01Запуск парсинга своей страницы
+01:17:07парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7950/
+01:17:07сайт антарес свет
+01:17:07парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7950/
+01:17:07сайт антарес свет
+01:17:08скачали страницу товара антареса
+01:17:08распарсили и получили 405
+01:17:08цена товара = <405 руб.>
+01:17:08скачали страницу товара антареса
+01:17:08распарсили и получили 405
+01:17:08цена товара = <405 руб.>
+01:17:12------------------------ Начало парсинга продукта с индексом: 134 ------------------------
+01:17:12получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-belyj/
+01:17:12начали парсинг
+01:17:12Запуск парсинга своей страницы
+01:17:13------------------------ Начало парсинга продукта с индексом: 134 ------------------------
+01:17:13получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-belyj/
+01:17:13начали парсинг
+01:17:13Запуск парсинга своей страницы
+01:17:17парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7949/
+01:17:17сайт антарес свет
+01:17:17парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-led-vyklyuchatel-dvuhklavishnyj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7949/
+01:17:17сайт антарес свет
+01:17:18скачали страницу товара антареса
+01:17:18распарсили и получили 370
+01:17:18цена товара = <370 руб.>
+01:17:18скачали страницу товара антареса
+01:17:18распарсили и получили 370
+01:17:18цена товара = <370 руб.>
+01:17:24------------------------ Начало парсинга продукта с индексом: 135 ------------------------
+01:17:24получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/
+01:17:24начали парсинг
+01:17:24Запуск парсинга своей страницы
+01:17:24------------------------ Начало парсинга продукта с индексом: 135 ------------------------
+01:17:24получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/
+01:17:24начали парсинг
+01:17:24Запуск парсинга своей страницы
+01:17:27парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7948/
+01:17:27сайт антарес свет
+01:17:28скачали страницу товара антареса
+01:17:28распарсили и получили 420
+01:17:28цена товара = <420 руб.>
+01:17:29парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7948/
+01:17:29сайт антарес свет
+01:17:30скачали страницу товара антареса
+01:17:30распарсили и получили 420
+01:17:30цена товара = <420 руб.>
+01:17:32------------------------ Начало парсинга продукта с индексом: 136 ------------------------
+01:17:32получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-led-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/
+01:17:32начали парсинг
+01:17:32Запуск парсинга своей страницы
+01:17:35------------------------ Начало парсинга продукта с индексом: 136 ------------------------
+01:17:35получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-led-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/
+01:17:35начали парсинг
+01:17:35Запуск парсинга своей страницы
+01:17:37парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-led-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7947/
+01:17:37сайт антарес свет
+01:17:38скачали страницу товара антареса
+01:17:38распарсили и получили 405
+01:17:38цена товара = <405 руб.>
+01:17:39парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-led-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7947/
+01:17:39сайт антарес свет
+01:17:39скачали страницу товара антареса
+01:17:39распарсили и получили 405
+01:17:39цена товара = <405 руб.>
+01:17:40------------------------ Начало парсинга продукта с индексом: 137 ------------------------
+01:17:40получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/
+01:17:40начали парсинг
+01:17:40Запуск парсинга своей страницы
+01:17:42------------------------ Начало парсинга продукта с индексом: 137 ------------------------
+01:17:42получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/
+01:17:42начали парсинг
+01:17:42Запуск парсинга своей страницы
+01:17:45парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7946/
+01:17:45сайт антарес свет
+01:17:45парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7946/
+01:17:45сайт антарес свет
+01:17:45скачали страницу товара антареса
+01:17:45распарсили и получили 415
+01:17:45цена товара = <415 руб.>
+01:17:46скачали страницу товара антареса
+01:17:46распарсили и получили 415
+01:17:46цена товара = <415 руб.>
+01:17:48------------------------ Начало парсинга продукта с индексом: 138 ------------------------
+01:17:48получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/
+01:17:48начали парсинг
+01:17:48Запуск парсинга своей страницы
+01:17:48------------------------ Начало парсинга продукта с индексом: 138 ------------------------
+01:17:48получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/
+01:17:48начали парсинг
+01:17:48Запуск парсинга своей страницы
+01:17:51парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7945/
+01:17:51сайт антарес свет
+01:17:51парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7945/
+01:17:51сайт антарес свет
+01:17:52скачали страницу товара антареса
+01:17:52распарсили и получили 420
+01:17:52цена товара = <420 руб.>
+01:17:52скачали страницу товара антареса
+01:17:52распарсили и получили 420
+01:17:52цена товара = <420 руб.>
+01:17:56------------------------ Начало парсинга продукта с индексом: 139 ------------------------
+01:17:56получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/
+01:17:56начали парсинг
+01:17:56Запуск парсинга своей страницы
+01:17:56------------------------ Начало парсинга продукта с индексом: 139 ------------------------
+01:17:56получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/
+01:17:56начали парсинг
+01:17:56Запуск парсинга своей страницы
+01:17:58парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7944/
+01:17:58сайт антарес свет
+01:17:59скачали страницу товара антареса
+01:17:59распарсили и получили 458
+01:17:59цена товара = <458 руб.>
+01:18:00парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7944/
+01:18:00сайт антарес свет
+01:18:01скачали страницу товара антареса
+01:18:02распарсили и получили 458
+01:18:02цена товара = <458 руб.>
+01:18:03------------------------ Начало парсинга продукта с индексом: 140 ------------------------
+01:18:03получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-chernyj-matovyj/
+01:18:03начали парсинг
+01:18:03Запуск парсинга своей страницы
+01:18:05------------------------ Начало парсинга продукта с индексом: 140 ------------------------
+01:18:05получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-chernyj-matovyj/
+01:18:05начали парсинг
+01:18:05Запуск парсинга своей страницы
+01:18:07парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7942/
+01:18:07сайт антарес свет
+01:18:08скачали страницу товара антареса
+01:18:08распарсили и получили 224
+01:18:08цена товара = <224 руб.>
+01:18:08парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7942/
+01:18:08сайт антарес свет
+01:18:09скачали страницу товара антареса
+01:18:09распарсили и получили 224
+01:18:09цена товара = <224 руб.>
+01:18:11------------------------ Начало парсинга продукта с индексом: 141 ------------------------
+01:18:11получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-belyj/
+01:18:11начали парсинг
+01:18:11Запуск парсинга своей страницы
+01:18:11------------------------ Начало парсинга продукта с индексом: 141 ------------------------
+01:18:11получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-belyj/
+01:18:11начали парсинг
+01:18:11Запуск парсинга своей страницы
+01:18:13парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7943/
+01:18:13сайт антарес свет
+01:18:14парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-led-vyklyuchatel-dvuhklavishnyj-prohodnoj-s-podsvetkoj-belyj/, получили http://antares-svet.ru/svet/245/7943/
+01:18:14сайт антарес свет
+01:18:14скачали страницу товара антареса
+01:18:14распарсили и получили 405
+01:18:14цена товара = <405 руб.>
+01:18:15скачали страницу товара антареса
+01:18:15распарсили и получили 405
+01:18:15цена товара = <405 руб.>
+01:18:16------------------------ Начало парсинга продукта с индексом: 142 ------------------------
+01:18:16получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-slonovaya-kost/
+01:18:16начали парсинг
+01:18:16Запуск парсинга своей страницы
+01:18:18------------------------ Начало парсинга продукта с индексом: 142 ------------------------
+01:18:18получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-slonovaya-kost/
+01:18:18начали парсинг
+01:18:18Запуск парсинга своей страницы
+01:18:19парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7941/
+01:18:19сайт антарес свет
+01:18:20скачали страницу товара антареса
+01:18:20распарсили и получили 210
+01:18:20цена товара = <210 руб.>
+01:18:21парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-2w-ivory-vyklyuchatel-dvuhklavishnyj-prohodnoj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7941/
+01:18:21сайт антарес свет
+01:18:22скачали страницу товара антареса
+01:18:22распарсили и получили 210
+01:18:22цена товара = <210 руб.>
+01:18:23------------------------ Начало парсинга продукта с индексом: 143 ------------------------
+01:18:23получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-sero-korichnevyj/
+01:18:23начали парсинг
+01:18:23Запуск парсинга своей страницы
+01:18:25------------------------ Начало парсинга продукта с индексом: 143 ------------------------
+01:18:25получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-sero-korichnevyj/
+01:18:25начали парсинг
+01:18:25Запуск парсинга своей страницы
+01:18:25парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7940/
+01:18:25сайт антарес свет
+01:18:26скачали страницу товара антареса
+01:18:26распарсили и получили 217
+01:18:26цена товара = <217 руб.>
+01:18:27парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7940/
+01:18:27сайт антарес свет
+01:18:28скачали страницу товара антареса
+01:18:28распарсили и получили 217
+01:18:28цена товара = <217 руб.>
+01:18:29------------------------ Начало парсинга продукта с индексом: 144 ------------------------
+01:18:29получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj/
+01:18:29начали парсинг
+01:18:29Запуск парсинга своей страницы
+01:18:31------------------------ Начало парсинга продукта с индексом: 144 ------------------------
+01:18:31получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj/
+01:18:31начали парсинг
+01:18:31Запуск парсинга своей страницы
+01:18:32парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7939/
+01:18:32сайт антарес свет
+01:18:32скачали страницу товара антареса
+01:18:32распарсили и получили 224
+01:18:32цена товара = <224 руб.>
+01:18:33парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-serebryanyj/, получили http://antares-svet.ru/svet/245/7939/
+01:18:33сайт антарес свет
+01:18:34скачали страницу товара антареса
+01:18:34распарсили и получили 224
+01:18:34цена товара = <224 руб.>
+01:18:35------------------------ Начало парсинга продукта с индексом: 145 ------------------------
+01:18:35получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-glyantsevyj-nikel/
+01:18:35начали парсинг
+01:18:35Запуск парсинга своей страницы
+01:18:37------------------------ Начало парсинга продукта с индексом: 145 ------------------------
+01:18:37получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-glyantsevyj-nikel/
+01:18:37начали парсинг
+01:18:37Запуск парсинга своей страницы
+01:18:38парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7938/
+01:18:38сайт антарес свет
+01:18:38скачали страницу товара антареса
+01:18:38распарсили и получили 237
+01:18:38цена товара = <237 руб.>
+01:18:40парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7938/
+01:18:40сайт антарес свет
+01:18:40скачали страницу товара антареса
+01:18:40распарсили и получили 237
+01:18:40цена товара = <237 руб.>
+01:18:41------------------------ Начало парсинга продукта с индексом: 146 ------------------------
+01:18:41получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-belyj/
+01:18:41начали парсинг
+01:18:41Запуск парсинга своей страницы
+01:18:43------------------------ Начало парсинга продукта с индексом: 146 ------------------------
+01:18:43получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-belyj/
+01:18:43начали парсинг
+01:18:43Запуск парсинга своей страницы
+01:18:44парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-belyj/, получили http://antares-svet.ru/svet/245/7937/
+01:18:44сайт антарес свет
+01:18:44скачали страницу товара антареса
+01:18:45распарсили и получили 210
+01:18:45цена товара = <210 руб.>
+01:18:47парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-2w-vyklyuchatel-dvuhklavishnyj-prohodnoj-belyj/, получили http://antares-svet.ru/svet/245/7937/
+01:18:47сайт антарес свет
+01:18:47скачали страницу товара антареса
+01:18:47распарсили и получили 210
+01:18:47цена товара = <210 руб.>
+01:18:48------------------------ Начало парсинга продукта с индексом: 147 ------------------------
+01:18:48получили товар: http://mnogosveta.su/product/werkel-wl07-dm600-dimmer-sero-korichnevyj/
+01:18:48начали парсинг
+01:18:48Запуск парсинга своей страницы
+01:18:50------------------------ Начало парсинга продукта с индексом: 147 ------------------------
+01:18:50получили товар: http://mnogosveta.su/product/werkel-wl07-dm600-dimmer-sero-korichnevyj/
+01:18:50начали парсинг
+01:18:50Запуск парсинга своей страницы
+01:18:51парсили http://mnogosveta.su/product/werkel-wl07-dm600-dimmer-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7924/
+01:18:51сайт антарес свет
+01:18:52скачали страницу товара антареса
+01:18:52распарсили и получили 1123
+01:18:52цена товара = <1123 руб.>
+01:18:53парсили http://mnogosveta.su/product/werkel-wl07-dm600-dimmer-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7924/
+01:18:53сайт антарес свет
+01:18:54------------------------ Начало парсинга продукта с индексом: 148 ------------------------
+01:18:54получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-vyklyuchatel-odnoklavishnyj-slonovaya-kost/
+01:18:54начали парсинг
+01:18:54Запуск парсинга своей страницы
+01:18:54скачали страницу товара антареса
+01:18:54распарсили и получили 1123
+01:18:54цена товара = <1123 руб.>
+01:18:58парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-vyklyuchatel-odnoklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7901/
+01:18:58сайт антарес свет
+01:18:58------------------------ Начало парсинга продукта с индексом: 148 ------------------------
+01:18:58получили товар: http://mnogosveta.su/product/werkel-wl03-sw-1g-vyklyuchatel-odnoklavishnyj-slonovaya-kost/
+01:18:58начали парсинг
+01:18:58Запуск парсинга своей страницы
+01:18:58скачали страницу товара антареса
+01:18:58распарсили и получили 160
+01:18:58цена товара = <160 руб.>
+01:19:00парсили http://mnogosveta.su/product/werkel-wl03-sw-1g-vyklyuchatel-odnoklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7901/
+01:19:00сайт антарес свет
+01:19:01скачали страницу товара антареса
+01:19:01распарсили и получили 160
+01:19:01цена товара = <160 руб.>
+01:19:01------------------------ Начало парсинга продукта с индексом: 149 ------------------------
+01:19:01получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-vyklyuchatel-odnoklavishnyj-chernyj-matovyj/
+01:19:01начали парсинг
+01:19:01Запуск парсинга своей страницы
+01:19:04парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-vyklyuchatel-odnoklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7902/
+01:19:04сайт антарес свет
+01:19:04------------------------ Начало парсинга продукта с индексом: 149 ------------------------
+01:19:04получили товар: http://mnogosveta.su/product/werkel-wl08-sw-1g-vyklyuchatel-odnoklavishnyj-chernyj-matovyj/
+01:19:04начали парсинг
+01:19:04Запуск парсинга своей страницы
+01:19:05скачали страницу товара антареса
+01:19:05распарсили и получили 175
+01:19:05цена товара = <175 руб.>
+01:19:10парсили http://mnogosveta.su/product/werkel-wl08-sw-1g-vyklyuchatel-odnoklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7902/
+01:19:10сайт антарес свет
+01:19:10скачали страницу товара антареса
+01:19:10распарсили и получили 175
+01:19:10цена товара = <175 руб.>
+01:19:11------------------------ Начало парсинга продукта с индексом: 150 ------------------------
+01:19:11получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-vyklyuchatel-odnoklavishnyj-sero-korichnevyj/
+01:19:11начали парсинг
+01:19:11Запуск парсинга своей страницы
+01:19:15------------------------ Начало парсинга продукта с индексом: 150 ------------------------
+01:19:15получили товар: http://mnogosveta.su/product/werkel-wl07-sw-1g-vyklyuchatel-odnoklavishnyj-sero-korichnevyj/
+01:19:15начали парсинг
+01:19:15Запуск парсинга своей страницы
+01:19:15парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-vyklyuchatel-odnoklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7900/
+01:19:15сайт антарес свет
+01:19:15скачали страницу товара антареса
+01:19:16распарсили и получили 170
+01:19:16цена товара = <170 руб.>
+01:19:18парсили http://mnogosveta.su/product/werkel-wl07-sw-1g-vyklyuchatel-odnoklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7900/
+01:19:18сайт антарес свет
+01:19:18скачали страницу товара антареса
+01:19:18распарсили и получили 170
+01:19:18цена товара = <170 руб.>
+01:19:19------------------------ Начало парсинга продукта с индексом: 151 ------------------------
+01:19:19получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj/
+01:19:19начали парсинг
+01:19:19Запуск парсинга своей страницы
+01:19:22------------------------ Начало парсинга продукта с индексом: 151 ------------------------
+01:19:22получили товар: http://mnogosveta.su/product/werkel-wl06-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj/
+01:19:22начали парсинг
+01:19:22Запуск парсинга своей страницы
+01:19:24парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/7899/
+01:19:24сайт антарес свет
+01:19:25скачали страницу товара антареса
+01:19:25распарсили и получили 175
+01:19:25цена товара = <175 руб.>
+01:19:27парсили http://mnogosveta.su/product/werkel-wl06-sw-1g-vyklyuchatel-odnoklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/7899/
+01:19:27сайт антарес свет
+01:19:27скачали страницу товара антареса
+01:19:27распарсили и получили 175
+01:19:27цена товара = <175 руб.>
+01:19:31------------------------ Начало парсинга продукта с индексом: 152 ------------------------
+01:19:31получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-vyklyuchatel-odnoklavishnyj-glyantsevyj-nikel/
+01:19:31начали парсинг
+01:19:31Запуск парсинга своей страницы
+01:19:33------------------------ Начало парсинга продукта с индексом: 152 ------------------------
+01:19:33получили товар: http://mnogosveta.su/product/werkel-wl02-sw-1g-vyklyuchatel-odnoklavishnyj-glyantsevyj-nikel/
+01:19:33начали парсинг
+01:19:33Запуск парсинга своей страницы
+01:19:35парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-vyklyuchatel-odnoklavishnyj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7898/
+01:19:35сайт антарес свет
+01:19:36скачали страницу товара антареса
+01:19:36распарсили и получили 189
+01:19:36цена товара = <189 руб.>
+01:19:36парсили http://mnogosveta.su/product/werkel-wl02-sw-1g-vyklyuchatel-odnoklavishnyj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7898/
+01:19:36сайт антарес свет
+01:19:37скачали страницу товара антареса
+01:19:37распарсили и получили 189
+01:19:37цена товара = <189 руб.>
+01:19:42------------------------ Начало парсинга продукта с индексом: 153 ------------------------
+01:19:42получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-vyklyuchatel-odnoklavishnyj-belyj/
+01:19:42начали парсинг
+01:19:42Запуск парсинга своей страницы
+01:19:45------------------------ Начало парсинга продукта с индексом: 153 ------------------------
+01:19:45получили товар: http://mnogosveta.su/product/werkel-wl01-sw-1g-vyklyuchatel-odnoklavishnyj-belyj/
+01:19:45начали парсинг
+01:19:45Запуск парсинга своей страницы
+01:19:48парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-vyklyuchatel-odnoklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/7897/
+01:19:48сайт антарес свет
+01:19:49скачали страницу товара антареса
+01:19:49распарсили и получили 160
+01:19:49цена товара = <160 руб.>
+01:19:50парсили http://mnogosveta.su/product/werkel-wl01-sw-1g-vyklyuchatel-odnoklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/7897/
+01:19:50сайт антарес свет
+01:19:51скачали страницу товара антареса
+01:19:51распарсили и получили 160
+01:19:51цена товара = <160 руб.>
+01:19:51------------------------ Начало парсинга продукта с индексом: 154 ------------------------
+01:19:51получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-vyklyuchatel-dvuhklavishnyj-chernyj-matovyj/
+01:19:51начали парсинг
+01:19:51Запуск парсинга своей страницы
+01:19:53------------------------ Начало парсинга продукта с индексом: 154 ------------------------
+01:19:53получили товар: http://mnogosveta.su/product/werkel-wl08-sw-2g-vyklyuchatel-dvuhklavishnyj-chernyj-matovyj/
+01:19:53начали парсинг
+01:19:53Запуск парсинга своей страницы
+01:19:54парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-vyklyuchatel-dvuhklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7896/
+01:19:54сайт антарес свет
+01:19:55скачали страницу товара антареса
+01:19:55распарсили и получили 203
+01:19:55цена товара = <203 руб.>
+01:19:56парсили http://mnogosveta.su/product/werkel-wl08-sw-2g-vyklyuchatel-dvuhklavishnyj-chernyj-matovyj/, получили http://antares-svet.ru/svet/245/7896/
+01:19:56сайт антарес свет
+01:19:57скачали страницу товара антареса
+01:19:57распарсили и получили 203
+01:19:57цена товара = <203 руб.>
+01:19:57------------------------ Начало парсинга продукта с индексом: 155 ------------------------
+01:19:57получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-ivory-vyklyuchatel-dvuhklavishnyj-slonovaya-kost/
+01:19:57начали парсинг
+01:19:57Запуск парсинга своей страницы
+01:19:59------------------------ Начало парсинга продукта с индексом: 155 ------------------------
+01:19:59получили товар: http://mnogosveta.su/product/werkel-wl03-sw-2g-ivory-vyklyuchatel-dvuhklavishnyj-slonovaya-kost/
+01:19:59начали парсинг
+01:19:59Запуск парсинга своей страницы
+01:20:00парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-ivory-vyklyuchatel-dvuhklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7895/
+01:20:00сайт антарес свет
+01:20:00скачали страницу товара антареса
+01:20:00распарсили и получили 187
+01:20:00цена товара = <187 руб.>
+01:20:02парсили http://mnogosveta.su/product/werkel-wl03-sw-2g-ivory-vyklyuchatel-dvuhklavishnyj-slonovaya-kost/, получили http://antares-svet.ru/svet/245/7895/
+01:20:02сайт антарес свет
+01:20:03скачали страницу товара антареса
+01:20:03распарсили и получили 187
+01:20:03цена товара = <187 руб.>
+01:20:03------------------------ Начало парсинга продукта с индексом: 156 ------------------------
+01:20:03получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-vyklyuchatel-dvuhklavishnyj-sero-korichnevyj/
+01:20:03начали парсинг
+01:20:03Запуск парсинга своей страницы
+01:20:07парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-vyklyuchatel-dvuhklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7894/
+01:20:07сайт антарес свет
+01:20:07------------------------ Начало парсинга продукта с индексом: 156 ------------------------
+01:20:07получили товар: http://mnogosveta.su/product/werkel-wl07-sw-2g-vyklyuchatel-dvuhklavishnyj-sero-korichnevyj/
+01:20:07начали парсинг
+01:20:07Запуск парсинга своей страницы
+01:20:08скачали страницу товара антареса
+01:20:08распарсили и получили 196
+01:20:08цена товара = <196 руб.>
+01:20:10------------------------ Начало парсинга продукта с индексом: 157 ------------------------
+01:20:10получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj/
+01:20:10начали парсинг
+01:20:10Запуск парсинга своей страницы
+01:20:10парсили http://mnogosveta.su/product/werkel-wl07-sw-2g-vyklyuchatel-dvuhklavishnyj-sero-korichnevyj/, получили http://antares-svet.ru/svet/245/7894/
+01:20:10сайт антарес свет
+01:20:11скачали страницу товара антареса
+01:20:11распарсили и получили 196
+01:20:11цена товара = <196 руб.>
+01:20:13парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/7893/
+01:20:13сайт антарес свет
+01:20:14------------------------ Начало парсинга продукта с индексом: 157 ------------------------
+01:20:14получили товар: http://mnogosveta.su/product/werkel-wl06-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj/
+01:20:14начали парсинг
+01:20:14Запуск парсинга своей страницы
+01:20:14скачали страницу товара антареса
+01:20:14распарсили и получили 203
+01:20:14цена товара = <203 руб.>
+01:20:16парсили http://mnogosveta.su/product/werkel-wl06-sw-2g-vyklyuchatel-dvuhklavishnyj-serebryanyj/, получили http://antares-svet.ru/svet/245/7893/
+01:20:16сайт антарес свет
+01:20:17------------------------ Начало парсинга продукта с индексом: 158 ------------------------
+01:20:17получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-vyklyuchatel-dvuhklavishnyj-glyantsevyj-nikel/
+01:20:17начали парсинг
+01:20:17Запуск парсинга своей страницы
+01:20:17скачали страницу товара антареса
+01:20:17распарсили и получили 203
+01:20:17цена товара = <203 руб.>
+01:20:22парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-vyklyuchatel-dvuhklavishnyj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7892/
+01:20:22сайт антарес свет
+01:20:23------------------------ Начало парсинга продукта с индексом: 158 ------------------------
+01:20:23получили товар: http://mnogosveta.su/product/werkel-wl02-sw-2g-vyklyuchatel-dvuhklavishnyj-glyantsevyj-nikel/
+01:20:23начали парсинг
+01:20:23Запуск парсинга своей страницы
+01:20:23скачали страницу товара антареса
+01:20:23распарсили и получили 210
+01:20:23цена товара = <210 руб.>
+01:20:30------------------------ Начало парсинга продукта с индексом: 159 ------------------------
+01:20:30получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-vyklyuchatel-dvuhklavishnyj-belyj/
+01:20:30начали парсинг
+01:20:30Запуск парсинга своей страницы
+01:20:30парсили http://mnogosveta.su/product/werkel-wl02-sw-2g-vyklyuchatel-dvuhklavishnyj-glyantsevyj-nikel/, получили http://antares-svet.ru/svet/245/7892/
+01:20:30сайт антарес свет
+01:20:31скачали страницу товара антареса
+01:20:31распарсили и получили 210
+01:20:31цена товара = <210 руб.>
+01:20:33парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-vyklyuchatel-dvuhklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/7891/
+01:20:33сайт антарес свет
+01:20:33------------------------ Начало парсинга продукта с индексом: 159 ------------------------
+01:20:33получили товар: http://mnogosveta.su/product/werkel-wl01-sw-2g-vyklyuchatel-dvuhklavishnyj-belyj/
+01:20:33начали парсинг
+01:20:33Запуск парсинга своей страницы
+01:20:34скачали страницу товара антареса
+01:20:34распарсили и получили 187
+01:20:34цена товара = <187 руб.>
+01:20:37парсили http://mnogosveta.su/product/werkel-wl01-sw-2g-vyklyuchatel-dvuhklavishnyj-belyj/, получили http://antares-svet.ru/svet/245/7891/
+01:20:37сайт антарес свет
+01:20:37скачали страницу товара антареса
+01:20:38распарсили и получили 187
+01:20:38цена товара = <187 руб.>
+01:20:38----------парсим 1 пачку товаров.
+01:20:40в 1 пачек товаров нет позиций
+01:20:40----------парсим 2 пачку товаров.
+01:20:41----------парсим 1 пачку товаров.
+01:20:42в 2 пачек товаров нет позиций
+01:20:42----------парсим 3 пачку товаров.
+01:20:43в 1 пачек товаров нет позиций
+01:20:43----------парсим 2 пачку товаров.
+01:20:45в 3 пачек товаров нет позиций
+01:20:45----------парсим 4 пачку товаров.
+01:20:47в 2 пачек товаров нет позиций
+01:20:47----------парсим 3 пачку товаров.
+01:20:49в 4 пачек товаров нет позиций
+01:20:49----------парсим 5 пачку товаров.
+01:20:50в 3 пачек товаров нет позиций
+01:20:50----------парсим 4 пачку товаров.
+01:20:51в 5 пачек товаров нет позиций
+01:20:51----------парсим 6 пачку товаров.
+01:20:52в 4 пачек товаров нет позиций
+01:20:52----------парсим 5 пачку товаров.
+01:20:54в 6 пачек товаров нет позиций
+01:20:54----------парсим 7 пачку товаров.
+01:20:55в 5 пачек товаров нет позиций
+01:20:55----------парсим 6 пачку товаров.
+01:20:57в 7 пачек товаров нет позиций
+01:20:57----------парсим 8 пачку товаров.
+01:20:57в 6 пачек товаров нет позиций
+01:20:57----------парсим 7 пачку товаров.
+01:20:58в 8 пачек товаров нет позиций
+01:20:58----------парсим 9 пачку товаров.
+01:20:59в 7 пачек товаров нет позиций
+01:20:59----------парсим 8 пачку товаров.
+01:21:00в 9 пачек товаров нет позиций
+01:21:00----------парсим 10 пачку товаров.
+01:21:02в 8 пачек товаров нет позиций
+01:21:02----------парсим 9 пачку товаров.
+01:21:02в 10 пачек товаров нет позиций
+01:21:02----------парсим 11 пачку товаров.
+01:21:03в 9 пачек товаров нет позиций
+01:21:03----------парсим 10 пачку товаров.
+01:21:05в 11 пачек товаров нет позиций
+01:21:05----------парсим 12 пачку товаров.
+01:21:06в 10 пачек товаров нет позиций
+01:21:06----------парсим 11 пачку товаров.
+01:21:08в 12 пачек товаров нет позиций
+01:21:08----------парсим 13 пачку товаров.
+01:21:09в 11 пачек товаров нет позиций
+01:21:09----------парсим 12 пачку товаров.
+01:21:11в 13 пачек товаров нет позиций
+01:21:11----------парсим 14 пачку товаров.
+01:21:13в 12 пачек товаров нет позиций
+01:21:13----------парсим 13 пачку товаров.
+01:21:13в 14 пачек товаров нет позиций
+01:21:13----------парсим 15 пачку товаров.
+01:21:15в 13 пачек товаров нет позиций
+01:21:15----------парсим 14 пачку товаров.
+01:21:16в 15 пачек товаров нет позиций
+01:21:16----------парсим 16 пачку товаров.
+01:21:17в 14 пачек товаров нет позиций
+01:21:17----------парсим 15 пачку товаров.
+01:21:18в 16 пачек товаров нет позиций
+01:21:18----------парсим 17 пачку товаров.
+01:21:19в 15 пачек товаров нет позиций
+01:21:19----------парсим 16 пачку товаров.
+01:21:21в 17 пачек товаров нет позиций
+01:21:21----------парсим 18 пачку товаров.
+01:21:22в 16 пачек товаров нет позиций
+01:21:22----------парсим 17 пачку товаров.
+01:21:23в 18 пачек товаров нет позиций
+01:21:23----------парсим 19 пачку товаров.
+01:21:25в 17 пачек товаров нет позиций
+01:21:25----------парсим 18 пачку товаров.
+01:21:25в 19 пачек товаров нет позиций
+01:21:25!!!!!!!!!!парсинг закончен!!!!!!!!.
+01:21:27в 18 пачек товаров нет позиций
+01:21:27----------парсим 19 пачку товаров.
+01:21:28в 19 пачек товаров нет позиций
+01:21:28!!!!!!!!!!парсинг закончен!!!!!!!!.
+02:28:29Запуск программы.
+02:28:29Авторизировали API.
+02:28:29----------парсим 0 пачку товаров.
+02:28:34Запуск программы.
+02:28:34Авторизировали API.
+02:28:34----------парсим 0 пачку товаров.
+02:28:45получили список товаров.
+02:28:45------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+02:28:45получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-159-belyj-derevo/
+02:28:45начали парсинг
+02:28:45Запуск парсинга своей страницы
+02:28:48получили http://magia-sveta.ru/product/159-belyijderevo
+02:28:48сайт магия света
+02:28:48цена товара = <825 руб.>
+02:28:51получили список товаров.
+02:28:51------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+02:28:51получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-159-belyj-derevo/
+02:28:51начали парсинг
+02:28:51Запуск парсинга своей страницы
+02:28:52------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+02:28:52получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-157-hrom/
+02:28:52начали парсинг
+02:28:52Запуск парсинга своей страницы
+02:28:55получили http://magia-sveta.ru/product/159-belyijderevo
+02:28:55сайт магия света
+02:28:55получили http://magia-sveta.ru/product/157-xrom
+02:28:55сайт магия света
+02:28:55цена товара = <825 руб.>
+02:28:56цена товара = <930 руб.>
+02:28:59------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+02:28:59получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-153-belyj-zoloto/
+02:28:59начали парсинг
+02:28:59Запуск парсинга своей страницы
+02:29:00------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+02:29:00получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-157-hrom/
+02:29:00начали парсинг
+02:29:00Запуск парсинга своей страницы
+02:29:01получили http://magia-sveta.ru/product/153-belyijzoloto
+02:29:01сайт магия света
+02:29:02цена товара = <810 руб.>
+02:29:02получили http://magia-sveta.ru/product/157-xrom
+02:29:02сайт магия света
+02:29:02цена товара = <930 руб.>
+02:29:04------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+02:29:04получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-141-hrom-belyj/
+02:29:04начали парсинг
+02:29:04Запуск парсинга своей страницы
+02:29:05------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+02:29:05получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-153-belyj-zoloto/
+02:29:05начали парсинг
+02:29:05Запуск парсинга своей страницы
+02:29:07получили http://magia-sveta.ru/product/141-xrombelyij
+02:29:07сайт магия света
+02:29:07получили http://magia-sveta.ru/product/153-belyijzoloto
+02:29:07сайт магия света
+02:29:08цена товара = <810 руб.>
+02:29:08цена товара = <1920 руб.>
+02:29:11------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+02:29:11получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-141-hrom-belyj/
+02:29:11начали парсинг
+02:29:11Запуск парсинга своей страницы
+02:29:12------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+02:29:12получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-127-belyj-derevo/
+02:29:12начали парсинг
+02:29:12Запуск парсинга своей страницы
+02:29:13получили http://magia-sveta.ru/product/141-xrombelyij
+02:29:13сайт магия света
+02:29:14цена товара = <1920 руб.>
+02:29:14получили http://magia-sveta.ru/product/127-belyijderevo
+02:29:14сайт магия света
+02:29:14цена товара = <1104 руб.>
+02:29:16------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+02:29:16получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-136-belyj-derevo/
+02:29:16начали парсинг
+02:29:16Запуск парсинга своей страницы
+02:29:17------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+02:29:17получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-127-belyj-derevo/
+02:29:17начали парсинг
+02:29:17Запуск парсинга своей страницы
+02:29:19получили http://magia-sveta.ru/product/136-belyijderevo
+02:29:19сайт магия света
+02:29:19получили http://magia-sveta.ru/product/127-belyijderevo
+02:29:19сайт магия света
+02:29:19цена товара = <1710 руб.>
+02:29:19цена товара = <1104 руб.>
+02:29:22------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+02:29:22получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-126-belyj-derevo/
+02:29:22начали парсинг
+02:29:22Запуск парсинга своей страницы
+02:29:23------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+02:29:23получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-136-belyj-derevo/
+02:29:23начали парсинг
+02:29:23Запуск парсинга своей страницы
+02:29:28получили http://magia-sveta.ru/product/126-belyijderevo
+02:29:28сайт магия света
+02:29:29получили http://magia-sveta.ru/product/136-belyijderevo
+02:29:29сайт магия света
+02:29:29цена товара = <1230 руб.>
+02:29:30цена товара = <1710 руб.>
+02:29:36------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+02:29:36получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-1204-m/
+02:29:36начали парсинг
+02:29:36Запуск парсинга своей страницы
+02:29:37------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+02:29:37получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-126-belyj-derevo/
+02:29:37начали парсинг
+02:29:37Запуск парсинга своей страницы
+02:29:45получили http://magia-sveta.ru/product/1204M
+02:29:45сайт магия света
+02:29:46цена товара = <741 руб.>
+02:29:47получили http://magia-sveta.ru/product/126-belyijderevo
+02:29:47сайт магия света
+02:29:49цена товара = <1230 руб.>
+02:29:56------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+02:29:56получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-1203/
+02:29:56начали парсинг
+02:29:56Запуск парсинга своей страницы
+02:29:58------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+02:29:58получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-1204-m/
+02:29:58начали парсинг
+02:29:58Запуск парсинга своей страницы
+02:30:03получили http://magia-sveta.ru/product/94076
+02:30:03сайт магия света
+02:30:04цена товара = < руб.>
+02:30:07получили http://magia-sveta.ru/product/1204M
+02:30:07сайт магия света
+02:30:08цена товара = <741 руб.>
+02:30:12------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+02:30:12получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-gallop-118051-krepezh-rozovoe-zoloto/
+02:30:12начали парсинг
+02:30:12Запуск парсинга своей страницы
+02:30:15------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+02:30:15получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-1203/
+02:30:15начали парсинг
+02:30:15Запуск парсинга своей страницы
+02:30:20получили http://magia-sveta.ru/product/118051-krepezh-rozovoe-zoloto
+02:30:20сайт магия света
+02:30:21получили http://magia-sveta.ru/product/94076
+02:30:21сайт магия света
+02:30:21цена товара = <744 руб.>
+02:30:22цена товара = < руб.>
+02:30:31------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+02:30:31получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-gallop-118051-krepezh-rozovoe-zoloto/
+02:30:31начали парсинг
+02:30:31Запуск парсинга своей страницы
+02:30:31------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+02:30:31получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-115-belyj-zoloto/
+02:30:31начали парсинг
+02:30:31Запуск парсинга своей страницы
+02:30:40получили http://magia-sveta.ru/product/115-belyijzoloto
+02:30:40сайт магия света
+02:30:41получили http://magia-sveta.ru/product/118051-krepezh-rozovoe-zoloto
+02:30:41сайт магия света
+02:30:42цена товара = <615 руб.>
+02:30:42цена товара = <744 руб.>
+02:30:51------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+02:30:51получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-117-korichnevyj-zoloto/
+02:30:51начали парсинг
+02:30:51Запуск парсинга своей страницы
+02:30:51------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+02:30:51получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-115-belyj-zoloto/
+02:30:51начали парсинг
+02:30:51Запуск парсинга своей страницы
+02:30:56получили http://magia-sveta.ru/product/115-belyijzoloto
+02:30:56сайт магия света
+02:30:57получили http://magia-sveta.ru/product/117-korichnevyijzoloto
+02:30:57сайт магия света
+02:30:57цена товара = <615 руб.>
+02:30:58цена товара = <2380 руб.>
+02:31:06------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+02:31:06получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-114-belyj-hrom/
+02:31:06начали парсинг
+02:31:06Запуск парсинга своей страницы
+02:31:07------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+02:31:07получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-117-korichnevyj-zoloto/
+02:31:07начали парсинг
+02:31:07Запуск парсинга своей страницы
+02:31:16получили http://magia-sveta.ru/product/114-belyijxrom
+02:31:16сайт магия света
+02:31:16получили http://magia-sveta.ru/product/117-korichnevyijzoloto
+02:31:16сайт магия света
+02:31:17цена товара = <2380 руб.>
+02:31:17цена товара = <1230 руб.>
+02:31:26------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+02:31:26получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-114-belyj-hrom/
+02:31:26начали парсинг
+02:31:26Запуск парсинга своей страницы
+02:31:26------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+02:31:26получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-111-belyj/
+02:31:26начали парсинг
+02:31:26Запуск парсинга своей страницы
+02:31:34получили http://magia-sveta.ru/product/114-belyijxrom
+02:31:34сайт магия света
+02:31:35получили http://magia-sveta.ru/product/111-belyij
+02:31:35сайт магия света
+02:31:36цена товара = <1230 руб.>
+02:31:36цена товара = <813 руб.>
+02:31:44------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+02:31:44получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-soneks-111-belyj/
+02:31:44начали парсинг
+02:31:44Запуск парсинга своей страницы
+02:31:46------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+02:31:46получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-kink-light-08137-oreton/
+02:31:46начали парсинг
+02:31:46Запуск парсинга своей страницы
+02:31:52получили http://magia-sveta.ru/product/111-belyij
+02:31:52сайт магия света
+02:31:52цена товара = <813 руб.>
+02:31:53получили http://magia-sveta.ru/product/08137
+02:31:53сайт магия света
+02:31:53цена товара = <3180 руб.>
+02:31:58------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+02:31:58получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-kink-light-08137-oreton/
+02:31:58начали парсинг
+02:31:58Запуск парсинга своей страницы
+02:32:00------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+02:32:00получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-kink-light-07926-infiniti/
+02:32:00начали парсинг
+02:32:00Запуск парсинга своей страницы
+02:32:05получили http://magia-sveta.ru/product/08137
+02:32:05сайт магия света
+02:32:05цена товара = <3180 руб.>
+02:32:07получили http://magia-sveta.ru/product/07926
+02:32:07сайт магия света
+02:32:08цена товара = <16260 руб.>
+02:32:13------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+02:32:13получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-kink-light-07926-infiniti/
+02:32:13начали парсинг
+02:32:13Запуск парсинга своей страницы
+02:32:14------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+02:32:14получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-eurosvet-90020-8-hrom/
+02:32:14начали парсинг
+02:32:14Запуск парсинга своей страницы
+02:32:20получили http://magia-sveta.ru/product/07926
+02:32:20сайт магия света
+02:32:21цена товара = <16260 руб.>
+02:32:23получили http://magia-sveta.ru/product/900208-xrom
+02:32:23сайт магия света
+02:32:23цена товара = <8860 руб.>
+02:32:28------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+02:32:28получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-eurosvet-90020-8-hrom/
+02:32:28начали парсинг
+02:32:28Запуск парсинга своей страницы
+02:32:31------------------------ Начало парсинга продукта с индексом: 17 ------------------------
+02:32:31получили товар: http://mnogosveta.su/product/nastenno-potolochnyj-svetilnik-ideal-lux-smarties-bianco-pl1-d33/
+02:32:31начали парсинг
+02:32:31Запуск парсинга своей страницы

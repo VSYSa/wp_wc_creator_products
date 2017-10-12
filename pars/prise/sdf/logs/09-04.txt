@@ -1,0 +1,1929 @@
+02:37:17Запуск программы.
+02:37:17Авторизировали API.
+02:37:17----------парсим 0 пачку товаров.
+02:37:36получили список товаров.
+02:37:36принудительное окончание обновления
+02:50:52Запуск программы.
+02:50:52Авторизировали API.
+02:50:52----------парсим 0 пачку товаров.
+02:51:19получили список товаров.
+02:51:19------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+02:51:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-316336/
+02:51:19начали парсинг
+02:51:19Запуск парсинга своей страницы
+02:51:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-316336/, получили http://magia-sveta.ru/product/316336
+02:51:21сайт магия света
+02:51:22цена товара = <850 руб.>
+02:51:25------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+02:51:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-314002-hrom/
+02:51:25начали парсинг
+02:51:25Запуск парсинга своей страницы
+02:51:27парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-314002-hrom/, получили http://magia-sveta.ru/product/314002-xrom
+02:51:27сайт магия света
+02:51:28цена товара = <630 руб.>
+02:51:28Запуск программы.
+02:51:29Авторизировали API.
+02:51:29----------парсим 0 пачку товаров.
+02:51:31------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+02:51:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-318645-hrom/
+02:51:31начали парсинг
+02:51:31Запуск парсинга своей страницы
+02:51:34парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-318645-hrom/, получили http://magia-sveta.ru/product/318645-xrom
+02:51:34сайт магия света
+02:51:34цена товара = <1090 руб.>
+02:51:41------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+02:51:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10015-2-hrom-prozrachnyj-hrustal/
+02:51:41начали парсинг
+02:51:41Запуск парсинга своей страницы
+02:51:44парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10015-2-hrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100152-xromprozrachnyij-xrustal
+02:51:44сайт магия света
+02:51:45цена товара = <3470 руб.>
+02:51:51------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+02:51:51получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-k-2-1060-1-1-hrom/
+02:51:51начали парсинг
+02:51:51Запуск парсинга своей страницы
+02:51:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-k-2-1060-1-1-hrom/, получили http://magia-sveta.ru/product/10601-1-xrom
+02:51:54сайт магия света
+02:51:55цена товара = <1100 руб.>
+02:51:57------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+02:51:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10064-1-belyj-s-serebrom/
+02:51:57начали парсинг
+02:51:57Запуск парсинга своей страницы
+02:51:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10064-1-belyj-s-serebrom/, получили http://magia-sveta.ru/product/100641-belyij-s-serebrom
+02:51:59сайт магия света
+02:52:00цена товара = <2020 руб.>
+02:52:01получили список товаров.
+02:52:01------------------------ Начало парсинга продукта с индексом: 0 ------------------------
+02:52:01получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-316336/
+02:52:01начали парсинг
+02:52:01Запуск парсинга своей страницы
+02:52:04------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+02:52:04получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10056-1-bezhevyj-prozrachnyj-hrustal/
+02:52:04начали парсинг
+02:52:04Запуск парсинга своей страницы
+02:52:05парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-316336/, получили http://magia-sveta.ru/product/316336
+02:52:05сайт магия света
+02:52:05цена товара = <850 руб.>
+02:52:06парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10056-1-bezhevyj-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100561-bezhevyijprozrachnyij-xrustal
+02:52:06сайт магия света
+02:52:06цена товара = <2750 руб.>
+02:52:08------------------------ Начало парсинга продукта с индексом: 1 ------------------------
+02:52:08получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-314002-hrom/
+02:52:08начали парсинг
+02:52:08Запуск парсинга своей страницы
+02:52:09------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+02:52:09получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-0962/
+02:52:09начали парсинг
+02:52:09Запуск парсинга своей страницы
+02:52:10парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-314002-hrom/, получили http://magia-sveta.ru/product/314002-xrom
+02:52:10сайт магия света
+02:52:10цена товара = <630 руб.>
+02:52:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-0962/, получили http://magia-sveta.ru/product/0962
+02:52:11сайт магия света
+02:52:11цена товара = <2368 руб.>
+02:52:13------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+02:52:13получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-crystal-lux-326w200/
+02:52:13начали парсинг
+02:52:13Запуск парсинга своей страницы
+02:52:14------------------------ Начало парсинга продукта с индексом: 2 ------------------------
+02:52:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-318645-hrom/
+02:52:14начали парсинг
+02:52:14Запуск парсинга своей страницы
+02:52:15парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-crystal-lux-326w200/, получили http://magia-sveta.ru/product/326W200
+02:52:15сайт магия света
+02:52:16цена товара = <3100 руб.>
+02:52:17парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-gallop-318645-hrom/, получили http://magia-sveta.ru/product/318645-xrom
+02:52:17сайт магия света
+02:52:17цена товара = <1090 руб.>
+02:52:18------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+02:52:18получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-032-hrom/
+02:52:18начали парсинг
+02:52:18Запуск парсинга своей страницы
+02:52:20------------------------ Начало парсинга продукта с индексом: 3 ------------------------
+02:52:20получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10015-2-hrom-prozrachnyj-hrustal/
+02:52:20начали парсинг
+02:52:20Запуск парсинга своей страницы
+02:52:22парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-032-hrom/, получили http://magia-sveta.ru/product/032-xrom
+02:52:22сайт магия света
+02:52:23цена товара = <619 руб.>
+02:52:23парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10015-2-hrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100152-xromprozrachnyij-xrustal
+02:52:23сайт магия света
+02:52:24цена товара = <3470 руб.>
+02:52:26------------------------ Начало парсинга продукта с индексом: 4 ------------------------
+02:52:26получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-k-2-1060-1-1-hrom/
+02:52:26начали парсинг
+02:52:26Запуск парсинга своей страницы
+02:52:27------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+02:52:27получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-818-vaio-1/
+02:52:27начали парсинг
+02:52:27Запуск парсинга своей страницы
+02:52:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-k-2-1060-1-1-hrom/, получили http://magia-sveta.ru/product/10601-1-xrom
+02:52:29сайт магия света
+02:52:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-818-vaio-1/, получили http://magia-sveta.ru/product/818-Vaio-1
+02:52:29сайт магия света
+02:52:29цена товара = <1100 руб.>
+02:52:29цена товара = <1960 руб.>
+02:52:32------------------------ Начало парсинга продукта с индексом: 5 ------------------------
+02:52:32получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10064-1-belyj-s-serebrom/
+02:52:32начали парсинг
+02:52:32Запуск парсинга своей страницы
+02:52:33------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+02:52:33получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-2275-2-antichnaya-bronza/
+02:52:33начали парсинг
+02:52:33Запуск парсинга своей страницы
+02:52:36парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-2275-2-antichnaya-bronza/, получили http://magia-sveta.ru/product/22752-antichnaya-bronza
+02:52:36сайт магия света
+02:52:36парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10064-1-belyj-s-serebrom/, получили http://magia-sveta.ru/product/100641-belyij-s-serebrom
+02:52:36сайт магия света
+02:52:37цена товара = <1420 руб.>
+02:52:37цена товара = <2020 руб.>
+02:52:39------------------------ Начало парсинга продукта с индексом: 6 ------------------------
+02:52:39получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10056-1-bezhevyj-prozrachnyj-hrustal/
+02:52:39начали парсинг
+02:52:39Запуск парсинга своей страницы
+02:52:40------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+02:52:40получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kink-light-08131-vista/
+02:52:40начали парсинг
+02:52:40Запуск парсинга своей страницы
+02:52:42парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10056-1-bezhevyj-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100561-bezhevyijprozrachnyij-xrustal
+02:52:42сайт магия света
+02:52:42цена товара = <2750 руб.>
+02:52:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kink-light-08131-vista/, получили http://magia-sveta.ru/product/08131
+02:52:43сайт магия света
+02:52:43цена товара = <2072 руб.>
+02:52:46------------------------ Начало парсинга продукта с индексом: 7 ------------------------
+02:52:46получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-0962/
+02:52:46начали парсинг
+02:52:46Запуск парсинга своей страницы
+02:52:47------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+02:52:47получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2421-1w/
+02:52:47начали парсинг
+02:52:47Запуск парсинга своей страницы
+02:52:50парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-0962/, получили http://magia-sveta.ru/product/0962
+02:52:50сайт магия света
+02:52:50парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2421-1w/, получили http://magia-sveta.ru/product/24211W
+02:52:50сайт магия света
+02:52:50цена товара = <2368 руб.>
+02:52:50цена товара = <5064 руб.>
+02:52:54------------------------ Начало парсинга продукта с индексом: 8 ------------------------
+02:52:54получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-crystal-lux-326w200/
+02:52:54начали парсинг
+02:52:54Запуск парсинга своей страницы
+02:52:54------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+02:52:54получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2612/
+02:52:54начали парсинг
+02:52:54Запуск парсинга своей страницы
+02:52:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-crystal-lux-326w200/, получили http://magia-sveta.ru/product/326W200
+02:52:58сайт магия света
+02:52:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2612/, получили http://magia-sveta.ru/product/2612
+02:52:58сайт магия света
+02:52:59цена товара = <1300 руб.>
+02:52:59цена товара = <3100 руб.>
+02:53:02------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+02:53:02получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1647/
+02:53:02начали парсинг
+02:53:02Запуск парсинга своей страницы
+02:53:03------------------------ Начало парсинга продукта с индексом: 9 ------------------------
+02:53:03получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-032-hrom/
+02:53:03начали парсинг
+02:53:03Запуск парсинга своей страницы
+02:53:05парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1647/, получили http://magia-sveta.ru/product/1647
+02:53:05сайт магия света
+02:53:06парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-032-hrom/, получили http://magia-sveta.ru/product/032-xrom
+02:53:06сайт магия света
+02:53:06цена товара = <5230 руб.>
+02:53:06цена товара = <619 руб.>
+02:53:09------------------------ Начало парсинга продукта с индексом: 10 ------------------------
+02:53:09получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-818-vaio-1/
+02:53:09начали парсинг
+02:53:09Запуск парсинга своей страницы
+02:53:09------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+02:53:09получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-213-1/
+02:53:09начали парсинг
+02:53:09Запуск парсинга своей страницы
+02:53:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-818-vaio-1/, получили http://magia-sveta.ru/product/818-Vaio-1
+02:53:11сайт магия света
+02:53:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-213-1/, получили http://magia-sveta.ru/product/2131
+02:53:11сайт магия света
+02:53:12цена товара = <1960 руб.>
+02:53:12цена товара = <1376 руб.>
+02:53:15------------------------ Начало парсинга продукта с индексом: 11 ------------------------
+02:53:15получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-2275-2-antichnaya-bronza/
+02:53:15начали парсинг
+02:53:15Запуск парсинга своей страницы
+02:53:15------------------------ Начало парсинга продукта с индексом: 17 ------------------------
+02:53:15получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-701-1/
+02:53:15начали парсинг
+02:53:15Запуск парсинга своей страницы
+02:53:18парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-2275-2-antichnaya-bronza/, получили http://magia-sveta.ru/product/22752-antichnaya-bronza
+02:53:18сайт магия света
+02:53:18парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-701-1/, получили http://magia-sveta.ru/product/7011
+02:53:18сайт магия света
+02:53:18цена товара = <1420 руб.>
+02:53:18цена товара = <2120 руб.>
+02:53:22------------------------ Начало парсинга продукта с индексом: 12 ------------------------
+02:53:22получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kink-light-08131-vista/
+02:53:22начали парсинг
+02:53:22Запуск парсинга своей страницы
+02:53:23------------------------ Начало парсинга продукта с индексом: 18 ------------------------
+02:53:23получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-124-2/
+02:53:23начали парсинг
+02:53:23Запуск парсинга своей страницы
+02:53:25парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kink-light-08131-vista/, получили http://magia-sveta.ru/product/08131
+02:53:25сайт магия света
+02:53:25цена товара = <2072 руб.>
+02:53:26парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-124-2/, получили http://magia-sveta.ru/product/1242
+02:53:26сайт магия света
+02:53:27цена товара = <7430 руб.>
+02:53:28------------------------ Начало парсинга продукта с индексом: 13 ------------------------
+02:53:28получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2421-1w/
+02:53:28начали парсинг
+02:53:28Запуск парсинга своей страницы
+02:53:30------------------------ Начало парсинга продукта с индексом: 19 ------------------------
+02:53:30получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-212-1/
+02:53:30начали парсинг
+02:53:30Запуск парсинга своей страницы
+02:53:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2421-1w/, получили http://magia-sveta.ru/product/24211W
+02:53:32сайт магия света
+02:53:33цена товара = <5064 руб.>
+02:53:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-212-1/, получили http://magia-sveta.ru/product/2121
+02:53:33сайт магия света
+02:53:34цена товара = <2030 руб.>
+02:53:36------------------------ Начало парсинга продукта с индексом: 14 ------------------------
+02:53:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2612/
+02:53:36начали парсинг
+02:53:36Запуск парсинга своей страницы
+02:53:39------------------------ Начало парсинга продукта с индексом: 20 ------------------------
+02:53:39получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-602-1/
+02:53:39начали парсинг
+02:53:39Запуск парсинга своей страницы
+02:53:39парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2612/, получили http://magia-sveta.ru/product/2612
+02:53:39сайт магия света
+02:53:40цена товара = <1300 руб.>
+02:53:41парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-602-1/, получили http://magia-sveta.ru/product/6021
+02:53:41сайт магия света
+02:53:41цена товара = <4360 руб.>
+02:53:42------------------------ Начало парсинга продукта с индексом: 15 ------------------------
+02:53:42получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1647/
+02:53:42начали парсинг
+02:53:42Запуск парсинга своей страницы
+02:53:44------------------------ Начало парсинга продукта с индексом: 21 ------------------------
+02:53:44получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-125-2/
+02:53:44начали парсинг
+02:53:44Запуск парсинга своей страницы
+02:53:45парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1647/, получили http://magia-sveta.ru/product/1647
+02:53:45сайт магия света
+02:53:46парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-125-2/, получили http://magia-sveta.ru/product/1252-Strotskis
+02:53:46сайт магия света
+02:53:47цена товара = <7420 руб.>
+02:53:47цена товара = <5230 руб.>
+02:53:50------------------------ Начало парсинга продукта с индексом: 22 ------------------------
+02:53:50получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-235-1/
+02:53:50начали парсинг
+02:53:50Запуск парсинга своей страницы
+02:53:50------------------------ Начало парсинга продукта с индексом: 16 ------------------------
+02:53:50получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-213-1/
+02:53:50начали парсинг
+02:53:50Запуск парсинга своей страницы
+02:53:52парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-235-1/, получили http://magia-sveta.ru/product/2351
+02:53:52сайт магия света
+02:53:52парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-213-1/, получили http://magia-sveta.ru/product/2131
+02:53:52сайт магия света
+02:53:52цена товара = <1870 руб.>
+02:53:53цена товара = <1376 руб.>
+02:53:54------------------------ Начало парсинга продукта с индексом: 23 ------------------------
+02:53:54получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16070-roksana/
+02:53:54начали парсинг
+02:53:54Запуск парсинга своей страницы
+02:53:55------------------------ Начало парсинга продукта с индексом: 17 ------------------------
+02:53:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-701-1/
+02:53:55начали парсинг
+02:53:55Запуск парсинга своей страницы
+02:53:57парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16070-roksana/, получили http://magia-sveta.ru/product/16070-Roksana
+02:53:57сайт магия света
+02:53:57цена товара = <4750 руб.>
+02:53:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-701-1/, получили http://magia-sveta.ru/product/7011
+02:53:58сайт магия света
+02:53:59цена товара = <2120 руб.>
+02:54:00------------------------ Начало парсинга продукта с индексом: 18 ------------------------
+02:54:00получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-124-2/
+02:54:00начали парсинг
+02:54:00Запуск парсинга своей страницы
+02:54:01------------------------ Начало парсинга продукта с индексом: 24 ------------------------
+02:54:01получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18380/
+02:54:01начали парсинг
+02:54:01Запуск парсинга своей страницы
+02:54:03парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-124-2/, получили http://magia-sveta.ru/product/1242
+02:54:03сайт магия света
+02:54:03парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18380/, получили http://magia-sveta.ru/product/18380
+02:54:03сайт магия света
+02:54:03цена товара = <7430 руб.>
+02:54:03цена товара = <4490 руб.>
+02:54:05------------------------ Начало парсинга продукта с индексом: 19 ------------------------
+02:54:05получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-212-1/
+02:54:05начали парсинг
+02:54:05Запуск парсинга своей страницы
+02:54:06------------------------ Начало парсинга продукта с индексом: 25 ------------------------
+02:54:06получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-200-medalistka/
+02:54:06начали парсинг
+02:54:06Запуск парсинга своей страницы
+02:54:08парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-200-medalistka/, получили http://magia-sveta.ru/product/200-Medalistka
+02:54:08сайт магия света
+02:54:08парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-212-1/, получили http://magia-sveta.ru/product/2121
+02:54:08сайт магия света
+02:54:08цена товара = <5950 руб.>
+02:54:08цена товара = <2030 руб.>
+02:54:11------------------------ Начало парсинга продукта с индексом: 20 ------------------------
+02:54:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-602-1/
+02:54:11начали парсинг
+02:54:11Запуск парсинга своей страницы
+02:54:11------------------------ Начало парсинга продукта с индексом: 26 ------------------------
+02:54:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21350-magnat-venge/
+02:54:11начали парсинг
+02:54:11Запуск парсинга своей страницы
+02:54:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-602-1/, получили http://magia-sveta.ru/product/6021
+02:54:13сайт магия света
+02:54:13цена товара = <4360 руб.>
+02:54:14парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21350-magnat-venge/, получили http://magia-sveta.ru/product/21350-Magnat-Venge
+02:54:14сайт магия света
+02:54:14цена товара = <3620 руб.>
+02:54:17------------------------ Начало парсинга продукта с индексом: 21 ------------------------
+02:54:17получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-125-2/
+02:54:17начали парсинг
+02:54:17Запуск парсинга своей страницы
+02:54:18------------------------ Начало парсинга продукта с индексом: 27 ------------------------
+02:54:18получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16450/
+02:54:18начали парсинг
+02:54:18Запуск парсинга своей страницы
+02:54:19парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-125-2/, получили http://magia-sveta.ru/product/1252-Strotskis
+02:54:19сайт магия света
+02:54:20цена товара = <7420 руб.>
+02:54:20парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16450/, получили http://magia-sveta.ru/product/16450
+02:54:20сайт магия света
+02:54:21цена товара = <1265 руб.>
+02:54:23------------------------ Начало парсинга продукта с индексом: 28 ------------------------
+02:54:23получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15740-fuji/
+02:54:23начали парсинг
+02:54:23Запуск парсинга своей страницы
+02:54:24------------------------ Начало парсинга продукта с индексом: 22 ------------------------
+02:54:24получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-235-1/
+02:54:24начали парсинг
+02:54:24Запуск парсинга своей страницы
+02:54:26парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15740-fuji/, получили http://magia-sveta.ru/product/15740-Fuji
+02:54:26сайт магия света
+02:54:26цена товара = <2696 руб.>
+02:54:28парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-bogate-s-235-1/, получили http://magia-sveta.ru/product/2351
+02:54:28сайт магия света
+02:54:29цена товара = <1870 руб.>
+02:54:30------------------------ Начало парсинга продукта с индексом: 29 ------------------------
+02:54:30получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18530-roksana/
+02:54:30начали парсинг
+02:54:30Запуск парсинга своей страницы
+02:54:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18530-roksana/, получили http://magia-sveta.ru/product/18530-Roksana
+02:54:33сайт магия света
+02:54:34цена товара = <4790 руб.>
+02:54:34------------------------ Начало парсинга продукта с индексом: 23 ------------------------
+02:54:34получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16070-roksana/
+02:54:34начали парсинг
+02:54:34Запуск парсинга своей страницы
+02:54:37парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16070-roksana/, получили http://magia-sveta.ru/product/16070-Roksana
+02:54:37сайт магия света
+02:54:37цена товара = <4750 руб.>
+02:54:37------------------------ Начало парсинга продукта с индексом: 30 ------------------------
+02:54:37получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19070/
+02:54:37начали парсинг
+02:54:37Запуск парсинга своей страницы
+02:54:40------------------------ Начало парсинга продукта с индексом: 24 ------------------------
+02:54:40получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18380/
+02:54:40начали парсинг
+02:54:40Запуск парсинга своей страницы
+02:54:40парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19070/, получили http://magia-sveta.ru/product/19070
+02:54:40сайт магия света
+02:54:41цена товара = <2160 руб.>
+02:54:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18380/, получили http://magia-sveta.ru/product/18380
+02:54:43сайт магия света
+02:54:43цена товара = <4490 руб.>
+02:54:46------------------------ Начало парсинга продукта с индексом: 25 ------------------------
+02:54:46получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-200-medalistka/
+02:54:46начали парсинг
+02:54:46Запуск парсинга своей страницы
+02:54:46------------------------ Начало парсинга продукта с индексом: 31 ------------------------
+02:54:46получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15810-bluszcz/
+02:54:46начали парсинг
+02:54:46Запуск парсинга своей страницы
+02:54:49парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-200-medalistka/, получили http://magia-sveta.ru/product/200-Medalistka
+02:54:49сайт магия света
+02:54:49парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15810-bluszcz/, получили http://magia-sveta.ru/product/15810-Bluszcz
+02:54:49сайт магия света
+02:54:49цена товара = <5950 руб.>
+02:54:49цена товара = <2090 руб.>
+02:54:51------------------------ Начало парсинга продукта с индексом: 26 ------------------------
+02:54:51получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21350-magnat-venge/
+02:54:51начали парсинг
+02:54:51Запуск парсинга своей страницы
+02:54:51------------------------ Начало парсинга продукта с индексом: 32 ------------------------
+02:54:51получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10660/
+02:54:51начали парсинг
+02:54:51Запуск парсинга своей страницы
+02:54:53парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21350-magnat-venge/, получили http://magia-sveta.ru/product/21350-Magnat-Venge
+02:54:53сайт магия света
+02:54:53парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10660/, получили http://magia-sveta.ru/product/10660
+02:54:53сайт магия света
+02:54:53цена товара = <3620 руб.>
+02:54:53цена товара = <3290 руб.>
+02:54:55------------------------ Начало парсинга продукта с индексом: 27 ------------------------
+02:54:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16450/
+02:54:55начали парсинг
+02:54:55Запуск парсинга своей страницы
+02:54:57------------------------ Начало парсинга продукта с индексом: 33 ------------------------
+02:54:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-1071/
+02:54:57начали парсинг
+02:54:57Запуск парсинга своей страницы
+02:54:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16450/, получили http://magia-sveta.ru/product/16450
+02:54:58сайт магия света
+02:54:58цена товара = <1265 руб.>
+02:54:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-1071/, получили http://magia-sveta.ru/product/1071
+02:54:59сайт магия света
+02:55:00цена товара = <1555 руб.>
+02:55:02------------------------ Начало парсинга продукта с индексом: 28 ------------------------
+02:55:02получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15740-fuji/
+02:55:02начали парсинг
+02:55:02Запуск парсинга своей страницы
+02:55:02------------------------ Начало парсинга продукта с индексом: 34 ------------------------
+02:55:02получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-209-tosca/
+02:55:02начали парсинг
+02:55:02Запуск парсинга своей страницы
+02:55:04парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15740-fuji/, получили http://magia-sveta.ru/product/15740-Fuji
+02:55:04сайт магия света
+02:55:04цена товара = <2696 руб.>
+02:55:05парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-209-tosca/, получили http://magia-sveta.ru/product/209-TOSCA
+02:55:05сайт магия света
+02:55:05цена товара = <1230 руб.>
+02:55:08------------------------ Начало парсинга продукта с индексом: 29 ------------------------
+02:55:08получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18530-roksana/
+02:55:08начали парсинг
+02:55:08Запуск парсинга своей страницы
+02:55:08------------------------ Начало парсинга продукта с индексом: 35 ------------------------
+02:55:08получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19010/
+02:55:08начали парсинг
+02:55:08Запуск парсинга своей страницы
+02:55:10парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18530-roksana/, получили http://magia-sveta.ru/product/18530-Roksana
+02:55:10сайт магия света
+02:55:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19010/, получили http://magia-sveta.ru/product/19010
+02:55:11сайт магия света
+02:55:11цена товара = <4790 руб.>
+02:55:11цена товара = <2928 руб.>
+02:55:14------------------------ Начало парсинга продукта с индексом: 30 ------------------------
+02:55:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19070/
+02:55:14начали парсинг
+02:55:14Запуск парсинга своей страницы
+02:55:14------------------------ Начало парсинга продукта с индексом: 36 ------------------------
+02:55:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18370/
+02:55:14начали парсинг
+02:55:14Запуск парсинга своей страницы
+02:55:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19070/, получили http://magia-sveta.ru/product/19070
+02:55:16сайт магия света
+02:55:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18370/, получили http://magia-sveta.ru/product/18370
+02:55:16сайт магия света
+02:55:17цена товара = <2160 руб.>
+02:55:17цена товара = <3104 руб.>
+02:55:19------------------------ Начало парсинга продукта с индексом: 37 ------------------------
+02:55:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10250/
+02:55:19начали парсинг
+02:55:19Запуск парсинга своей страницы
+02:55:19------------------------ Начало парсинга продукта с индексом: 31 ------------------------
+02:55:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15810-bluszcz/
+02:55:19начали парсинг
+02:55:19Запуск парсинга своей страницы
+02:55:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10250/, получили http://magia-sveta.ru/product/10250
+02:55:21сайт магия света
+02:55:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-15810-bluszcz/, получили http://magia-sveta.ru/product/15810-Bluszcz
+02:55:21сайт магия света
+02:55:22цена товара = <1680 руб.>
+02:55:22цена товара = <2090 руб.>
+02:55:24------------------------ Начало парсинга продукта с индексом: 32 ------------------------
+02:55:24получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10660/
+02:55:24начали парсинг
+02:55:24Запуск парсинга своей страницы
+02:55:25------------------------ Начало парсинга продукта с индексом: 38 ------------------------
+02:55:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10750/
+02:55:25начали парсинг
+02:55:25Запуск парсинга своей страницы
+02:55:27парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10660/, получили http://magia-sveta.ru/product/10660
+02:55:27сайт магия света
+02:55:28цена товара = <3290 руб.>
+02:55:28парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10750/, получили http://magia-sveta.ru/product/10750
+02:55:28сайт магия света
+02:55:28цена товара = <2550 руб.>
+02:55:30------------------------ Начало парсинга продукта с индексом: 39 ------------------------
+02:55:30получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16760/
+02:55:30начали парсинг
+02:55:30Запуск парсинга своей страницы
+02:55:30------------------------ Начало парсинга продукта с индексом: 33 ------------------------
+02:55:30получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-1071/
+02:55:30начали парсинг
+02:55:30Запуск парсинга своей страницы
+02:55:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16760/, получили http://magia-sveta.ru/product/16760
+02:55:32сайт магия света
+02:55:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-1071/, получили http://magia-sveta.ru/product/1071
+02:55:32сайт магия света
+02:55:33цена товара = <1405 руб.>
+02:55:33цена товара = <1555 руб.>
+02:55:36------------------------ Начало парсинга продукта с индексом: 40 ------------------------
+02:55:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21380-magnat/
+02:55:36начали парсинг
+02:55:36Запуск парсинга своей страницы
+02:55:37------------------------ Начало парсинга продукта с индексом: 34 ------------------------
+02:55:37получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-209-tosca/
+02:55:37начали парсинг
+02:55:37Запуск парсинга своей страницы
+02:55:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21380-magnat/, получили http://magia-sveta.ru/product/21380-Magnat
+02:55:38сайт магия света
+02:55:39цена товара = <3480 руб.>
+02:55:39парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-209-tosca/, получили http://magia-sveta.ru/product/209-TOSCA
+02:55:39сайт магия света
+02:55:39цена товара = <1230 руб.>
+02:55:41------------------------ Начало парсинга продукта с индексом: 41 ------------------------
+02:55:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18360/
+02:55:41начали парсинг
+02:55:41Запуск парсинга своей страницы
+02:55:42------------------------ Начало парсинга продукта с индексом: 35 ------------------------
+02:55:42получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19010/
+02:55:42начали парсинг
+02:55:42Запуск парсинга своей страницы
+02:55:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18360/, получили http://magia-sveta.ru/product/18360
+02:55:43сайт магия света
+02:55:43цена товара = <3832 руб.>
+02:55:44парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-19010/, получили http://magia-sveta.ru/product/19010
+02:55:44сайт магия света
+02:55:44цена товара = <2928 руб.>
+02:55:45------------------------ Начало парсинга продукта с индексом: 42 ------------------------
+02:55:45получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-22890-joga-red-ii/
+02:55:45начали парсинг
+02:55:45Запуск парсинга своей страницы
+02:55:47парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-22890-joga-red-ii/, получили http://magia-sveta.ru/product/22890-Joga-Red-II
+02:55:47сайт магия света
+02:55:48цена товара = <3480 руб.>
+02:55:48------------------------ Начало парсинга продукта с индексом: 36 ------------------------
+02:55:48получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18370/
+02:55:48начали парсинг
+02:55:48Запуск парсинга своей страницы
+02:55:52парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18370/, получили http://magia-sveta.ru/product/18370
+02:55:52сайт магия света
+02:55:52цена товара = <3104 руб.>
+02:55:52------------------------ Начало парсинга продукта с индексом: 43 ------------------------
+02:55:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14731-1-hrom-belyj/
+02:55:52начали парсинг
+02:55:52Запуск парсинга своей страницы
+02:55:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14731-1-hrom-belyj/, получили http://magia-sveta.ru/product/147311-xrombelyij
+02:55:54сайт магия света
+02:55:55------------------------ Начало парсинга продукта с индексом: 37 ------------------------
+02:55:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10250/
+02:55:55начали парсинг
+02:55:55Запуск парсинга своей страницы
+02:55:55цена товара = <1120 руб.>
+02:55:57парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10250/, получили http://magia-sveta.ru/product/10250
+02:55:57сайт магия света
+02:55:57цена товара = <1680 руб.>
+02:55:58------------------------ Начало парсинга продукта с индексом: 44 ------------------------
+02:55:58получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13921-1-hrom-venge/
+02:55:58начали парсинг
+02:55:58Запуск парсинга своей страницы
+02:56:00парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13921-1-hrom-venge/, получили http://magia-sveta.ru/product/139211-xromvenge
+02:56:00сайт магия света
+02:56:00------------------------ Начало парсинга продукта с индексом: 38 ------------------------
+02:56:00получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10750/
+02:56:00начали парсинг
+02:56:00Запуск парсинга своей страницы
+02:56:00цена товара = <1250 руб.>
+02:56:02парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10750/, получили http://magia-sveta.ru/product/10750
+02:56:02сайт магия света
+02:56:03цена товара = <2550 руб.>
+02:56:03------------------------ Начало парсинга продукта с индексом: 45 ------------------------
+02:56:03получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14891-1-belyj-s-zolotom/
+02:56:03начали парсинг
+02:56:03Запуск парсинга своей страницы
+02:56:06парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14891-1-belyj-s-zolotom/, получили http://magia-sveta.ru/product/148911-belyij-s-zolotom
+02:56:06сайт магия света
+02:56:07------------------------ Начало парсинга продукта с индексом: 39 ------------------------
+02:56:07получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16760/
+02:56:07начали парсинг
+02:56:07Запуск парсинга своей страницы
+02:56:07цена товара = <1020 руб.>
+02:56:10парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-16760/, получили http://magia-sveta.ru/product/16760
+02:56:10сайт магия света
+02:56:10цена товара = <1405 руб.>
+02:56:11------------------------ Начало парсинга продукта с индексом: 46 ------------------------
+02:56:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13931-1-hrom-venge/
+02:56:11начали парсинг
+02:56:11Запуск парсинга своей страницы
+02:56:14парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13931-1-hrom-venge/, получили http://magia-sveta.ru/product/139311-xromvenge
+02:56:14сайт магия света
+02:56:14------------------------ Начало парсинга продукта с индексом: 40 ------------------------
+02:56:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21380-magnat/
+02:56:14начали парсинг
+02:56:14Запуск парсинга своей страницы
+02:56:15цена товара = <1090 руб.>
+02:56:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-21380-magnat/, получили http://magia-sveta.ru/product/21380-Magnat
+02:56:16сайт магия света
+02:56:17------------------------ Начало парсинга продукта с индексом: 47 ------------------------
+02:56:17получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2742-1w/
+02:56:17начали парсинг
+02:56:17Запуск парсинга своей страницы
+02:56:17цена товара = <3480 руб.>
+02:56:19парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2742-1w/, получили http://magia-sveta.ru/product/27421W
+02:56:19сайт магия света
+02:56:19------------------------ Начало парсинга продукта с индексом: 41 ------------------------
+02:56:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18360/
+02:56:19начали парсинг
+02:56:19Запуск парсинга своей страницы
+02:56:19цена товара = <7841 руб.>
+02:56:22парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18360/, получили http://magia-sveta.ru/product/18360
+02:56:22сайт магия света
+02:56:22------------------------ Начало парсинга продукта с индексом: 48 ------------------------
+02:56:22получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-13250/
+02:56:22начали парсинг
+02:56:22Запуск парсинга своей страницы
+02:56:22цена товара = <3832 руб.>
+02:56:25парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-13250/, получили http://magia-sveta.ru/product/13250
+02:56:25сайт магия света
+02:56:25------------------------ Начало парсинга продукта с индексом: 42 ------------------------
+02:56:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-22890-joga-red-ii/
+02:56:25начали парсинг
+02:56:25Запуск парсинга своей страницы
+02:56:26цена товара = <2368 руб.>
+02:56:28парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-22890-joga-red-ii/, получили http://magia-sveta.ru/product/22890-Joga-Red-II
+02:56:28сайт магия света
+02:56:28цена товара = <3480 руб.>
+02:56:29------------------------ Начало парсинга продукта с индексом: 49 ------------------------
+02:56:29получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-11510-los-venge/
+02:56:29начали парсинг
+02:56:29Запуск парсинга своей страницы
+02:56:31------------------------ Начало парсинга продукта с индексом: 43 ------------------------
+02:56:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14731-1-hrom-belyj/
+02:56:31начали парсинг
+02:56:31Запуск парсинга своей страницы
+02:56:31парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-11510-los-venge/, получили http://magia-sveta.ru/product/11510-Los-Venge
+02:56:31сайт магия света
+02:56:31цена товара = <3050 руб.>
+02:56:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14731-1-hrom-belyj/, получили http://magia-sveta.ru/product/147311-xrombelyij
+02:56:33сайт магия света
+02:56:34цена товара = <1120 руб.>
+02:56:34------------------------ Начало парсинга продукта с индексом: 50 ------------------------
+02:56:34получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-130-atrium/
+02:56:34начали парсинг
+02:56:34Запуск парсинга своей страницы
+02:56:35------------------------ Начало парсинга продукта с индексом: 44 ------------------------
+02:56:35получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13921-1-hrom-venge/
+02:56:35начали парсинг
+02:56:35Запуск парсинга своей страницы
+02:56:37парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-130-atrium/, получили http://magia-sveta.ru/product/130-Atrium
+02:56:37сайт магия света
+02:56:37цена товара = <2120 руб.>
+02:56:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13921-1-hrom-venge/, получили http://magia-sveta.ru/product/139211-xromvenge
+02:56:38сайт магия света
+02:56:39цена товара = <1250 руб.>
+02:56:39------------------------ Начало парсинга продукта с индексом: 51 ------------------------
+02:56:39получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10440/
+02:56:39начали парсинг
+02:56:39Запуск парсинга своей страницы
+02:56:42------------------------ Начало парсинга продукта с индексом: 45 ------------------------
+02:56:42получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14891-1-belyj-s-zolotom/
+02:56:42начали парсинг
+02:56:42Запуск парсинга своей страницы
+02:56:42парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10440/, получили http://magia-sveta.ru/product/10440
+02:56:42сайт магия света
+02:56:42цена товара = <3730 руб.>
+02:56:44парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14891-1-belyj-s-zolotom/, получили http://magia-sveta.ru/product/148911-belyij-s-zolotom
+02:56:44сайт магия света
+02:56:44цена товара = <1020 руб.>
+02:56:44------------------------ Начало парсинга продукта с индексом: 52 ------------------------
+02:56:44получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-white/
+02:56:44начали парсинг
+02:56:44Запуск парсинга своей страницы
+02:56:46------------------------ Начало парсинга продукта с индексом: 46 ------------------------
+02:56:46получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13931-1-hrom-venge/
+02:56:46начали парсинг
+02:56:46Запуск парсинга своей страницы
+02:56:47парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-white/, получили http://magia-sveta.ru/product/MB2473B-1-WH
+02:56:47сайт магия света
+02:56:47цена товара = <4850 руб.>
+02:56:48парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-13931-1-hrom-venge/, получили http://magia-sveta.ru/product/139311-xromvenge
+02:56:48сайт магия света
+02:56:49цена товара = <1090 руб.>
+02:56:50------------------------ Начало парсинга продукта с индексом: 53 ------------------------
+02:56:50получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb102902-1a/
+02:56:50начали парсинг
+02:56:50Запуск парсинга своей страницы
+02:56:52------------------------ Начало парсинга продукта с индексом: 47 ------------------------
+02:56:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2742-1w/
+02:56:52начали парсинг
+02:56:52Запуск парсинга своей страницы
+02:56:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb102902-1a/, получили http://magia-sveta.ru/product/MB102902-1A
+02:56:54сайт магия света
+02:56:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-odeon-light-2742-1w/, получили http://magia-sveta.ru/product/27421W
+02:56:54сайт магия света
+02:56:55цена товара = <2695 руб.>
+02:56:55цена товара = <7841 руб.>
+02:56:57------------------------ Начало парсинга продукта с индексом: 48 ------------------------
+02:56:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-13250/
+02:56:57начали парсинг
+02:56:57Запуск парсинга своей страницы
+02:56:57------------------------ Начало парсинга продукта с индексом: 54 ------------------------
+02:56:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-black/
+02:56:57начали парсинг
+02:56:57Запуск парсинга своей страницы
+02:56:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-black/, получили http://magia-sveta.ru/product/MB2473B-1-BL
+02:56:59сайт магия света
+02:57:00парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-13250/, получили http://magia-sveta.ru/product/13250
+02:57:00сайт магия света
+02:57:00цена товара = <2590 руб.>
+02:57:01цена товара = <2368 руб.>
+02:57:04------------------------ Начало парсинга продукта с индексом: 49 ------------------------
+02:57:04получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-11510-los-venge/
+02:57:04начали парсинг
+02:57:04Запуск парсинга своей страницы
+02:57:05------------------------ Начало парсинга продукта с индексом: 55 ------------------------
+02:57:05получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb192a-2/
+02:57:05начали парсинг
+02:57:05Запуск парсинга своей страницы
+02:57:07парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-11510-los-venge/, получили http://magia-sveta.ru/product/11510-Los-Venge
+02:57:07сайт магия света
+02:57:07парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb192a-2/, получили http://magia-sveta.ru/product/MB192A2
+02:57:07сайт магия света
+02:57:07цена товара = <3050 руб.>
+02:57:07цена товара = <4830 руб.>
+02:57:09------------------------ Начало парсинга продукта с индексом: 50 ------------------------
+02:57:09получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-130-atrium/
+02:57:09начали парсинг
+02:57:09Запуск парсинга своей страницы
+02:57:10------------------------ Начало парсинга продукта с индексом: 56 ------------------------
+02:57:10получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-2-white/
+02:57:10начали парсинг
+02:57:10Запуск парсинга своей страницы
+02:57:12парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-tk-lighting-130-atrium/, получили http://magia-sveta.ru/product/130-Atrium
+02:57:12сайт магия света
+02:57:12парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-2-white/, получили http://magia-sveta.ru/product/MB2473B-2-white
+02:57:12сайт магия света
+02:57:12цена товара = <2120 руб.>
+02:57:13цена товара = <7690 руб.>
+02:57:14------------------------ Начало парсинга продукта с индексом: 57 ------------------------
+02:57:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-15-z-korichnevyj/
+02:57:14начали парсинг
+02:57:14Запуск парсинга своей страницы
+02:57:15------------------------ Начало парсинга продукта с индексом: 51 ------------------------
+02:57:15получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10440/
+02:57:15начали парсинг
+02:57:15Запуск парсинга своей страницы
+02:57:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-15-z-korichnevyj/, получили http://magia-sveta.ru/product/LUG-K-2-PA-15-Z-korichnevyij
+02:57:16сайт магия света
+02:57:17цена товара = <24080 руб.>
+02:57:17парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10440/, получили http://magia-sveta.ru/product/10440
+02:57:17сайт магия света
+02:57:18цена товара = <3730 руб.>
+02:57:19------------------------ Начало парсинга продукта с индексом: 58 ------------------------
+02:57:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-104-01/
+02:57:19начали парсинг
+02:57:19Запуск парсинга своей страницы
+02:57:20------------------------ Начало парсинга продукта с индексом: 52 ------------------------
+02:57:20получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-white/
+02:57:20начали парсинг
+02:57:20Запуск парсинга своей страницы
+02:57:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-104-01/, получили http://magia-sveta.ru/product/300110401
+02:57:21сайт магия света
+02:57:21цена товара = <720 руб.>
+02:57:22парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-white/, получили http://magia-sveta.ru/product/MB2473B-1-WH
+02:57:22сайт магия света
+02:57:23цена товара = <4850 руб.>
+02:57:25------------------------ Начало парсинга продукта с индексом: 53 ------------------------
+02:57:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb102902-1a/
+02:57:25начали парсинг
+02:57:25Запуск парсинга своей страницы
+02:57:26------------------------ Начало парсинга продукта с индексом: 59 ------------------------
+02:57:26получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-101-01/
+02:57:26начали парсинг
+02:57:26Запуск парсинга своей страницы
+02:57:28парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-101-01/, получили http://magia-sveta.ru/product/300110101
+02:57:28сайт магия света
+02:57:29цена товара = <740 руб.>
+02:57:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb102902-1a/, получили http://magia-sveta.ru/product/MB102902-1A
+02:57:29сайт магия света
+02:57:29цена товара = <2695 руб.>
+02:57:31------------------------ Начало парсинга продукта с индексом: 54 ------------------------
+02:57:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-black/
+02:57:31начали парсинг
+02:57:31Запуск парсинга своей страницы
+02:57:31------------------------ Начало парсинга продукта с индексом: 60 ------------------------
+02:57:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-102-01/
+02:57:31начали парсинг
+02:57:31Запуск парсинга своей страницы
+02:57:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-1-black/, получили http://magia-sveta.ru/product/MB2473B-1-BL
+02:57:33сайт магия света
+02:57:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-102-01/, получили http://magia-sveta.ru/product/300110201
+02:57:33сайт магия света
+02:57:34цена товара = <2590 руб.>
+02:57:34цена товара = <770 руб.>
+02:57:36------------------------ Начало парсинга продукта с индексом: 55 ------------------------
+02:57:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb192a-2/
+02:57:36начали парсинг
+02:57:36Запуск парсинга своей страницы
+02:57:38------------------------ Начало парсинга продукта с индексом: 61 ------------------------
+02:57:38получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-pal-kd-1-p-patina/
+02:57:38начали парсинг
+02:57:38Запуск парсинга своей страницы
+02:57:39парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb192a-2/, получили http://magia-sveta.ru/product/MB192A2
+02:57:39сайт магия света
+02:57:40цена товара = <4830 руб.>
+02:57:41парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-pal-kd-1-p-patina/, получили http://magia-sveta.ru/product/PAL-KD-1-P-SW
+02:57:41сайт магия света
+02:57:41цена товара = <21560 руб.>
+02:57:44------------------------ Начало парсинга продукта с индексом: 56 ------------------------
+02:57:44получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-2-white/
+02:57:44начали парсинг
+02:57:44Запуск парсинга своей страницы
+02:57:47------------------------ Начало парсинга продукта с индексом: 62 ------------------------
+02:57:47получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-02-g/
+02:57:47начали парсинг
+02:57:47Запуск парсинга своей страницы
+02:57:47парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-italux-mb2473b-2-white/, получили http://magia-sveta.ru/product/MB2473B-2-white
+02:57:47сайт магия света
+02:57:48цена товара = <7690 руб.>
+02:57:50парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-02-g/, получили http://magia-sveta.ru/product/ARM247-02-G
+02:57:50сайт магия света
+02:57:50цена товара = <6520 руб.>
+02:57:51------------------------ Начало парсинга продукта с индексом: 57 ------------------------
+02:57:51получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-15-z-korichnevyj/
+02:57:51начали парсинг
+02:57:51Запуск парсинга своей страницы
+02:57:53------------------------ Начало парсинга продукта с индексом: 63 ------------------------
+02:57:53получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm288-01-g/
+02:57:53начали парсинг
+02:57:53Запуск парсинга своей страницы
+02:57:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-15-z-korichnevyj/, получили http://magia-sveta.ru/product/LUG-K-2-PA-15-Z-korichnevyij
+02:57:54сайт магия света
+02:57:54цена товара = <24080 руб.>
+02:57:56парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm288-01-g/, получили http://magia-sveta.ru/product/ARM288-01-G
+02:57:56сайт магия света
+02:57:56цена товара = <4370 руб.>
+02:57:56------------------------ Начало парсинга продукта с индексом: 58 ------------------------
+02:57:56получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-104-01/
+02:57:56начали парсинг
+02:57:56Запуск парсинга своей страницы
+02:57:59------------------------ Начало парсинга продукта с индексом: 64 ------------------------
+02:57:59получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eglo-95609/
+02:57:59начали парсинг
+02:57:59Запуск парсинга своей страницы
+02:57:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-104-01/, получили http://magia-sveta.ru/product/300110401
+02:57:59сайт магия света
+02:57:59цена товара = <720 руб.>
+02:58:01парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eglo-95609/, получили http://magia-sveta.ru/product/95609
+02:58:01сайт магия света
+02:58:01цена товара = <2090 руб.>
+02:58:01------------------------ Начало парсинга продукта с индексом: 59 ------------------------
+02:58:01получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-101-01/
+02:58:01начали парсинг
+02:58:01Запуск парсинга своей страницы
+02:58:04парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-101-01/, получили http://magia-sveta.ru/product/300110101
+02:58:04сайт магия света
+02:58:04------------------------ Начало парсинга продукта с индексом: 65 ------------------------
+02:58:04получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-768-sikorka/
+02:58:04начали парсинг
+02:58:04Запуск парсинга своей страницы
+02:58:04цена товара = <740 руб.>
+02:58:06парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-768-sikorka/, получили http://magia-sveta.ru/product/768-Sikorka
+02:58:06сайт магия света
+02:58:07------------------------ Начало парсинга продукта с индексом: 60 ------------------------
+02:58:07получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-102-01/
+02:58:07начали парсинг
+02:58:07Запуск парсинга своей страницы
+02:58:07цена товара = <2568 руб.>
+02:58:09парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-shatten-3001-102-01/, получили http://magia-sveta.ru/product/300110201
+02:58:09сайт магия света
+02:58:09цена товара = <770 руб.>
+02:58:10------------------------ Начало парсинга продукта с индексом: 66 ------------------------
+02:58:10получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2512/
+02:58:10начали парсинг
+02:58:10Запуск парсинга своей страницы
+02:58:12------------------------ Начало парсинга продукта с индексом: 61 ------------------------
+02:58:12получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-pal-kd-1-p-patina/
+02:58:12начали парсинг
+02:58:12Запуск парсинга своей страницы
+02:58:12парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2512/, получили http://magia-sveta.ru/product/2512
+02:58:12сайт магия света
+02:58:12цена товара = <3760 руб.>
+02:58:14парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-pal-kd-1-p-patina/, получили http://magia-sveta.ru/product/PAL-KD-1-P-SW
+02:58:14сайт магия света
+02:58:15цена товара = <21560 руб.>
+02:58:16------------------------ Начало парсинга продукта с индексом: 67 ------------------------
+02:58:16получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18410/
+02:58:16начали парсинг
+02:58:16Запуск парсинга своей страницы
+02:58:18------------------------ Начало парсинга продукта с индексом: 62 ------------------------
+02:58:18получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-02-g/
+02:58:18начали парсинг
+02:58:18Запуск парсинга своей страницы
+02:58:19парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18410/, получили http://magia-sveta.ru/product/18410
+02:58:19сайт магия света
+02:58:20цена товара = <3880 руб.>
+02:58:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-02-g/, получили http://magia-sveta.ru/product/ARM247-02-G
+02:58:21сайт магия света
+02:58:21цена товара = <6520 руб.>
+02:58:23------------------------ Начало парсинга продукта с индексом: 68 ------------------------
+02:58:23получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-z-zoloto/
+02:58:23начали парсинг
+02:58:23Запуск парсинга своей страницы
+02:58:24------------------------ Начало парсинга продукта с индексом: 63 ------------------------
+02:58:24получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm288-01-g/
+02:58:24начали парсинг
+02:58:24Запуск парсинга своей страницы
+02:58:25парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-z-zoloto/, получили http://magia-sveta.ru/product/SAN-K-1-Z
+02:58:25сайт магия света
+02:58:26цена товара = <8624 руб.>
+02:58:26парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm288-01-g/, получили http://magia-sveta.ru/product/ARM288-01-G
+02:58:26сайт магия света
+02:58:27цена товара = <4370 руб.>
+02:58:28------------------------ Начало парсинга продукта с индексом: 69 ------------------------
+02:58:28получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-1-p-a-01-patina-bezhevo-zolotoj/
+02:58:28начали парсинг
+02:58:28Запуск парсинга своей страницы
+02:58:28------------------------ Начало парсинга продукта с индексом: 64 ------------------------
+02:58:28получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eglo-95609/
+02:58:28начали парсинг
+02:58:28Запуск парсинга своей страницы
+02:58:30парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-1-p-a-01-patina-bezhevo-zolotoj/, получили http://magia-sveta.ru/product/N-K-1-Pa-01-patinabezhevo-zolotoj
+02:58:30сайт магия света
+02:58:30парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eglo-95609/, получили http://magia-sveta.ru/product/95609
+02:58:30сайт магия света
+02:58:31цена товара = <8200 руб.>
+02:58:31цена товара = <2090 руб.>
+02:58:34------------------------ Начало парсинга продукта с индексом: 65 ------------------------
+02:58:34получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-768-sikorka/
+02:58:34начали парсинг
+02:58:34Запуск парсинга своей страницы
+02:58:34------------------------ Начало парсинга продукта с индексом: 70 ------------------------
+02:58:34получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-p-a-10-z-bezhevyj/
+02:58:34начали парсинг
+02:58:34Запуск парсинга своей страницы
+02:58:37парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-768-sikorka/, получили http://magia-sveta.ru/product/768-Sikorka
+02:58:37сайт магия света
+02:58:37парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-p-a-10-z-bezhevyj/, получили http://magia-sveta.ru/product/LUG-K-1-PA-10-Z-bezhevyij
+02:58:37сайт магия света
+02:58:38цена товара = <2568 руб.>
+02:58:38цена товара = <15000 руб.>
+02:58:41------------------------ Начало парсинга продукта с индексом: 66 ------------------------
+02:58:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2512/
+02:58:41начали парсинг
+02:58:41Запуск парсинга своей страницы
+02:58:42------------------------ Начало парсинга продукта с индексом: 71 ------------------------
+02:58:42получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-vit-k-1-p-patina/
+02:58:42начали парсинг
+02:58:42Запуск парсинга своей страницы
+02:58:44парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-2512/, получили http://magia-sveta.ru/product/2512
+02:58:44сайт магия света
+02:58:45цена товара = <3760 руб.>
+02:58:45парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-vit-k-1-p-patina/, получили http://magia-sveta.ru/product/VIT-K-1-P-patina
+02:58:45сайт магия света
+02:58:46цена товара = <8800 руб.>
+02:58:47------------------------ Начало парсинга продукта с индексом: 67 ------------------------
+02:58:47получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18410/
+02:58:47начали парсинг
+02:58:47Запуск парсинга своей страницы
+02:58:49------------------------ Начало парсинга продукта с индексом: 72 ------------------------
+02:58:49получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-03-beloe-zoloto-belyj/
+02:58:49начали парсинг
+02:58:49Запуск парсинга своей страницы
+02:58:51парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-18410/, получили http://magia-sveta.ru/product/18410
+02:58:51сайт магия света
+02:58:51цена товара = <3880 руб.>
+02:58:51парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-03-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-2-BZA-03-belyij
+02:58:51сайт магия света
+02:58:52цена товара = <26110 руб.>
+02:58:54------------------------ Начало парсинга продукта с индексом: 73 ------------------------
+02:58:54получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lid-k-1-p-ecru-patina-bezhevyj/
+02:58:54начали парсинг
+02:58:54Запуск парсинга своей страницы
+02:58:55------------------------ Начало парсинга продукта с индексом: 68 ------------------------
+02:58:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-z-zoloto/
+02:58:55начали парсинг
+02:58:55Запуск парсинга своей страницы
+02:58:56парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lid-k-1-p-ecru-patina-bezhevyj/, получили http://magia-sveta.ru/product/LID-K-1-P-ECRU-bezhevyij
+02:58:56сайт магия света
+02:58:57цена товара = <10070 руб.>
+02:58:57парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-z-zoloto/, получили http://magia-sveta.ru/product/SAN-K-1-Z
+02:58:57сайт магия света
+02:58:57цена товара = <8624 руб.>
+02:58:59------------------------ Начало парсинга продукта с индексом: 74 ------------------------
+02:58:59получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-por-k-1-p-a-13-z-patina-belyj/
+02:58:59начали парсинг
+02:58:59Запуск парсинга своей страницы
+02:59:00------------------------ Начало парсинга продукта с индексом: 69 ------------------------
+02:59:00получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-1-p-a-01-patina-bezhevo-zolotoj/
+02:59:00начали парсинг
+02:59:00Запуск парсинга своей страницы
+02:59:02парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-por-k-1-p-a-13-z-patina-belyj/, получили http://magia-sveta.ru/product/POR-K-1-PA-13-Z-belyij
+02:59:02сайт магия света
+02:59:03парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-1-p-a-01-patina-bezhevo-zolotoj/, получили http://magia-sveta.ru/product/N-K-1-Pa-01-patinabezhevo-zolotoj
+02:59:03сайт магия света
+02:59:03цена товара = <17360 руб.>
+02:59:03цена товара = <8200 руб.>
+02:59:06------------------------ Начало парсинга продукта с индексом: 70 ------------------------
+02:59:06получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-p-a-10-z-bezhevyj/
+02:59:06начали парсинг
+02:59:06Запуск парсинга своей страницы
+02:59:06------------------------ Начало парсинга продукта с индексом: 75 ------------------------
+02:59:06получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-a-sr-10-1-z-patina-bezhevyj/
+02:59:06начали парсинг
+02:59:06Запуск парсинга своей страницы
+02:59:08парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-p-a-10-z-bezhevyj/, получили http://magia-sveta.ru/product/LUG-K-1-PA-10-Z-bezhevyij
+02:59:08сайт магия света
+02:59:09цена товара = <15000 руб.>
+02:59:09парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-a-sr-10-1-z-patina-bezhevyj/, получили http://magia-sveta.ru/product/BIB-K-1PA-SR-10-1-Z-bezhevyij
+02:59:09сайт магия света
+02:59:09цена товара = <21640 руб.>
+02:59:11------------------------ Начало парсинга продукта с индексом: 71 ------------------------
+02:59:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-vit-k-1-p-patina/
+02:59:11начали парсинг
+02:59:11Запуск парсинга своей страницы
+02:59:12------------------------ Начало парсинга продукта с индексом: 76 ------------------------
+02:59:12получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-sor-k-1-p-patina/
+02:59:12начали парсинг
+02:59:12Запуск парсинга своей страницы
+02:59:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-vit-k-1-p-patina/, получили http://magia-sveta.ru/product/VIT-K-1-P-patina
+02:59:13сайт магия света
+02:59:14цена товара = <8800 руб.>
+02:59:15парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-sor-k-1-p-patina/, получили http://magia-sveta.ru/product/SOR-K-1-P
+02:59:15сайт магия света
+02:59:15цена товара = <10070 руб.>
+02:59:17------------------------ Начало парсинга продукта с индексом: 72 ------------------------
+02:59:17получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-03-beloe-zoloto-belyj/
+02:59:17начали парсинг
+02:59:17Запуск парсинга своей страницы
+02:59:18------------------------ Начало парсинга продукта с индексом: 77 ------------------------
+02:59:18получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-04-patina-korichnevyj/
+02:59:18начали парсинг
+02:59:18Запуск парсинга своей страницы
+02:59:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-03-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-2-BZA-03-belyij
+02:59:21сайт магия света
+02:59:21цена товара = <26110 руб.>
+02:59:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-04-patina-korichnevyj/, получили http://magia-sveta.ru/product/LUG-K-2-PA-04-korichnevyij
+02:59:21сайт магия света
+02:59:22цена товара = <20110 руб.>
+02:59:24------------------------ Начало парсинга продукта с индексом: 73 ------------------------
+02:59:24получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lid-k-1-p-ecru-patina-bezhevyj/
+02:59:24начали парсинг
+02:59:24Запуск парсинга своей страницы
+02:59:25------------------------ Начало парсинга продукта с индексом: 78 ------------------------
+02:59:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-rom-k-2-p-patina/
+02:59:25начали парсинг
+02:59:25Запуск парсинга своей страницы
+02:59:27парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lid-k-1-p-ecru-patina-bezhevyj/, получили http://magia-sveta.ru/product/LID-K-1-P-ECRU-bezhevyij
+02:59:27сайт магия света
+02:59:28цена товара = <10070 руб.>
+02:59:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-rom-k-2-p-patina/, получили http://magia-sveta.ru/product/ROM-K-2-P
+02:59:29сайт магия света
+02:59:29цена товара = <34650 руб.>
+02:59:31------------------------ Начало парсинга продукта с индексом: 79 ------------------------
+02:59:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-p-patina/
+02:59:31начали парсинг
+02:59:31Запуск парсинга своей страницы
+02:59:31------------------------ Начало парсинга продукта с индексом: 74 ------------------------
+02:59:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-por-k-1-p-a-13-z-patina-belyj/
+02:59:31начали парсинг
+02:59:31Запуск парсинга своей страницы
+02:59:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-por-k-1-p-a-13-z-patina-belyj/, получили http://magia-sveta.ru/product/POR-K-1-PA-13-Z-belyij
+02:59:33сайт магия света
+02:59:33парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-p-patina/, получили http://magia-sveta.ru/product/BIB-K-1P-P-patina
+02:59:33сайт магия света
+02:59:33цена товара = <17360 руб.>
+02:59:33цена товара = <24048 руб.>
+02:59:35------------------------ Начало парсинга продукта с индексом: 75 ------------------------
+02:59:35получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-a-sr-10-1-z-patina-bezhevyj/
+02:59:35начали парсинг
+02:59:35Запуск парсинга своей страницы
+02:59:36------------------------ Начало парсинга продукта с индексом: 80 ------------------------
+02:59:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-obd-k-1-p-patina/
+02:59:36начали парсинг
+02:59:36Запуск парсинга своей страницы
+02:59:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-a-sr-10-1-z-patina-bezhevyj/, получили http://magia-sveta.ru/product/BIB-K-1PA-SR-10-1-Z-bezhevyij
+02:59:38сайт магия света
+02:59:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-obd-k-1-p-patina/, получили http://magia-sveta.ru/product/OBD-K-1-P
+02:59:38сайт магия света
+02:59:38цена товара = <21640 руб.>
+02:59:39цена товара = <8180 руб.>
+02:59:41------------------------ Начало парсинга продукта с индексом: 81 ------------------------
+02:59:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-p-patina/
+02:59:41начали парсинг
+02:59:41Запуск парсинга своей страницы
+02:59:41------------------------ Начало парсинга продукта с индексом: 76 ------------------------
+02:59:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-sor-k-1-p-patina/
+02:59:41начали парсинг
+02:59:41Запуск парсинга своей страницы
+02:59:42парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-p-patina/, получили http://magia-sveta.ru/product/SAN-K-1-P
+02:59:42сайт магия света
+02:59:43цена товара = <10360 руб.>
+02:59:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-sor-k-1-p-patina/, получили http://magia-sveta.ru/product/SOR-K-1-P
+02:59:43сайт магия света
+02:59:43цена товара = <10070 руб.>
+02:59:45------------------------ Начало парсинга продукта с индексом: 82 ------------------------
+02:59:45получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-art-k-1-n-17/
+02:59:45начали парсинг
+02:59:45Запуск парсинга своей страницы
+02:59:46------------------------ Начало парсинга продукта с индексом: 77 ------------------------
+02:59:46получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-04-patina-korichnevyj/
+02:59:46начали парсинг
+02:59:46Запуск парсинга своей страницы
+02:59:47парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-art-k-1-n-17/, получили http://magia-sveta.ru/product/ART-K-1N-17
+02:59:47сайт магия света
+02:59:48парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-p-a-04-patina-korichnevyj/, получили http://magia-sveta.ru/product/LUG-K-2-PA-04-korichnevyij
+02:59:48сайт магия света
+02:59:48цена товара = <25640 руб.>
+02:59:48цена товара = <20110 руб.>
+02:59:51------------------------ Начало парсинга продукта с индексом: 83 ------------------------
+02:59:51получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-n-a-11-s-nikel-belyj/
+02:59:51начали парсинг
+02:59:51Запуск парсинга своей страницы
+02:59:52------------------------ Начало парсинга продукта с индексом: 78 ------------------------
+02:59:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-rom-k-2-p-patina/
+02:59:52начали парсинг
+02:59:52Запуск парсинга своей страницы
+02:59:53парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-n-a-11-s-nikel-belyj/, получили http://magia-sveta.ru/product/LUG-K-1-NA-11-S-belyij
+02:59:53сайт магия света
+02:59:54цена товара = <16890 руб.>
+02:59:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-rom-k-2-p-patina/, получили http://magia-sveta.ru/product/ROM-K-2-P
+02:59:54сайт магия света
+02:59:54цена товара = <34650 руб.>
+02:59:57------------------------ Начало парсинга продукта с индексом: 84 ------------------------
+02:59:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-13-z-beloe-zoloto-belyj/
+02:59:57начали парсинг
+02:59:57Запуск парсинга своей страницы
+02:59:57------------------------ Начало парсинга продукта с индексом: 79 ------------------------
+02:59:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-p-patina/
+02:59:57начали парсинг
+02:59:57Запуск парсинга своей страницы
+02:59:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-13-z-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-2-BZA-13-Z-belyij
+02:59:59сайт магия света
+03:00:00цена товара = <26110 руб.>
+03:00:00парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bib-k-1-p-p-patina/, получили http://magia-sveta.ru/product/BIB-K-1P-P-patina
+03:00:00сайт магия света
+03:00:01цена товара = <24048 руб.>
+03:00:04------------------------ Начало парсинга продукта с индексом: 85 ------------------------
+03:00:04получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-z-a-04-korichnevyj/
+03:00:04начали парсинг
+03:00:04Запуск парсинга своей страницы
+03:00:06------------------------ Начало парсинга продукта с индексом: 80 ------------------------
+03:00:06получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-obd-k-1-p-patina/
+03:00:06начали парсинг
+03:00:06Запуск парсинга своей страницы
+03:00:07парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-z-a-04-korichnevyj/, получили http://magia-sveta.ru/product/LUG-K-1-ZA-01-bezhevo-zolotoj
+03:00:07сайт магия света
+03:00:08цена товара = <13210 руб.>
+03:00:09парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-obd-k-1-p-patina/, получили http://magia-sveta.ru/product/OBD-K-1-P
+03:00:09сайт магия света
+03:00:09цена товара = <8180 руб.>
+03:00:10------------------------ Начало парсинга продукта с индексом: 86 ------------------------
+03:00:10получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-10-1-z-beloe-zoloto-bezhevyj/
+03:00:10начали парсинг
+03:00:10Запуск парсинга своей страницы
+03:00:12------------------------ Начало парсинга продукта с индексом: 81 ------------------------
+03:00:12получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-p-patina/
+03:00:12начали парсинг
+03:00:12Запуск парсинга своей страницы
+03:00:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-10-1-z-beloe-zoloto-bezhevyj/, получили http://magia-sveta.ru/product/LUG-K-1-BZA-10-1-Z-bezhevyij
+03:00:13сайт магия света
+03:00:14цена товара = <15830 руб.>
+03:00:15парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-1-p-patina/, получили http://magia-sveta.ru/product/SAN-K-1-P
+03:00:15сайт магия света
+03:00:16цена товара = <10360 руб.>
+03:00:18------------------------ Начало парсинга продукта с индексом: 87 ------------------------
+03:00:18получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-13-z-beloe-zoloto-belyj/
+03:00:18начали парсинг
+03:00:18Запуск парсинга своей страницы
+03:00:19------------------------ Начало парсинга продукта с индексом: 82 ------------------------
+03:00:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-art-k-1-n-17/
+03:00:19начали парсинг
+03:00:19Запуск парсинга своей страницы
+03:00:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-art-k-1-n-17/, получили http://magia-sveta.ru/product/ART-K-1N-17
+03:00:21сайт магия света
+03:00:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-13-z-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-1-BZA-13-Z-belyij
+03:00:21сайт магия света
+03:00:21цена товара = <25640 руб.>
+03:00:22цена товара = <15830 руб.>
+03:00:25------------------------ Начало парсинга продукта с индексом: 83 ------------------------
+03:00:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-n-a-11-s-nikel-belyj/
+03:00:25начали парсинг
+03:00:25Запуск парсинга своей страницы
+03:00:25------------------------ Начало парсинга продукта с индексом: 88 ------------------------
+03:00:25получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-2-p-a-sw-01-bezhevo-zolotoj/
+03:00:25начали парсинг
+03:00:25Запуск парсинга своей страницы
+03:00:28парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-n-a-11-s-nikel-belyj/, получили http://magia-sveta.ru/product/LUG-K-1-NA-11-S-belyij
+03:00:28сайт магия света
+03:00:28парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-2-p-a-sw-01-bezhevo-zolotoj/, получили http://magia-sveta.ru/product/SAN-K-2-PA-SW-01-bezhevo-zolotoj
+03:00:28сайт магия света
+03:00:29цена товара = <17120 руб.>
+03:00:29цена товара = <16890 руб.>
+03:00:33------------------------ Начало парсинга продукта с индексом: 84 ------------------------
+03:00:33получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-13-z-beloe-zoloto-belyj/
+03:00:33начали парсинг
+03:00:33Запуск парсинга своей страницы
+03:00:33------------------------ Начало парсинга продукта с индексом: 89 ------------------------
+03:00:33получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-2-p-a-01-patina-bezhevo-zolotoj/
+03:00:33начали парсинг
+03:00:33Запуск парсинга своей страницы
+03:00:36парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-bz-a-13-z-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-2-BZA-13-Z-belyij
+03:00:36сайт магия света
+03:00:36парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-2-p-a-01-patina-bezhevo-zolotoj/, получили http://magia-sveta.ru/product/N-K-2-Pa-01-bezhevo-zolotoj
+03:00:36сайт магия света
+03:00:37цена товара = <12310 руб.>
+03:00:37цена товара = <26110 руб.>
+03:00:41------------------------ Начало парсинга продукта с индексом: 85 ------------------------
+03:00:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-z-a-04-korichnevyj/
+03:00:41начали парсинг
+03:00:41Запуск парсинга своей страницы
+03:00:41------------------------ Начало парсинга продукта с индексом: 90 ------------------------
+03:00:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-dec-k-1-p-patina/
+03:00:41начали парсинг
+03:00:41Запуск парсинга своей страницы
+03:00:44парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-z-a-04-korichnevyj/, получили http://magia-sveta.ru/product/LUG-K-1-ZA-01-bezhevo-zolotoj
+03:00:44сайт магия света
+03:00:45цена товара = <13210 руб.>
+03:00:46парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-dec-k-1-p-patina/, получили http://magia-sveta.ru/product/DEC-K-1-P
+03:00:46сайт магия света
+03:00:46цена товара = <8465 руб.>
+03:00:48------------------------ Начало парсинга продукта с индексом: 86 ------------------------
+03:00:48получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-10-1-z-beloe-zoloto-bezhevyj/
+03:00:48начали парсинг
+03:00:48Запуск парсинга своей страницы
+03:00:52парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-10-1-z-beloe-zoloto-bezhevyj/, получили http://magia-sveta.ru/product/LUG-K-1-BZA-10-1-Z-bezhevyij
+03:00:52сайт магия света
+03:00:52цена товара = <15830 руб.>
+03:00:52------------------------ Начало парсинга продукта с индексом: 91 ------------------------
+03:00:53получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-11-z-beloe-zoloto-belyj/
+03:00:53начали парсинг
+03:00:53Запуск парсинга своей страницы
+03:00:55------------------------ Начало парсинга продукта с индексом: 87 ------------------------
+03:00:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-13-z-beloe-zoloto-belyj/
+03:00:55начали парсинг
+03:00:55Запуск парсинга своей страницы
+03:00:55парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-11-z-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-1-BZA-11-Z-belyij
+03:00:55сайт магия света
+03:00:56цена товара = <15830 руб.>
+03:00:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-13-z-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-1-BZA-13-Z-belyij
+03:00:58сайт магия света
+03:00:59------------------------ Начало парсинга продукта с индексом: 92 ------------------------
+03:00:59получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-n-a-13-z-nikel-belyj/
+03:00:59начали парсинг
+03:00:59Запуск парсинга своей страницы
+03:00:59цена товара = <15830 руб.>
+03:01:02парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-n-a-13-z-nikel-belyj/, получили http://magia-sveta.ru/product/LUG-K-2-NA-13-Z-nikelbelyij
+03:01:02сайт магия света
+03:01:03------------------------ Начало парсинга продукта с индексом: 88 ------------------------
+03:01:03получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-2-p-a-sw-01-bezhevo-zolotoj/
+03:01:03начали парсинг
+03:01:03Запуск парсинга своей страницы
+03:01:03цена товара = <28700 руб.>
+03:01:05------------------------ Начало парсинга продукта с индексом: 93 ------------------------
+03:01:05получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bol-k-1-n-19/
+03:01:05начали парсинг
+03:01:05Запуск парсинга своей страницы
+03:01:06парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-san-k-2-p-a-sw-01-bezhevo-zolotoj/, получили http://magia-sveta.ru/product/SAN-K-2-PA-SW-01-bezhevo-zolotoj
+03:01:06сайт магия света
+03:01:06цена товара = <17120 руб.>
+03:01:09парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bol-k-1-n-19/, получили http://magia-sveta.ru/product/BOL-K-1N-19
+03:01:09сайт магия света
+03:01:09цена товара = <18920 руб.>
+03:01:10------------------------ Начало парсинга продукта с индексом: 89 ------------------------
+03:01:10получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-2-p-a-01-patina-bezhevo-zolotoj/
+03:01:10начали парсинг
+03:01:10Запуск парсинга своей страницы
+03:01:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-n-k-2-p-a-01-patina-bezhevo-zolotoj/, получили http://magia-sveta.ru/product/N-K-2-Pa-01-bezhevo-zolotoj
+03:01:13сайт магия света
+03:01:13------------------------ Начало парсинга продукта с индексом: 94 ------------------------
+03:01:13получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10050-1-belyj-s-serebrom-prozrachnyj-hrustal/
+03:01:13начали парсинг
+03:01:13Запуск парсинга своей страницы
+03:01:14цена товара = <12310 руб.>
+03:01:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10050-1-belyj-s-serebrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100501-belyij-s-serebromprozrachnyij-xrustal
+03:01:16сайт магия света
+03:01:16цена товара = <2630 руб.>
+03:01:17------------------------ Начало парсинга продукта с индексом: 90 ------------------------
+03:01:17получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-dec-k-1-p-patina/
+03:01:17начали парсинг
+03:01:17Запуск парсинга своей страницы
+03:01:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-dec-k-1-p-patina/, получили http://magia-sveta.ru/product/DEC-K-1-P
+03:01:21сайт магия света
+03:01:21цена товара = <8465 руб.>
+03:01:21------------------------ Начало парсинга продукта с индексом: 95 ------------------------
+03:01:21получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10002-1-belyj-s-zolotom-prozrachnyj-hrustal/
+03:01:21начали парсинг
+03:01:21Запуск парсинга своей страницы
+03:01:23------------------------ Начало парсинга продукта с индексом: 91 ------------------------
+03:01:23получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-11-z-beloe-zoloto-belyj/
+03:01:23начали парсинг
+03:01:23Запуск парсинга своей страницы
+03:01:23парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10002-1-belyj-s-zolotom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100021-belyij-s-zolotomprozrachnyij-xrustal
+03:01:23сайт магия света
+03:01:24цена товара = <1400 руб.>
+03:01:27парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-1-bz-a-11-z-beloe-zoloto-belyj/, получили http://magia-sveta.ru/product/LUG-K-1-BZA-11-Z-belyij
+03:01:27сайт магия света
+03:01:28цена товара = <15830 руб.>
+03:01:28------------------------ Начало парсинга продукта с индексом: 96 ------------------------
+03:01:28получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10049-1-belyj-s-serebrom-prozrachnyj-hrustal/
+03:01:28начали парсинг
+03:01:28Запуск парсинга своей страницы
+03:01:31------------------------ Начало парсинга продукта с индексом: 92 ------------------------
+03:01:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-n-a-13-z-nikel-belyj/
+03:01:31начали парсинг
+03:01:31Запуск парсинга своей страницы
+03:01:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10049-1-belyj-s-serebrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100491-belyij-s-serebromprozrachnyij-xrustal
+03:01:32сайт магия света
+03:01:33цена товара = <1690 руб.>
+03:01:35парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-lug-k-2-n-a-13-z-nikel-belyj/, получили http://magia-sveta.ru/product/LUG-K-2-NA-13-Z-nikelbelyij
+03:01:35сайт магия света
+03:01:37цена товара = <28700 руб.>
+03:01:37------------------------ Начало парсинга продукта с индексом: 97 ------------------------
+03:01:37получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10021-1-hrom-prozrachnyj-hrustal/
+03:01:37начали парсинг
+03:01:37Запуск парсинга своей страницы
+03:01:40парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10021-1-hrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100211-xromprozrachnyij-xrustal
+03:01:40сайт магия света
+03:01:40------------------------ Начало парсинга продукта с индексом: 93 ------------------------
+03:01:40получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bol-k-1-n-19/
+03:01:40начали парсинг
+03:01:40Запуск парсинга своей страницы
+03:01:41цена товара = <1830 руб.>
+03:01:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-kutek-bol-k-1-n-19/, получили http://magia-sveta.ru/product/BOL-K-1N-19
+03:01:43сайт магия света
+03:01:43цена товара = <18920 руб.>
+03:01:45------------------------ Начало парсинга продукта с индексом: 98 ------------------------
+03:01:45получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10009-1-zoloto-s-belym/
+03:01:45начали парсинг
+03:01:45Запуск парсинга своей страницы
+03:01:48------------------------ Начало парсинга продукта с индексом: 94 ------------------------
+03:01:48получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10050-1-belyj-s-serebrom-prozrachnyj-hrustal/
+03:01:48начали парсинг
+03:01:48Запуск парсинга своей страницы
+03:01:48парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10009-1-zoloto-s-belym/, получили http://magia-sveta.ru/product/100091-zoloto-s-belyim
+03:01:48сайт магия света
+03:01:49цена товара = <1520 руб.>
+03:01:52парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10050-1-belyj-s-serebrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100501-belyij-s-serebromprozrachnyij-xrustal
+03:01:52сайт магия света
+03:01:52цена товара = <2630 руб.>
+03:01:55------------------------ Начало парсинга продукта с индексом: 99 ------------------------
+03:01:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1567/
+03:01:55начали парсинг
+03:01:55Запуск парсинга своей страницы
+03:01:58------------------------ Начало парсинга продукта с индексом: 95 ------------------------
+03:01:58получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10002-1-belyj-s-zolotom-prozrachnyj-hrustal/
+03:01:58начали парсинг
+03:01:58Запуск парсинга своей страницы
+03:01:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1567/, получили http://magia-sveta.ru/product/1567
+03:01:58сайт магия света
+03:01:59цена товара = <4300 руб.>
+03:02:02парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10002-1-belyj-s-zolotom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100021-belyij-s-zolotomprozrachnyij-xrustal
+03:02:02сайт магия света
+03:02:02цена товара = <1400 руб.>
+03:02:05------------------------ Начало парсинга продукта с индексом: 100 ------------------------
+03:02:05получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1554/
+03:02:05начали парсинг
+03:02:05Запуск парсинга своей страницы
+03:02:07------------------------ Начало парсинга продукта с индексом: 96 ------------------------
+03:02:07получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10049-1-belyj-s-serebrom-prozrachnyj-hrustal/
+03:02:07начали парсинг
+03:02:07Запуск парсинга своей страницы
+03:02:09парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1554/, получили http://magia-sveta.ru/product/1554
+03:02:09сайт магия света
+03:02:10парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10049-1-belyj-s-serebrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100491-belyij-s-serebromprozrachnyij-xrustal
+03:02:10сайт магия света
+03:02:10цена товара = <4806 руб.>
+03:02:10цена товара = <1690 руб.>
+03:02:13------------------------ Начало парсинга продукта с индексом: 97 ------------------------
+03:02:13получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10021-1-hrom-prozrachnyj-hrustal/
+03:02:13начали парсинг
+03:02:13Запуск парсинга своей страницы
+03:02:13------------------------ Начало парсинга продукта с индексом: 101 ------------------------
+03:02:13получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1557/
+03:02:13начали парсинг
+03:02:13Запуск парсинга своей страницы
+03:02:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10021-1-hrom-prozrachnyj-hrustal/, получили http://magia-sveta.ru/product/100211-xromprozrachnyij-xrustal
+03:02:16сайт магия света
+03:02:17цена товара = <1830 руб.>
+03:02:17парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1557/, получили http://magia-sveta.ru/product/1557
+03:02:17сайт магия света
+03:02:18цена товара = <4310 руб.>
+03:02:20------------------------ Начало парсинга продукта с индексом: 98 ------------------------
+03:02:20получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10009-1-zoloto-s-belym/
+03:02:20начали парсинг
+03:02:20Запуск парсинга своей страницы
+03:02:22------------------------ Начало парсинга продукта с индексом: 102 ------------------------
+03:02:22получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1547/
+03:02:22начали парсинг
+03:02:22Запуск парсинга своей страницы
+03:02:23парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-10009-1-zoloto-s-belym/, получили http://magia-sveta.ru/product/100091-zoloto-s-belyim
+03:02:23сайт магия света
+03:02:23цена товара = <1520 руб.>
+03:02:25парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1547/, получили http://magia-sveta.ru/product/1547
+03:02:25сайт магия света
+03:02:26цена товара = <4730 руб.>
+03:02:27------------------------ Начало парсинга продукта с индексом: 99 ------------------------
+03:02:27получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1567/
+03:02:27начали парсинг
+03:02:27Запуск парсинга своей страницы
+03:02:31------------------------ Начало парсинга продукта с индексом: 103 ------------------------
+03:02:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14471-1-belyj-s-zolotom/
+03:02:31начали парсинг
+03:02:31Запуск парсинга своей страницы
+03:02:31парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1567/, получили http://magia-sveta.ru/product/1567
+03:02:31сайт магия света
+03:02:32цена товара = <4300 руб.>
+03:02:34парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14471-1-belyj-s-zolotom/, получили http://magia-sveta.ru/product/144711-belyij-s-zolotom
+03:02:34сайт магия света
+03:02:34цена товара = <1490 руб.>
+03:02:36------------------------ Начало парсинга продукта с индексом: 100 ------------------------
+03:02:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1554/
+03:02:36начали парсинг
+03:02:36Запуск парсинга своей страницы
+03:02:39------------------------ Начало парсинга продукта с индексом: 104 ------------------------
+03:02:39получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14511-1b-hrom-prozrachnyj/
+03:02:39начали парсинг
+03:02:39Запуск парсинга своей страницы
+03:02:40парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1554/, получили http://magia-sveta.ru/product/1554
+03:02:40сайт магия света
+03:02:40цена товара = <4806 руб.>
+03:02:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14511-1b-hrom-prozrachnyj/, получили http://magia-sveta.ru/product/145111B-xromprozrachnyij
+03:02:43сайт магия света
+03:02:43цена товара = <920 руб.>
+03:02:44------------------------ Начало парсинга продукта с индексом: 101 ------------------------
+03:02:44получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1557/
+03:02:44начали парсинг
+03:02:44Запуск парсинга своей страницы
+03:02:46парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1557/, получили http://magia-sveta.ru/product/1557
+03:02:46сайт магия света
+03:02:47------------------------ Начало парсинга продукта с индексом: 105 ------------------------
+03:02:47получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14941-1-belyj-s-zolotom/
+03:02:47начали парсинг
+03:02:47Запуск парсинга своей страницы
+03:02:47цена товара = <4310 руб.>
+03:02:51парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14941-1-belyj-s-zolotom/, получили http://magia-sveta.ru/product/149411-belyij-s-zolotom
+03:02:51сайт магия света
+03:02:52цена товара = <1020 руб.>
+03:02:52------------------------ Начало парсинга продукта с индексом: 102 ------------------------
+03:02:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1547/
+03:02:52начали парсинг
+03:02:52Запуск парсинга своей страницы
+03:02:55------------------------ Начало парсинга продукта с индексом: 106 ------------------------
+03:02:55получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-12030-paja/
+03:02:55начали парсинг
+03:02:55Запуск парсинга своей страницы
+03:02:56парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-mantra-1547/, получили http://magia-sveta.ru/product/1547
+03:02:56сайт магия света
+03:02:57цена товара = <4730 руб.>
+03:02:58парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-12030-paja/, получили http://magia-sveta.ru/product/12030-Paja
+03:02:58сайт магия света
+03:02:58цена товара = <2750 руб.>
+03:03:01------------------------ Начало парсинга продукта с индексом: 103 ------------------------
+03:03:01получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14471-1-belyj-s-zolotom/
+03:03:01начали парсинг
+03:03:01Запуск парсинга своей страницы
+03:03:03------------------------ Начало парсинга продукта с индексом: 107 ------------------------
+03:03:03получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10330-ewa-venge/
+03:03:03начали парсинг
+03:03:03Запуск парсинга своей страницы
+03:03:04парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14471-1-belyj-s-zolotom/, получили http://magia-sveta.ru/product/144711-belyij-s-zolotom
+03:03:04сайт магия света
+03:03:05цена товара = <1490 руб.>
+03:03:08парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10330-ewa-venge/, получили http://magia-sveta.ru/product/10330-Ewa-Venge
+03:03:08сайт магия света
+03:03:08цена товара = <2750 руб.>
+03:03:09------------------------ Начало парсинга продукта с индексом: 104 ------------------------
+03:03:09получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14511-1b-hrom-prozrachnyj/
+03:03:09начали парсинг
+03:03:09Запуск парсинга своей страницы
+03:03:11------------------------ Начало парсинга продукта с индексом: 108 ------------------------
+03:03:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm218-01-w/
+03:03:11начали парсинг
+03:03:11Запуск парсинга своей страницы
+03:03:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14511-1b-hrom-prozrachnyj/, получили http://magia-sveta.ru/product/145111B-xromprozrachnyij
+03:03:11сайт магия света
+03:03:11цена товара = <920 руб.>
+03:03:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm218-01-w/, получили http://magia-sveta.ru/product/ARM218-01-W
+03:03:13сайт магия света
+03:03:13цена товара = <2310 руб.>
+03:03:14------------------------ Начало парсинга продукта с индексом: 105 ------------------------
+03:03:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14941-1-belyj-s-zolotom/
+03:03:14начали парсинг
+03:03:14Запуск парсинга своей страницы
+03:03:15------------------------ Начало парсинга продукта с индексом: 109 ------------------------
+03:03:15получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm023-01-s/
+03:03:15начали парсинг
+03:03:15Запуск парсинга своей страницы
+03:03:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-vestini-14941-1-belyj-s-zolotom/, получили http://magia-sveta.ru/product/149411-belyij-s-zolotom
+03:03:16сайт магия света
+03:03:17цена товара = <1020 руб.>
+03:03:19парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm023-01-s/, получили http://magia-sveta.ru/product/ARM023-01-S
+03:03:19сайт магия света
+03:03:19цена товара = <4160 руб.>
+03:03:20------------------------ Начало парсинга продукта с индексом: 106 ------------------------
+03:03:20получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-12030-paja/
+03:03:20начали парсинг
+03:03:20Запуск парсинга своей страницы
+03:03:22парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-12030-paja/, получили http://magia-sveta.ru/product/12030-Paja
+03:03:22сайт магия света
+03:03:23цена товара = <2750 руб.>
+03:03:23------------------------ Начало парсинга продукта с индексом: 110 ------------------------
+03:03:23получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm290-01-w/
+03:03:23начали парсинг
+03:03:23Запуск парсинга своей страницы
+03:03:26парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm290-01-w/, получили http://magia-sveta.ru/product/ARM290-01-W
+03:03:26сайт магия света
+03:03:26------------------------ Начало парсинга продукта с индексом: 107 ------------------------
+03:03:26получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10330-ewa-venge/
+03:03:26начали парсинг
+03:03:26Запуск парсинга своей страницы
+03:03:27цена товара = <3970 руб.>
+03:03:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-alfa-10330-ewa-venge/, получили http://magia-sveta.ru/product/10330-Ewa-Venge
+03:03:29сайт магия света
+03:03:29------------------------ Начало парсинга продукта с индексом: 111 ------------------------
+03:03:29получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-01-g/
+03:03:29начали парсинг
+03:03:29Запуск парсинга своей страницы
+03:03:29цена товара = <2750 руб.>
+03:03:32------------------------ Начало парсинга продукта с индексом: 108 ------------------------
+03:03:32получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm218-01-w/
+03:03:32начали парсинг
+03:03:32Запуск парсинга своей страницы
+03:03:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-01-g/, получили http://magia-sveta.ru/product/ARM247-01-G
+03:03:32сайт магия света
+03:03:33цена товара = <4120 руб.>
+03:03:34парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm218-01-w/, получили http://magia-sveta.ru/product/ARM218-01-W
+03:03:34сайт магия света
+03:03:34цена товара = <2310 руб.>
+03:03:35------------------------ Начало парсинга продукта с индексом: 112 ------------------------
+03:03:35получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm540-01-w/
+03:03:35начали парсинг
+03:03:35Запуск парсинга своей страницы
+03:03:36------------------------ Начало парсинга продукта с индексом: 109 ------------------------
+03:03:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm023-01-s/
+03:03:36начали парсинг
+03:03:36Запуск парсинга своей страницы
+03:03:36парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm540-01-w/, получили http://magia-sveta.ru/product/ARM540-01-W
+03:03:36сайт магия света
+03:03:37цена товара = <4010 руб.>
+03:03:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm023-01-s/, получили http://magia-sveta.ru/product/ARM023-01-S
+03:03:38сайт магия света
+03:03:39цена товара = <4160 руб.>
+03:03:39------------------------ Начало парсинга продукта с индексом: 113 ------------------------
+03:03:39получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-b500-wb1-g/
+03:03:39начали парсинг
+03:03:39Запуск парсинга своей страницы
+03:03:41------------------------ Начало парсинга продукта с индексом: 110 ------------------------
+03:03:41получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm290-01-w/
+03:03:41начали парсинг
+03:03:41Запуск парсинга своей страницы
+03:03:41парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-b500-wb1-g/, получили http://magia-sveta.ru/product/B500-WB1-G
+03:03:41сайт магия света
+03:03:42цена товара = <6260 руб.>
+03:03:43парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm290-01-w/, получили http://magia-sveta.ru/product/ARM290-01-W
+03:03:43сайт магия света
+03:03:44цена товара = <3970 руб.>
+03:03:45------------------------ Начало парсинга продукта с индексом: 114 ------------------------
+03:03:45получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-01-r/
+03:03:45начали парсинг
+03:03:45Запуск парсинга своей страницы
+03:03:47парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-01-r/, получили http://magia-sveta.ru/product/ARM420-01-R
+03:03:47сайт магия света
+03:03:48------------------------ Начало парсинга продукта с индексом: 111 ------------------------
+03:03:48получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-01-g/
+03:03:48начали парсинг
+03:03:48Запуск парсинга своей страницы
+03:03:48цена товара = <3940 руб.>
+03:03:51парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm247-01-g/, получили http://magia-sveta.ru/product/ARM247-01-G
+03:03:51сайт магия света
+03:03:51цена товара = <4120 руб.>
+03:03:52------------------------ Начало парсинга продукта с индексом: 115 ------------------------
+03:03:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-02-g/
+03:03:52начали парсинг
+03:03:52Запуск парсинга своей страницы
+03:03:54парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-02-g/, получили http://magia-sveta.ru/product/ARM420-02-G
+03:03:54сайт магия света
+03:03:54------------------------ Начало парсинга продукта с индексом: 112 ------------------------
+03:03:54получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm540-01-w/
+03:03:54начали парсинг
+03:03:54Запуск парсинга своей страницы
+03:03:55цена товара = <6550 руб.>
+03:03:57парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm540-01-w/, получили http://magia-sveta.ru/product/ARM540-01-W
+03:03:57сайт магия света
+03:03:57цена товара = <4010 руб.>
+03:03:58------------------------ Начало парсинга продукта с индексом: 116 ------------------------
+03:03:58получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm257-01-g/
+03:03:58начали парсинг
+03:03:58Запуск парсинга своей страницы
+03:04:00------------------------ Начало парсинга продукта с индексом: 113 ------------------------
+03:04:00получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-b500-wb1-g/
+03:04:00начали парсинг
+03:04:00Запуск парсинга своей страницы
+03:04:00парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm257-01-g/, получили http://magia-sveta.ru/product/ARM257-01-G
+03:04:00сайт магия света
+03:04:01цена товара = <5140 руб.>
+03:04:03парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-b500-wb1-g/, получили http://magia-sveta.ru/product/B500-WB1-G
+03:04:03сайт магия света
+03:04:03цена товара = <6260 руб.>
+03:04:04------------------------ Начало парсинга продукта с индексом: 117 ------------------------
+03:04:04получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc003-01-r/
+03:04:04начали парсинг
+03:04:04Запуск парсинга своей страницы
+03:04:06------------------------ Начало парсинга продукта с индексом: 114 ------------------------
+03:04:06получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-01-r/
+03:04:06начали парсинг
+03:04:06Запуск парсинга своей страницы
+03:04:06парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc003-01-r/, получили http://magia-sveta.ru/product/TOC003-01-R
+03:04:06сайт магия света
+03:04:06цена товара = <3140 руб.>
+03:04:08парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-01-r/, получили http://magia-sveta.ru/product/ARM420-01-R
+03:04:08сайт магия света
+03:04:08цена товара = <3940 руб.>
+03:04:09------------------------ Начало парсинга продукта с индексом: 118 ------------------------
+03:04:09получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm392-01-w/
+03:04:09начали парсинг
+03:04:09Запуск парсинга своей страницы
+03:04:10парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm392-01-w/, получили http://magia-sveta.ru/product/ARM392-01-W
+03:04:10сайт магия света
+03:04:11цена товара = <3610 руб.>
+03:04:11------------------------ Начало парсинга продукта с индексом: 115 ------------------------
+03:04:11получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-02-g/
+03:04:11начали парсинг
+03:04:11Запуск парсинга своей страницы
+03:04:13парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm420-02-g/, получили http://magia-sveta.ru/product/ARM420-02-G
+03:04:13сайт магия света
+03:04:14цена товара = <6550 руб.>
+03:04:14------------------------ Начало парсинга продукта с индексом: 119 ------------------------
+03:04:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm326-01-w/
+03:04:14начали парсинг
+03:04:14Запуск парсинга своей страницы
+03:04:16------------------------ Начало парсинга продукта с индексом: 116 ------------------------
+03:04:16получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm257-01-g/
+03:04:16начали парсинг
+03:04:16Запуск парсинга своей страницы
+03:04:17парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm326-01-w/, получили http://magia-sveta.ru/product/ARM326-01-W
+03:04:17сайт магия света
+03:04:18цена товара = <3580 руб.>
+03:04:18парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm257-01-g/, получили http://magia-sveta.ru/product/ARM257-01-G
+03:04:18сайт магия света
+03:04:19цена товара = <5140 руб.>
+03:04:20------------------------ Начало парсинга продукта с индексом: 117 ------------------------
+03:04:20получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc003-01-r/
+03:04:20начали парсинг
+03:04:20Запуск парсинга своей страницы
+03:04:21------------------------ Начало парсинга продукта с индексом: 120 ------------------------
+03:04:21получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm093-01-r/
+03:04:21начали парсинг
+03:04:21Запуск парсинга своей страницы
+03:04:22парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc003-01-r/, получили http://magia-sveta.ru/product/TOC003-01-R
+03:04:22сайт магия света
+03:04:23цена товара = <3140 руб.>
+03:04:23парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm093-01-r/, получили http://magia-sveta.ru/product/ARM093-01-R
+03:04:23сайт магия света
+03:04:24цена товара = <4160 руб.>
+03:04:24------------------------ Начало парсинга продукта с индексом: 118 ------------------------
+03:04:24получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm392-01-w/
+03:04:24начали парсинг
+03:04:24Запуск парсинга своей страницы
+03:04:26------------------------ Начало парсинга продукта с индексом: 121 ------------------------
+03:04:26получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc005-01-n/
+03:04:26начали парсинг
+03:04:26Запуск парсинга своей страницы
+03:04:26парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm392-01-w/, получили http://magia-sveta.ru/product/ARM392-01-W
+03:04:26сайт магия света
+03:04:27цена товара = <3610 руб.>
+03:04:29парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc005-01-n/, получили http://magia-sveta.ru/product/TOC005-01-N
+03:04:29сайт магия света
+03:04:29цена товара = <2670 руб.>
+03:04:30------------------------ Начало парсинга продукта с индексом: 119 ------------------------
+03:04:30получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm326-01-w/
+03:04:30начали парсинг
+03:04:30Запуск парсинга своей страницы
+03:04:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm326-01-w/, получили http://magia-sveta.ru/product/ARM326-01-W
+03:04:32сайт магия света
+03:04:32------------------------ Начало парсинга продукта с индексом: 122 ------------------------
+03:04:32получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-s200-wb1-n/
+03:04:32начали парсинг
+03:04:32Запуск парсинга своей страницы
+03:04:32цена товара = <3580 руб.>
+03:04:34------------------------ Начало парсинга продукта с индексом: 120 ------------------------
+03:04:34получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm093-01-r/
+03:04:34начали парсинг
+03:04:34Запуск парсинга своей страницы
+03:04:35парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-s200-wb1-n/, получили http://magia-sveta.ru/product/S200-WB1-N
+03:04:35сайт магия света
+03:04:35цена товара = <5280 руб.>
+03:04:37парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm093-01-r/, получили http://magia-sveta.ru/product/ARM093-01-R
+03:04:37сайт магия света
+03:04:37------------------------ Начало парсинга продукта с индексом: 123 ------------------------
+03:04:37получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm625-02-r/
+03:04:37начали парсинг
+03:04:37Запуск парсинга своей страницы
+03:04:37цена товара = <4160 руб.>
+03:04:39------------------------ Начало парсинга продукта с индексом: 121 ------------------------
+03:04:39получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc005-01-n/
+03:04:39начали парсинг
+03:04:39Запуск парсинга своей страницы
+03:04:39парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm625-02-r/, получили http://magia-sveta.ru/product/ARM625-02-R
+03:04:39сайт магия света
+03:04:40цена товара = <10230 руб.>
+03:04:41парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc005-01-n/, получили http://magia-sveta.ru/product/TOC005-01-N
+03:04:41сайт магия света
+03:04:42цена товара = <2670 руб.>
+03:04:43------------------------ Начало парсинга продукта с индексом: 124 ------------------------
+03:04:43получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm271-01-r/
+03:04:43начали парсинг
+03:04:43Запуск парсинга своей страницы
+03:04:46парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm271-01-r/, получили http://magia-sveta.ru/product/ARM271-01-R
+03:04:46сайт магия света
+03:04:46------------------------ Начало парсинга продукта с индексом: 122 ------------------------
+03:04:46получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-s200-wb1-n/
+03:04:46начали парсинг
+03:04:46Запуск парсинга своей страницы
+03:04:46цена товара = <4520 руб.>
+03:04:50парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-s200-wb1-n/, получили http://magia-sveta.ru/product/S200-WB1-N
+03:04:50сайт магия света
+03:04:50------------------------ Начало парсинга продукта с индексом: 125 ------------------------
+03:04:50получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-d783-wb1-g/
+03:04:50начали парсинг
+03:04:50Запуск парсинга своей страницы
+03:04:51цена товара = <5280 руб.>
+03:04:52парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-d783-wb1-g/, получили http://magia-sveta.ru/product/D783-WB1-G
+03:04:52сайт магия света
+03:04:52цена товара = <6850 руб.>
+03:04:53------------------------ Начало парсинга продукта с индексом: 123 ------------------------
+03:04:53получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm625-02-r/
+03:04:53начали парсинг
+03:04:53Запуск парсинга своей страницы
+03:04:55парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm625-02-r/, получили http://magia-sveta.ru/product/ARM625-02-R
+03:04:55сайт магия света
+03:04:55цена товара = <10230 руб.>
+03:04:57------------------------ Начало парсинга продукта с индексом: 126 ------------------------
+03:04:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc002-01-n/
+03:04:57начали парсинг
+03:04:57Запуск парсинга своей страницы
+03:04:58------------------------ Начало парсинга продукта с индексом: 124 ------------------------
+03:04:58получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm271-01-r/
+03:04:58начали парсинг
+03:04:58Запуск парсинга своей страницы
+03:04:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc002-01-n/, получили http://magia-sveta.ru/product/TOC002-01-N
+03:04:59сайт магия света
+03:05:00цена товара = <1600 руб.>
+03:05:00парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm271-01-r/, получили http://magia-sveta.ru/product/ARM271-01-R
+03:05:00сайт магия света
+03:05:00цена товара = <4520 руб.>
+03:05:02------------------------ Начало парсинга продукта с индексом: 125 ------------------------
+03:05:02получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-d783-wb1-g/
+03:05:02начали парсинг
+03:05:02Запуск парсинга своей страницы
+03:05:02------------------------ Начало парсинга продукта с индексом: 127 ------------------------
+03:05:02получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm031-01-w/
+03:05:02начали парсинг
+03:05:02Запуск парсинга своей страницы
+03:05:04парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-d783-wb1-g/, получили http://magia-sveta.ru/product/D783-WB1-G
+03:05:04сайт магия света
+03:05:05парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm031-01-w/, получили http://magia-sveta.ru/product/ARM031-01-W
+03:05:05сайт магия света
+03:05:05цена товара = <6850 руб.>
+03:05:05цена товара = <4800 руб.>
+03:05:08------------------------ Начало парсинга продукта с индексом: 126 ------------------------
+03:05:08получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc002-01-n/
+03:05:08начали парсинг
+03:05:08Запуск парсинга своей страницы
+03:05:08------------------------ Начало парсинга продукта с индексом: 128 ------------------------
+03:05:08получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm051-01-g/
+03:05:08начали парсинг
+03:05:08Запуск парсинга своей страницы
+03:05:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-toc002-01-n/, получили http://magia-sveta.ru/product/TOC002-01-N
+03:05:11сайт магия света
+03:05:11цена товара = <1600 руб.>
+03:05:11парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm051-01-g/, получили http://magia-sveta.ru/product/ARM051-01-G
+03:05:11сайт магия света
+03:05:12цена товара = <4010 руб.>
+03:05:14------------------------ Начало парсинга продукта с индексом: 127 ------------------------
+03:05:14получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm031-01-w/
+03:05:14начали парсинг
+03:05:14Запуск парсинга своей страницы
+03:05:15------------------------ Начало парсинга продукта с индексом: 129 ------------------------
+03:05:15получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm026-01-w/
+03:05:15начали парсинг
+03:05:15Запуск парсинга своей страницы
+03:05:16парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm031-01-w/, получили http://magia-sveta.ru/product/ARM031-01-W
+03:05:16сайт магия света
+03:05:17цена товара = <4800 руб.>
+03:05:17парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm026-01-w/, получили http://magia-sveta.ru/product/ARM026-01-W
+03:05:17сайт магия света
+03:05:17цена товара = <2980 руб.>
+03:05:19------------------------ Начало парсинга продукта с индексом: 128 ------------------------
+03:05:19получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm051-01-g/
+03:05:19начали парсинг
+03:05:19Запуск парсинга своей страницы
+03:05:21------------------------ Начало парсинга продукта с индексом: 130 ------------------------
+03:05:21получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm385-01-r/
+03:05:21начали парсинг
+03:05:21Запуск парсинга своей страницы
+03:05:21парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm051-01-g/, получили http://magia-sveta.ru/product/ARM051-01-G
+03:05:21сайт магия света
+03:05:22цена товара = <4010 руб.>
+03:05:24парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm385-01-r/, получили http://magia-sveta.ru/product/ARM385-01-R
+03:05:24сайт магия света
+03:05:24цена товара = <2960 руб.>
+03:05:26------------------------ Начало парсинга продукта с индексом: 129 ------------------------
+03:05:26получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm026-01-w/
+03:05:26начали парсинг
+03:05:26Запуск парсинга своей страницы
+03:05:27парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm026-01-w/, получили http://magia-sveta.ru/product/ARM026-01-W
+03:05:27сайт магия света
+03:05:28------------------------ Начало парсинга продукта с индексом: 131 ------------------------
+03:05:28получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-brizzi-ma02640w-001-chrome/
+03:05:28начали парсинг
+03:05:28Запуск парсинга своей страницы
+03:05:28цена товара = <2980 руб.>
+03:05:30парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-brizzi-ma02640w-001-chrome/, получили http://magia-sveta.ru/product/MA02640W001-Chrome
+03:05:30сайт магия света
+03:05:31------------------------ Начало парсинга продукта с индексом: 130 ------------------------
+03:05:31получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm385-01-r/
+03:05:31начали парсинг
+03:05:31Запуск парсинга своей страницы
+03:05:32парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-maytoni-arm385-01-r/, получили http://magia-sveta.ru/product/ARM385-01-R
+03:05:32сайт магия света
+03:05:34цена товара = <2940 руб.>
+03:05:34цена товара = <2960 руб.>
+03:05:36------------------------ Начало парсинга продукта с индексом: 132 ------------------------
+03:05:36получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1643-hrom-belyj/
+03:05:36начали парсинг
+03:05:36Запуск парсинга своей страницы
+03:05:37------------------------ Начало парсинга продукта с индексом: 131 ------------------------
+03:05:37получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-brizzi-ma02640w-001-chrome/
+03:05:37начали парсинг
+03:05:37Запуск парсинга своей страницы
+03:05:38парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1643-hrom-belyj/, получили http://magia-sveta.ru/product/1643-xrombelyij
+03:05:38сайт магия света
+03:05:39цена товара = <1260 руб.>
+03:05:39парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-brizzi-ma02640w-001-chrome/, получили http://magia-sveta.ru/product/MA02640W001-Chrome
+03:05:39сайт магия света
+03:05:40цена товара = <2940 руб.>
+03:05:42------------------------ Начало парсинга продукта с индексом: 133 ------------------------
+03:05:42получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1213/
+03:05:42начали парсинг
+03:05:42Запуск парсинга своей страницы
+03:05:43------------------------ Начало парсинга продукта с индексом: 132 ------------------------
+03:05:43получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1643-hrom-belyj/
+03:05:43начали парсинг
+03:05:43Запуск парсинга своей страницы
+03:05:45парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1213/, получили http://magia-sveta.ru/product/1213
+03:05:45сайт магия света
+03:05:45цена товара = <1608 руб.>
+03:05:45парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1643-hrom-belyj/, получили http://magia-sveta.ru/product/1643-xrombelyij
+03:05:45сайт магия света
+03:05:46цена товара = <1260 руб.>
+03:05:48------------------------ Начало парсинга продукта с индексом: 134 ------------------------
+03:05:48получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1219-a/
+03:05:48начали парсинг
+03:05:48Запуск парсинга своей страницы
+03:05:48------------------------ Начало парсинга продукта с индексом: 133 ------------------------
+03:05:48получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1213/
+03:05:48начали парсинг
+03:05:48Запуск парсинга своей страницы
+03:05:49парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1219-a/, получили http://magia-sveta.ru/product/1219A
+03:05:49сайт магия света
+03:05:50парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1213/, получили http://magia-sveta.ru/product/1213
+03:05:50сайт магия света
+03:05:50цена товара = <1768 руб.>
+03:05:50цена товара = <1608 руб.>
+03:05:52------------------------ Начало парсинга продукта с индексом: 134 ------------------------
+03:05:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1219-a/
+03:05:52начали парсинг
+03:05:52Запуск парсинга своей страницы
+03:05:52------------------------ Начало парсинга продукта с индексом: 135 ------------------------
+03:05:52получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-29803-1-antichnaya-bronza/
+03:05:52начали парсинг
+03:05:52Запуск парсинга своей страницы
+03:05:55парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-29803-1-antichnaya-bronza/, получили http://magia-sveta.ru/product/298031-antichnaya-bronza
+03:05:55сайт магия света
+03:05:56цена товара = <1504 руб.>
+03:05:56парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-soneks-1219-a/, получили http://magia-sveta.ru/product/1219A
+03:05:56сайт магия света
+03:05:56цена товара = <1768 руб.>
+03:05:57------------------------ Начало парсинга продукта с индексом: 136 ------------------------
+03:05:57получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-lightstar-782620/
+03:05:57начали парсинг
+03:05:57Запуск парсинга своей страницы
+03:05:59парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-lightstar-782620/, получили http://magia-sveta.ru/product/782620
+03:05:59сайт магия света
+03:05:59------------------------ Начало парсинга продукта с индексом: 135 ------------------------
+03:05:59получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-29803-1-antichnaya-bronza/
+03:05:59начали парсинг
+03:05:59Запуск парсинга своей страницы
+03:06:02парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-eurosvet-29803-1-antichnaya-bronza/, получили http://magia-sveta.ru/product/298031-antichnaya-bronza
+03:06:02сайт магия света
+03:06:02цена товара = <1504 руб.>
+03:06:05------------------------ Начало парсинга продукта с индексом: 136 ------------------------
+03:06:05получили товар: http://mnogosveta.su/product/nastennyj-svetilnik-bra-lightstar-782620/
+03:06:05начали парсинг
+03:06:05Запуск парсинга своей страницы
+03:06:07парсили http://mnogosveta.su/product/nastennyj-svetilnik-bra-lightstar-782620/, получили http://magia-sveta.ru/product/782620
+03:06:07сайт магия света
