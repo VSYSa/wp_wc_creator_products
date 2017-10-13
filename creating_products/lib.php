@@ -229,35 +229,7 @@ function upload_products(){
     }
     mysql_query('INSERT INTO `creating_products`.`errors_log` (`time`, `error_code`, `data`) VALUES ('.time().', 111, "end")');
 }
-/*
-function insert_product_with_data(&$url,&$html,$id){
 
-    $data=pars($url,$html);
-    if(is_array($data)){
-        mysql_query('INSERT INTO `found_products`(`product_url`, `product_status`) VALUES ("'.mysql_real_escape_string($url).'",1)');
-        mysql_query('
-            UPDATE `found_products`
-            SET
-                `product_status`=3,
-                `title`="'.mysql_real_escape_string($data['title']).'",
-                `quantity`="'.mysql_real_escape_string($data['quantity']).'",
-                `price`="'.mysql_real_escape_string($data['price']).'",
-                `sku`="'.mysql_real_escape_string($data['sku']).'",
-                `category`="'.mysql_real_escape_string($data['category']).'",
-                `image`='.check_is_NULL(mysql_real_escape_string($data['image'])).',
-                `base_color`='.check_is_NULL(mysql_real_escape_string($data['base_color'])).',
-                `plafond_color`='.check_is_NULL(mysql_real_escape_string($data['plafond_color'])).',
-                `brand`='.check_is_NULL(mysql_real_escape_string($data['brand'])).',
-                `lamp_base`='.check_is_NULL(mysql_real_escape_string($data['lamp_base'])).',
-                `voltage`='.check_is_NULL(mysql_real_escape_string($data['voltage'])).',
-                `power`='.check_is_NULL(mysql_real_escape_string($data['power'])).',
-                `quantity_lamps`='.check_is_NULL(mysql_real_escape_string($data['quantity_lamps'])).'
-            WHERE  `product_url`="'.$url.'"');
-    }
-    unset($data);
-    return;
-}
-*/
 function insert_product_with_data(&$url,&$html){
 
     $data=pars($url,$html);
@@ -299,6 +271,7 @@ function insert_product_with_data(&$url,&$html){
     unset($data);
     return;
 }
+
 function pars(&$url,&$html){
     if(preg_match ( '/magia-sveta.ru/' ,  $url )) {
         return(pars_magia_sveta($url,$html));
@@ -312,6 +285,7 @@ function pars(&$url,&$html){
         return;
     }
 }
+
 function pars_magia_sveta(&$url,&$html){
 
     if($html->innertext==''){
@@ -369,7 +343,7 @@ function pars_magia_sveta(&$url,&$html){
                 $lamp_base = $atribut->find('td.value', 0)->innertext;
             } elseif($atribut->find('td.name span',0)->innertext=='Напряжение'){
                 $voltage=$atribut->find('td.value',0)->innertext;
-                $voltage=preg_replace('/[^0-9]/','',$voltage);
+                $voltage=preg_replace('/[^0-9\-]/','',$voltage);
             }
             elseif ($atribut->find('td.name span', 0)->innertext == 'Макс. мощность одной лампы') {
                 $power = $atribut->find('td.value', 0)->innertext;
@@ -403,9 +377,57 @@ function pars_magia_sveta(&$url,&$html){
 
 }
 function pars_electra(&$url,&$html){
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url ); // отправляем на
+    curl_setopt($ch, CURLOPT_HEADER, 1); // пустые заголовки
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); // возвратить то что вернул сервер
+
+    curl_setopt($ch, CURLOPT_MAXREDIRS, 10);
+    curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 30);// таймаут4
+
+    //curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true); // следовать за редиректами
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+    curl_setopt($ch, CURLOPT_POSTREDIR, 3);
+
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);// просто отключаем проверку сертификата
+    curl_setopt($ch, CURLOPT_COOKIEJAR, dirname(__FILE__).'/cookie.txt'); // сохранять куки в файл
+    curl_setopt($ch, CURLOPT_COOKIEFILE,  dirname(__FILE__).'/cookie.txt');
+    //curl_setopt($ch, CURLOPT_POST, 1); // использовать данные в post
+    curl_setopt($ch, CURLOPT_POSTFIELDS, array(
+        'USER_LOGIN'=>'potolok.plus2013',
+        'USER_PASSWORD'=>'89137758184',
+        'backurl'=>"$url",
+        'AUTH_FORM'=>'Y',
+        'TYPE'=>'AUTH',
+        'TYPE_NX'=>'AUTH',
+        'Login'=>'Войти',
+    ));
+    $result = curl_exec ($ch);
+
+    if(curl_getinfo($ch, CURLINFO_HTTP_CODE)!==200){
+        write_error('470','Страница товара не загрузилась.',$url);//если не загрузилась страничка, то error
+        return;
+    }
+
+    $html = str_get_html($result);
+    curl_close ($ch);
+    $out = $html -> find('div.nx-basket-byer');
+    $out = $out[data-cart];
+    preg_match('|{(.*?)}|sei', $out, $arr) ;
+    $data = json_decode($arr[0], true);
+    $quantiti = $data[ost];
+    $price = $data[price]*2;
+
+    if($quantiti==0){//есть ли запись "уточнить цену", то error
+        write_error('471','У товара нет цены, поэтому не парсим его.',$url);
+        return;
+    }
+    if($price==0){//если нет в наличии, то error
+        write_error('472','Товара нет в наличии, поэтому не парсим его.',$html->find('a.available-tab-open'));
+        return;
+    }
 
 
-    if($html->innertext!=''){
         $category = $html->find('nav.catalog-menu-block li.selected',0)->plaintext;
         $title= $html->find('div.main-inner h1',0)->innertext;
         $image_url= $html->find('div.prw-block img',0)->attr['src'];
@@ -447,15 +469,13 @@ function pars_electra(&$url,&$html){
                 $quantity_lamps=$atribut->find('td',0)->innertext;
             }
         }
-    }else{
-        return (array('error' => 'Page donot load'));
-    };
+
     
     $str = array(
         'product_url'=> $url,
         'title'=> $title,
-        'quantity' => 0,
-        'price' => 0,
+        'quantity' => $quantiti,
+        'price' => $price,
         'sku'=> '',
         'category'=> $category,
         'image' => $image_url,
